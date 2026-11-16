@@ -1,30 +1,3 @@
-# Phishing Simulator for Academics
-
-A campus-specific phishing-awareness platform developed for the Secure Systems
-Engineering course at the Indian Institute of Technology Hyderabad. The platform
-generates academic lures from a purpose-built dataset, scores their realism against a
-reference detector, and integrates the resulting templates into GoPhish for delivery and
-tracking. Intended for authorized security-awareness training and research only.
-
-Authors: Aditya Kolgane, Mohd Shozab, Ojas Varshney.
-
-## Overview
-
-GoPhish provides message delivery, template management and, by default, landing-page
-tracking. Two additional stages are provided by the project:
-
-1. **Generation** — retrieval-augmented lure generation grounded in real academic
-   phishing messages.
-2. **Analytics** — measurement of recipient susceptibility, intended to support a
-   coaching and re-testing cycle rather than a single click-rate figure.
-
-A controlled campaign was conducted end to end: a lookalike domain (`iitherp.in`)
-registered through Hostinger, authenticated mail delivery, a landing page modelled on the
-institute portal and hosted independently by the teaching assistant, and tracking
-implemented with Zeek. The campaign, its results and the threat model are documented in
-the accompanying project report and review presentation, submitted separately and not
-part of this repository.
-
 ## Repository layout
 
 | Path | Contents |
@@ -41,9 +14,6 @@ part of this repository.
 
 ## Setup
 
-A few large or sensitive items are intentionally excluded from version control
-(see `.gitignore`) and must be put in place locally before running the pipeline.
-
 1. **GoPhish.** Download the matching release from
    [github.com/gophish/gophish/releases](https://github.com/gophish/gophish/releases)
    (this project was built against v0.12.1) and extract it to
@@ -59,11 +29,9 @@ A few large or sensitive items are intentionally excluded from version control
    regenerated with `python SSE_Project_share/rag/build_index.py`.
 4. **Integration config.** Copy `SSE_Project_share/integration/config.example.json` to
    `config.json` in the same directory and fill in the GoPhish API key from its Settings
-   page; `config.json` is gitignored and must never be committed.
+   page.
 
 ## Procedure
-
-Each component is documented in its own README with exact invocations. In sequence:
 
 ```bash
 # 1. Dataset construction (one-time; downloads public corpora)
