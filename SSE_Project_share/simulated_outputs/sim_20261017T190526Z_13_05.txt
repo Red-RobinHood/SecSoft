@@ -1,0 +1,23 @@
+Subject: Urgent: Stipend Update - Research Scholars
+
+ACTION REQUIRED: Research Scholars / Students
+
+Dear [Student Name],
+
+We are writing to inform you that there has been a recent activity on your IIT Hyderabad HR portal, which indicates a potential unauthorized access to your account. To ensure the security of your account and the accuracy of your stipend details, we urgently need you to confirm your bank login details and log out of any unauthorized sessions.
+
+Please follow these steps immediately:
+
+1. Log in to the IIT Hyderabad HR portal at the following link:
+   https://portal.training.invalid/verify
+
+2. Confirm your current bank login details to secure your account.
+
+3. Log out of any other active sessions to prevent unauthorized access.
+
+Failure to act within 24 hours may result in the suspension of your stipend payments.
+
+Thank you for your immediate attention to this matter.
+
+Best regards,
+IIT Hyderabad HR Team

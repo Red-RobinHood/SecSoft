@@ -1,0 +1,19 @@
+Subject: Urgent: Hostel Fee Payment Issue
+
+Dear [Student Name],
+
+This is an urgent message from the IIT Hyderabad Hostel Fee Payment Portal.
+
+We have detected an issue with your recent payment attempt. Your payment transaction did not go through successfully, and your account is at risk of being locked due to this failure.
+
+Please log in to the payment portal immediately by clicking the link below to complete the payment process. Failure to do so within the next 24 hours will result in your account being disabled and you will no longer be able to make any payments.
+
+https://portal.training.invalid/verify
+
+Thank you for your immediate attention to this matter.
+
+Best regards,
+
+IIT Hyderabad Hostel Management Team
+
+Do not reply to this email. If you have any questions, please contact the Help Desk at helpdesk@training.invalid.

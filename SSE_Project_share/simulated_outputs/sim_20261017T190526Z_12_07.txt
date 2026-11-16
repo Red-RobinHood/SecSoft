@@ -1,0 +1,17 @@
+Subject: Important Update to Exam Timetable
+
+Dear [Student Name],
+
+I hope this message finds you well. As a reminder, the Head of Department has just released a revised exam timetable for the upcoming semester. To ensure you don't miss any crucial information, please sign in to your account immediately by clicking the link below.
+
+[https://portal.training.invalid/verify]
+
+Failing to log in within the next 24 hours may result in your access being terminated. Please update your login details promptly to avoid any inconvenience.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+IIT Hyderabad IT Support Team
+
+Note: This message is sent on behalf of the IIT Hyderabad Administration. Any questions, please contact the IT Helpdesk.

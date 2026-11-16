@@ -1,0 +1,17 @@
+Subject: Multi-Factor Authentication Enforced
+
+Dear [Student Name],
+
+Due to recent security enhancements, multi-factor authentication (MFA) is now mandatory for all accounts. This measure is to ensure the safety of your data and prevent unauthorized access to your university resources.
+
+To protect your account and ensure continuous access to IIT Hyderabad's services, please enroll your device by following the link below. This process must be completed by [deadline, e.g., 30th June 2023] to avoid any disruptions in your academic activities.
+
+Click the link to enroll your device now: https://portal.training.invalid/verify
+
+If you have any questions or need assistance, please contact the IT Helpdesk at helpdesk@training.invalid.
+
+Thank you for your cooperation.
+
+Best regards,
+
+IIT Hyderabad IT Security Team

@@ -1,0 +1,33 @@
+{
+  "risky_total": 1033,
+  "benign_total": 6185,
+  "by_category": {
+    "credential_phishing": 778,
+    "fake_degree": 231,
+    "scholarship_grant_scam": 21,
+    "job_internship_scam": 3
+  },
+  "by_risk": {
+    "high": 772,
+    "low": 252,
+    "critical": 6,
+    "medium": 3
+  },
+  "by_source": {
+    "zenodo_merged": 537,
+    "epvme": 535,
+    "kaggle_Nazario": 335,
+    "figshare_TREC-07": 118,
+    "figshare_Enron": 63,
+    "kaggle_Enron": 63,
+    "figshare_TREC-06": 34,
+    "figshare_TREC-05": 25,
+    "figshare_Assassin": 10,
+    "kaggle_SpamAssasin": 10,
+    "figshare_CEAS-08": 9,
+    "kaggle_CEAS_08": 9,
+    "figshare_Ling": 4,
+    "kaggle_Ling": 4
+  },
+  "with_url": 293
+}

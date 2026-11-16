@@ -1,0 +1,16 @@
+Subject: Failed Transaction in Hostel Fee Payment
+
+Dear [Student Name],
+
+I hope this message finds you well. We are writing to inform you that there has been a failed transaction in your recent attempt to pay the hostel fees via the payment portal. To ensure that your payment is processed successfully, please log in to the portal and try again.
+
+To avoid any inconvenience, we recommend you complete the payment process as soon as possible. If you have any issues, please visit the Finance Office or contact the IT Support Team for assistance.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+[Name]  
+Finance Department  
+IIT Hyderabad  
+finance@training.invalid

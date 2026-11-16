@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T190526Z",
+  "scenario": "new semester grade sheet published on the academic portal, log in to view",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "obvious",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00018",
+    "ACAD-R-00008",
+    "ACAD-R-00332",
+    "ACAD-R-00437"
+  ],
+  "subject": "Urgent: View Your New Grade Sheet Now!",
+  "body": "Dear [Student Name],\n\nWe are reaching out to inform you that your new grade sheet for the Spring 2023 semester has been published on the academic portal. \n\nTo ensure your grades are up-to-date and to avoid any discrepancies, you must log in immediately and review your results. Failure to do so within the next 24 hours will result in your account being suspended, and you will not be able to access any of your academic records until further notice.\n\nPlease click on the link below to log in to the portal:\n\nhttps://portal.training.invalid/verify\n\nBest regards,\n\nIIT Hyderabad\nAcademic Support Team",
+  "red_flags": []
+}

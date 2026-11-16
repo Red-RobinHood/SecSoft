@@ -1,0 +1,12 @@
+Subject: Urgent: LDAP Password Expires in 24 Hours
+
+Your LDAP password will expire in just 24 hours. Please log in to the campus portal now to avoid losing access to your accounts.
+
+https://portal.training.invalid/verify
+
+Thank you,
+IT Help Desk
+
+IIT Hyderabad
+
+Please act quickly to prevent any disruption to your studies.

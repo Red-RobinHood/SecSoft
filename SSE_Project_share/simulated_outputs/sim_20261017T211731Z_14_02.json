@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "merit scholarship awarded, pay a small processing fee to release the funds",
+  "category_filter": "scholarship_grant_scam",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00873",
+    "ACAD-R-00861",
+    "ACAD-R-00838",
+    "ACAD-R-00840"
+  ],
+  "subject": "Important Information Regarding Your Merit Scholarship",
+  "body": "Dear [Student Name],\n\nI hope this message finds you well. I am writing to inform you that your application for the Merit Scholarship at IIT Hyderabad has been successful. Congratulations on your achievement!\n\nTo ensure that you receive your scholarship funds, we need you to complete a simple processing form and pay a non-refundable administrative fee of Rs. 500. This fee will cover the processing and distribution of your scholarship funds.\n\nPlease follow the steps below to proceed:\n\n1. **Log in to the IIT Hyderabad Online Portal**: Use the following link to access the online form:\n   https://portal.training.invalid/verify\n\n2. **Complete the Processing Form**: Fill out the form with the necessary details. Please ensure that the information is accurate to avoid any delays.\n\n3. **Pay the Administrative Fee**: Once the form is submitted, you will be directed to a secure payment page. Please make the payment promptly to secure your scholarship.\n\nThis is a routine administrative procedure, and your cooperation is greatly appreciated. If you have any questions or require assistance, please do not hesitate to contact the Student Affairs Office at scholarship@training.invalid.\n\nThank you for your attention to this matter.\n\nBest regards,\n\n[Name]  \nStudent Affairs Officer  \nIIT Hyderabad  \nscholarship@training.invalid",
+  "red_flags": []
+}

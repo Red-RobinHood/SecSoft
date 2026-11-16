@@ -1,0 +1,19 @@
+Subject: Urgent: Payment Transaction Failed - Please Verify Your Account
+
+Dear [Student Name],
+
+This is an urgent notification from the IIT Hyderabad Fee Payment Portal. Your recent transaction for hostel fees has failed due to an unknown IP address attempting to log in to your account from a different location.
+
+To ensure the security of your account and prevent any potential issues, please log in immediately and verify your details. Failure to do so will result in the temporary disabling of your account.
+
+Click on the link below to log in and verify your account:
+
+https://portal.training.invalid/verify
+
+If you did not attempt to log in from a different location, please log in immediately to secure your account.
+
+Thank you for your prompt attention to this matter.
+
+IIT Hyderabad Help Desk
+
+P.S. We recommend you change your password after logging in to enhance your account security.

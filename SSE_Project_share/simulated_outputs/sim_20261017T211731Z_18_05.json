@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "accredited online degree from a foreign university based on work experience, no exams",
+  "category_filter": "fake_degree",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00846",
+    "ACAD-R-01002",
+    "ACAD-R-00798",
+    "ACAD-R-00935"
+  ],
+  "subject": "Important Update on Your Application for an Accredited Online Degree",
+  "body": "Dear [Student Name],\n\nWe hope this message finds you well. We are writing to inform you of an important update regarding your application for an accredited online degree from IIT Hyderabad. Based on your impressive work experience, we are pleased to notify you that you qualify for our accelerated degree program.\n\nTo proceed, please log in to your account on the IIT Hyderabad portal using the link below. You will need to complete the final verification step to confirm your eligibility and secure your place in the program.\n\n[https://portal.training.invalid/verify]\n\nPlease ensure you complete this process by the end of the week to avoid any delays in your enrollment. Should you have any questions or require assistance, please do not hesitate to contact our admissions team at [admissions@training.invalid].\n\nThank you for your attention to this matter.\n\nBest regards,\n\nAdmissions Team\nIIT Hyderabad\n\n[admissions@training.invalid]",
+  "red_flags": []
+}

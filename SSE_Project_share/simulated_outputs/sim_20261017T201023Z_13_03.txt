@@ -1,0 +1,22 @@
+Subject: HR, Payroll Review for Research Scholars
+
+ACTION REQUIRED: Research Scholars / Graduate Students
+
+Dear [Student Name],
+
+We are writing to inform you that the HR Department has initiated a payroll review for the current academic year. As part of this review, we need to confirm your bank login details to ensure accurate and timely disbursement of your stipend.
+
+Please take a moment to log into the HR portal and verify your bank account information. This is a mandatory step to avoid any delays in your stipend payments.
+
+Here are the steps to follow:
+1. Go to the HR portal: https://portal.training.invalid/verify
+2. Log in with your university credentials.
+3. Complete the required fields to update your bank details.
+
+ACTION REQUIRED: Please complete this task by [Specific Deadline, e.g., 30th June 2023]. Failure to do so may result in a delay in your stipend disbursement.
+
+Thank you for your cooperation.
+
+Best regards,
+Human Resources Department, IIT Hyderabad
+hr@training.invalid

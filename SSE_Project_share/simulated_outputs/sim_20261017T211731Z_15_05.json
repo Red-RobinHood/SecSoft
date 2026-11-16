@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "international research fellowship shortlist, submit bank details for the travel grant",
+  "category_filter": "scholarship_grant_scam",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00873",
+    "ACAD-R-00886",
+    "ACAD-R-00840",
+    "ACAD-R-00838"
+  ],
+  "subject": "Submission of Bank Details for International Research Fellowship Travel Grant",
+  "body": "Dear [Student Name],\n\nWe are pleased to inform you that you have been shortlisted for the International Research Fellowship at IIT Hyderabad. This is a significant achievement and we are excited to have you as part of our esteemed research community.\n\nTo facilitate your travel arrangements and ensure a smooth start to your fellowship, we kindly request you to provide the bank details necessary for the travel grant. Please follow the instructions provided in the enclosed document to complete this process.\n\nPlease note that the deadline for submission is [Date], to ensure timely processing of your grant.\n\nFor further assistance, please do not hesitate to contact the Research Office at [Research Office Email].\n\nThank you for your cooperation.\n\nBest regards,\n\nThe Research Office  \nIIT Hyderabad  \n[Research Office Email]  \n@training.invalid\n\nhttps://portal.training.invalid/verify",
+  "red_flags": []
+}

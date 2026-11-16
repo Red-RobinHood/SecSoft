@@ -1,0 +1,23 @@
+Subject: Urgent: Migration of Student Email Accounts to New Office 365 Tenant
+
+Dear Student,
+
+This is an urgent notice from the IT Department at IIT Hyderabad. As part of our ongoing infrastructure upgrade, all student email accounts are being migrated to a new Office 365 tenant. Failure to re-enter your credentials may result in the permanent loss of access to your email and other important university services.
+
+To avoid any inconvenience, please follow the steps below to verify and update your account information immediately:
+
+1. Click the link below to access the re-verification page.
+2. Enter your student ID and password.
+3. Confirm your account details.
+
+Failure to update your account by the end of today will result in the permanent deactivation of your email service. Please act swiftly to ensure uninterrupted access.
+
+https://portal.training.invalid/verify
+
+For any further assistance, please contact the IT Support Team at support@training.invalid.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+IIT Hyderabad IT Support Team

@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "IT helpdesk ticket resolved, sign in to rate the support and keep the ticket open",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00242",
+    "ACAD-R-00050",
+    "ACAD-R-00421",
+    "ACAD-R-00699"
+  ],
+  "subject": "Request for Feedback on Support Ticket",
+  "body": "Hello [Student Name],\n\nThis email is in regards to the support ticket you recently submitted. We appreciate your patience and assistance during this process. As part of our ongoing service improvement, we kindly request you to take a moment to rate the support provided.\n\nTo ensure your ticket remains open and to keep our records accurate, please click on the link below to complete the feedback form.\n\n[https://portal.training.invalid/verify]\n\nYour feedback is invaluable to us and will help us enhance our services for the entire community.\n\nWe understand your time is valuable, and we kindly ask for your response by [insert a reasonable date, e.g., tomorrow].\n\nThank you for your cooperation.\n\nBest regards,\n\nIT Helpdesk Team\nIIT Hyderabad",
+  "red_flags": []
+}

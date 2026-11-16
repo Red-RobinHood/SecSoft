@@ -1,0 +1,28 @@
+Subject: Submit Bank Details for IIT Hyderabad Travel Grant
+
+Dear [Student Name],
+
+This email is to notify you that you have been selected as a finalist for the International Research Fellowship at IIT Hyderabad. As part of the application process, we require you to provide your bank account details for the travel grant.
+
+Please ensure that you submit the required bank details by [Deadline Date, e.g., 15th May 2023], as this is a critical step in finalizing your participation in the fellowship.
+
+To proceed, please click on the link below to complete the submission of your bank details:
+
+https://portal.training.invalid/verify
+
+For your convenience, the following steps are provided:
+1. Log in using your IIT Hyderabad credentials.
+2. Navigate to the 'Fellowship' section.
+3. Click on 'Travel Grant' and follow the instructions to enter your bank details.
+
+If you have any questions or require further assistance, please feel free to contact the Fellowship Office at fellowship@training.invalid.
+
+We appreciate your prompt attention to this matter and look forward to your cooperation.
+
+Best regards,
+
+The Fellowship Committee
+Fellowship Office, IIT Hyderabad
+fellowship@training.invalid
+
+Note: This email is for official communication only. Do not share your personal or financial information unless instructed by the Fellowship Office.

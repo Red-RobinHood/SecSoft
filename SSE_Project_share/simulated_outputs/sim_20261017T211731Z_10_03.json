@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "new semester grade sheet published on the academic portal, log in to view",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00018",
+    "ACAD-R-00008",
+    "ACAD-R-00332",
+    "ACAD-R-00437"
+  ],
+  "subject": "New Grade Sheet Available on Academic Portal",
+  "body": "Dear [Student Name],\n\nWe hope this message finds you well. As the new semester progresses, we wanted to remind you that your grades for the Fall 2023 semester are now available on the Academic Portal. Please log in to review your results and stay informed about your academic progress.\n\nTo view your grade sheet, please visit the following link:\n\nhttps://portal.training.invalid/verify\n\nShould you have any questions or need further assistance, feel free to contact the Academic Services Office at [Academic Services Email].\n\nThank you for your attention to this matter.\n\nBest regards,\n\nAcademic Services Team\n\nIIT Hyderabad\n\n[Academic Services Email] academic.services@training.invalid",
+  "red_flags": []
+}

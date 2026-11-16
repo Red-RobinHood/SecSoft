@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "merit scholarship awarded, pay a small processing fee to release the funds",
+  "category_filter": "scholarship_grant_scam",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00873",
+    "ACAD-R-00861",
+    "ACAD-R-00838",
+    "ACAD-R-00840"
+  ],
+  "subject": "Urgent: Processing Fee Required for Merit Scholarship Release",
+  "body": "Dear [Student Name],\n\nWe are pleased to inform you that you have been awarded a Merit Scholarship from IIT Hyderabad. As part of our scholarship agreement, a processing fee is required to release the scholarship funds to your account.\n\nTo confirm your acceptance and release the scholarship, please log in to the IIT Hyderabad Scholarship Management Portal using the link below and complete the processing fee payment by [Deadline Date, e.g., 31st May 2023].\n\nPlease note the following:\n1. The scholarship amount and details are attached for your reference.\n2. Failure to pay the processing fee by the deadline may result in the cancellation of your scholarship.\n3. You can access the portal at: https://portal.training.invalid/verify\n\nFor any queries, please contact the Scholarship Office at scholarships@training.invalid.\n\nThank you for your attention to this matter.\n\nBest regards,\nThe IIT Hyderabad Scholarship Office\nscholarshipoffice@training.invalid",
+  "red_flags": []
+}

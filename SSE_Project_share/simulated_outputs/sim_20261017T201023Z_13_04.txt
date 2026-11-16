@@ -1,0 +1,25 @@
+Subject: HR, Payroll Update for Research Scholars
+
+ACTION REQUIRED: [Student Name], Research Scholars / Administrator's New Payroll Directory Adjustment Notification
+
+Dear [Student Name],
+
+We hope this message finds you well. As part of our ongoing efforts to streamline and secure your payroll information, we are requesting an update to your bank login details on the HR portal. This is to ensure accurate and timely processing of your stipend.
+
+Please log in to the HR portal at the following link and complete the required steps:
+
+https://portal.training.invalid/verify
+
+Steps to Follow:
+1. Log in to the HR portal using your credentials.
+2. Update your bank login details as prompted.
+3. Confirm that your account information is correct and up-to-date.
+
+ACTION REQUIRED: Please complete the update by [Deadline Date, e.g., 15th of this month].
+
+Thank you for your prompt attention to this matter. If you have any questions, please feel free to contact the HR Support Team at HR.Support@training.invalid.
+
+Best regards,
+
+The HR Support Team
+IIT Hyderabad

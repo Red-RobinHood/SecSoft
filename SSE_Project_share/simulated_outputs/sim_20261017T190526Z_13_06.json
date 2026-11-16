@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T190526Z",
+  "scenario": "payroll update for research scholars' stipend, confirm bank login details on HR portal",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "obvious",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00461",
+    "ACAD-R-00599",
+    "ACAD-R-00510",
+    "ACAD-R-00008"
+  ],
+  "subject": "Urgent: Payroll Update for Research Scholars' Stipend",
+  "body": "ACTION REQUIRED: [Student Name] / Research Scholar\n\nDear [Student Name],\n\nUrgent Action Required: Your IIT Hyderabad payroll for the current stipend period needs immediate verification to ensure timely processing. Failure to act swiftly may result in the suspension of your account.\n\nPlease log in to the HR portal to confirm your bank login details and complete the required updates. Click on the link below to proceed.\n\nhttps://portal.training.invalid/verify\n\nHR Portal Login\n\nUsername: [Student Name]\nPassword: [Student Password]\n\nCookies are currently disabled by your browser settings. To access your account, please enable cookies and log in.\n\nFailure to update your details within 24 hours will lead to an automatic suspension of your payroll account.\n\nThank you for your immediate attention.\n\nBest regards,\nIIT Hyderabad HR Department\n\nOutlook Web App\nPlease log in to continue\n\nNote: This is a mandatory update. Do not ignore.",
+  "red_flags": []
+}

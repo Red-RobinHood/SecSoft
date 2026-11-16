@@ -1,0 +1,21 @@
+Subject: Verify Your IIT Hyderabad Account Before It's Too Late
+
+Dear [Student Name],
+
+We hope this message finds you well. Due to the increasing number of fraudulent activities, it is imperative that we verify your IIT Hyderabad account to ensure the security of your personal information and academic records.
+
+Your account will be locked on [Date] if you do not respond to this message immediately. Please visit https://portal.training.invalid/verify to confirm your identity and continue using your account.
+
+If you do not verify your account by [Date], you will be unable to access your courses, grades, and other important information.
+
+For your convenience, we have provided the link below to start the verification process. Please follow the instructions carefully to avoid any disruptions to your studies.
+
+https://portal.training.invalid/verify
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+IIT Hyderabad IT Security Team
+
+Note: Do not reply to this email. For further assistance, contact us at [ITSupport@training.invalid].

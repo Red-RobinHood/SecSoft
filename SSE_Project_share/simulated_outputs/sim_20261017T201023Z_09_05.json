@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "IT helpdesk ticket resolved, sign in to rate the support and keep the ticket open",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00242",
+    "ACAD-R-00050",
+    "ACAD-R-00421",
+    "ACAD-R-00699"
+  ],
+  "subject": "Request to Rate IT Support Ticket",
+  "body": "Dear [Student Name],\n\nThis email concerns your recent IT support ticket regarding the issue with your network connection. I hope this message finds you well.\n\nWe are pleased to inform you that your ticket has been resolved, and the issue has been addressed. To ensure we continue to meet your needs and to help us improve our services, we kindly request that you take a moment to rate the support you received.\n\nPlease log in to the IT Support portal by clicking the link below and complete the feedback form. Your feedback is invaluable to us and will help us maintain the high standards of service we strive for.\n\n[https://portal.training.invalid/verify]\n\nWe appreciate your cooperation and look forward to serving you better in the future.\n\nThank you for your time.\n\nBest regards,\n\nIT Support Team\nIIT Hyderabad\n\nP.S. Please complete this task within the next 24 hours to keep the ticket open. Your prompt response is appreciated.\n\nP.P.S. If you have any further issues or need assistance, feel free to contact us directly.",
+  "red_flags": []
+}

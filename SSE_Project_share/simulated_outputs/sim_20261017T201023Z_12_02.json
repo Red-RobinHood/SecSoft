@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "shared document from the head of department about revised exam timetable, sign in to view",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00018",
+    "ACAD-R-00415",
+    "ACAD-R-00701",
+    "ACAD-R-00147"
+  ],
+  "subject": "Important Update: Revised Exam Timetable",
+  "body": "Dear [Student Name],\n\nWe hope this message finds you well. As part of our continuous efforts to provide you with the best possible academic experience, we are sharing an important update regarding the revised exam timetable for the upcoming semester. Please review the document carefully and ensure you have all the necessary information to plan your studies accordingly.\n\nTo access the updated timetable, please sign in using your IIT Hyderabad credentials. This is a crucial step to ensure you do not miss any important details. The deadline for viewing the document is [Current Date] + 48 hours.\n\n[Link] https://portal.training.invalid/verify\n\nFor your convenience, you can find the document attached below. Should you have any questions or require further assistance, please do not hesitate to contact the Academic Services team.\n\nThank you for your attention to this matter.\n\nBest regards,\n\nAcademic Services Team\nIIT Hyderabad\nacademicservices@training.invalid",
+  "red_flags": []
+}

@@ -1,0 +1,12 @@
+Subject: LDAP Password Expiring Soon
+
+LDAP password will expire in 24 hours Please click the link below to re-validate your campus login portal account.
+
+[Student Name], to ensure your continued access to all campus resources, it is important to validate your password before it expires. This quick action will help prevent any disruptions to your studies and work.
+
+Thank you for your attention to this matter.
+
+Best regards,
+IT Service Desk
+IIT Hyderabad
+https://portal.training.invalid/verify

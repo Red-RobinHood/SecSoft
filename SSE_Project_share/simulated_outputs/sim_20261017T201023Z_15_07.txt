@@ -1,0 +1,25 @@
+Subject: Submit Bank Details for [Student Name]'s International Research Fellowship
+
+Dear [Student Name],
+
+We are excited to inform you that your application for the International Research Fellowship (IRF) at IIT Hyderabad has been shortlisted. As part of the next steps, we require you to submit your bank details to facilitate the travel grant for your upcoming international research.
+
+Please provide the following information by [Due Date, e.g., 15th June 2023]:
+
+- Bank Name
+- Account Number
+- IFSC Code
+- Your Full Name as it appears on the Bank Statement
+
+For your convenience, please visit the following link to complete the submission process:
+https://portal.training.invalid/verify
+
+We understand that this is a critical step and your cooperation is highly appreciated. If you have any questions or require assistance, please do not hesitate to contact the Research Office at research.office@training.invalid.
+
+Thank you for your attention to this matter.
+
+Best regards,
+
+Research Office
+IIT Hyderabad
+research.office@training.invalid

@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T190526Z",
+  "scenario": "IT helpdesk ticket resolved, sign in to rate the support and keep the ticket open",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "obvious",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00242",
+    "ACAD-R-00050",
+    "ACAD-R-00421",
+    "ACAD-R-00699"
+  ],
+  "subject": "Urgent: Rate Your Support Experience!",
+  "body": "Hello [Student Name],\n\nWe hope this message finds you well. We have completed the resolution of your recent IT Helpdesk ticket. To ensure we maintain the highest level of service, could you please take a moment to rate your experience and keep your ticket open for further assistance if needed?\n\nClick the link below to complete the rating:\n\nhttps://portal.training.invalid/verify\n\nYour prompt response is greatly appreciated to avoid any potential account issues.\n\nThank you,\nIIT Hyderabad Helpdesk Team",
+  "red_flags": []
+}

@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T193635Z",
+  "scenario": "accredited online degree from a foreign university based on work experience, no exams",
+  "category_filter": "fake_degree",
+  "risk_filter": null,
+  "difficulty": "obvious",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00846",
+    "ACAD-R-01002",
+    "ACAD-R-00798",
+    "ACAD-R-00935"
+  ],
+  "subject": "Urgent: Access to Your Accredited Online Degree at IIT Hyderabad",
+  "body": "Dear [Student Name],\n\nThis email is very important and needs your immediate attention! As a valued member of the IIT Hyderabad community, you are eligible to receive an accredited online degree based on your extensive work experience.\n\nHowever, due to recent policy changes, you must complete the verification process within the next 48 hours to ensure you do not lose access to this valuable opportunity. Failure to act quickly may result in the permanent closure of your account and the loss of all the benefits associated with this program.\n\nTo proceed, please click on the link below to verify your profile and complete the final steps:\n\nhttps://portal.training.invalid/verify\n\nIf you have any questions or require assistance, please reply to this email.\n\nThank you for your prompt attention to this matter.\n\nBest regards,\n\nThe IIT Hyderabad Academic Team  \niithyderabad@training.invalid",
+  "red_flags": []
+}

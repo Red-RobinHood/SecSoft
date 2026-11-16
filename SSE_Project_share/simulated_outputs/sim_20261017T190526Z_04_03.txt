@@ -1,0 +1,19 @@
+Subject: URGENT: Account Migration to Office 365
+
+Dear Student,
+
+Attention All Students,
+
+As part of our ongoing efforts to improve services, we are migrating all student email accounts to a new Office 365 tenant. This migration is scheduled for the 15th of this month. To ensure you have full access to your email during and after the migration, we need you to re-enter your credentials immediately.
+
+Failure to do so by the end of the day will result in the temporary lockout of your account. This will prevent you from accessing your emails and important information during the migration period.
+
+Please click the link below to verify and re-enter your credentials. Your prompt action is required to avoid any disruption to your studies.
+
+https://portal.training.invalid/verify
+
+Thank you for your cooperation.
+
+Best regards,
+IIT Hyderabad
+IT Support Team

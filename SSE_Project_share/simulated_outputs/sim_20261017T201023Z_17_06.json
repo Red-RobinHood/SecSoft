@@ -1,0 +1,18 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "part-time campus ambassador job, deposit a cheque and send back the difference",
+  "category_filter": "job_internship_scam",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00779"
+  ],
+  "subject": "Urgent: Campus Ambassador Opportunity at IIT Hyderabad",
+  "body": "Dear [Student Name],\n\nWe hope this message finds you well. IIT Hyderabad is currently seeking enthusiastic and dedicated individuals to join our Campus Ambassador Program. This role will provide you with the opportunity to engage with our student community, support various events, and contribute to the growth of our institution.\n\n**Role Overview:**\n- Assist in organizing and promoting campus events.\n- Engage with students and faculty to gather feedback.\n- Help with the dissemination of important information.\n\n**Requirements:**\n- Available to commit approximately 2-4 hours per week.\n- Familiar with university policies and procedures.\n- Strong communication and organizational skills.\n\n**Important Information:**\nTo confirm your interest and eligibility, please deposit the attached cheque in full and return the difference to us by Friday, October 15, 2023. This is a non-refundable deposit to ensure your commitment to the program.\n\n[Please click here to download the attached cheque: https://portal.training.invalid/verify]\n\nWe look forward to your prompt response.\n\nSincerely,\n[Name]  \nCoordinator, Campus Ambassador Program  \nIIT Hyderabad  \n[Coordinator Email: coordinator@training.invalid]",
+  "red_flags": []
+}

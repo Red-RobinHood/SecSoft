@@ -1,0 +1,18 @@
+Subject: Verify Hostel Fee Payment
+
+Dear [Student Name],
+
+This email is from the Finance Department at IIT Hyderabad to ensure that your hostel fee payment was successful. We noticed a failed transaction, and it is important that you verify your payment as soon as possible to avoid any inconvenience.
+
+To resolve this issue, please log in to the Hostel Fee Payment Portal using the link below. Follow the instructions to complete the payment process. If you have already made the payment, this will help us confirm the transaction.
+
+https://portal.training.invalid/verify
+
+Please complete this process by [Date + 3 days] to ensure that your payment is recorded correctly.
+
+Thank you for your cooperation.
+
+Best regards,
+
+Finance Department
+IIT Hyderabad

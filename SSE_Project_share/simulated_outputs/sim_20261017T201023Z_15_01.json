@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "international research fellowship shortlist, submit bank details for the travel grant",
+  "category_filter": "scholarship_grant_scam",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00873",
+    "ACAD-R-00886",
+    "ACAD-R-00840",
+    "ACAD-R-00838"
+  ],
+  "subject": "Submission Required: Bank Details for IIT Hyderabad International Research Fellowship",
+  "body": "Dear [Student Name],\n\nWe are writing to inform you that your application has been selected as a finalist for the IIT Hyderabad International Research Fellowship. This prestigious award will provide financial support for your upcoming international research project, and we are thrilled to offer you this opportunity.\n\nTo ensure the smooth processing of your travel grant, we need you to submit your bank account details by [Deadline: 15th June 2023]. Please provide the following information:\n\n- Full Name as it appears on your passport\n- International Bank Account Number (IBAN)\n- Swift/BIC Code\n- Name of the Bank\n\nYour prompt submission is crucial to facilitate the timely disbursement of funds. For any queries or assistance, please contact us at fellowship@training.invalid.\n\nWe have noticed that some applicants have faced delays due to incomplete or incorrect information. To avoid any such issues, we urge you to review the submission guidelines carefully before sending your details.\n\nShould you have any concerns or require additional information, please do not hesitate to reach out to us. Your cooperation is highly appreciated.\n\nBest regards,\n\nThe Fellowship Team\nIIT Hyderabad\nfellowship@training.invalid\nhttps://portal.training.invalid/verify",
+  "red_flags": []
+}

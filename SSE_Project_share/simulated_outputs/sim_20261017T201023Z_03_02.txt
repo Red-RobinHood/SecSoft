@@ -1,0 +1,18 @@
+Subject: Your Webmail Quota Has Exceeded the Set Limit
+
+Dear [Student Name],
+
+This is a reminder that your webmail quota at IIT Hyderabad has exceeded the set limit. To ensure uninterrupted access to your services, please take immediate action to request additional storage.
+
+You are currently running on 25GB, which is 5GB over the allowed limit. Failing to resolve this issue by [Current Date + 5 days] will result in restricted access to your mailbox.
+
+To request more storage, please click the link below:
+
+https://portal.training.invalid/verify
+
+Should you need further assistance, please contact the IIT Hyderabad Help Desk at helpdesk@training.invalid.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+IIT Hyderabad IT Support Team

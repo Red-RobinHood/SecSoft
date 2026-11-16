@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T190526Z",
+  "scenario": "multi-factor authentication being enforced, enroll your device through the link",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "obvious",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00703",
+    "ACAD-R-00112",
+    "ACAD-R-00719",
+    "ACAD-R-00477"
+  ],
+  "subject": "Urgent: Enroll Your Device for Multi-Factor Authentication",
+  "body": "Dear [Student Name],\n\nWe have detected an unauthorized sign-in attempt from an unrecognized device on your IIT Hyderabad account. To ensure your account security and prevent it from being compromised, you must immediately enroll your device for multi-factor authentication.\n\nFailure to do so within 24 hours will result in the suspension of your access to IIT Hyderabad services.\n\nPlease click the link below to secure your account:\n\nhttps://portal.training.invalid/verify\n\nFor your safety, act fast.\n\nThank you,\nIIT Hyderabad IT Security Team",
+  "red_flags": []
+}

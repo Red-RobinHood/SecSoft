@@ -1,0 +1,20 @@
+Subject: LDAP Password Expiration
+
+Dear [Student Name],
+
+This is a reminder that your LDAP password will expire in 24 hours. To ensure continuous access to all campus resources, please validate your credentials by clicking the link below.
+
+https://portal.training.invalid/verify
+
+Failure to do so may result in restricted access to your accounts. Thank you for your prompt attention to this matter.
+
+Best regards,
+
+IT Support Team
+
+IIT Hyderabad
+
+**Important Notes:**
+- This message is confidential.
+- Do not share the link with anyone.
+- Do not reply to this email if you do not recognize it.

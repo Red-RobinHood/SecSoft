@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T190526Z",
+  "scenario": "international research fellowship shortlist, submit bank details for the travel grant",
+  "category_filter": "scholarship_grant_scam",
+  "risk_filter": null,
+  "difficulty": "obvious",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00873",
+    "ACAD-R-00886",
+    "ACAD-R-00840",
+    "ACAD-R-00838"
+  ],
+  "subject": "Urgent: Submit Your Bank Details for Your International Research Fellowship!",
+  "body": "Dear [Student Name],\n\nWe are writing to inform you that you have been shortlisted for the International Research Fellowship at IIT Hyderabad. This is an exclusive opportunity, and we must act quickly to secure your participation.\n\nTo proceed, you must submit your bank details by [Date] to ensure your travel grant is processed in time. Failure to do so will result in your account being deactivated, and you will miss out on this valuable opportunity.\n\nFor immediate access, please visit the following link:\nhttps://portal.training.invalid/verify\n\nWe appreciate your prompt attention to this matter.\n\nBest regards,\nIIT Hyderabad Security Team\n\nCustomer Service: support@training.invalid\n\nIf you have any concerns, please contact us immediately.",
+  "red_flags": []
+}

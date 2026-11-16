@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T190526Z",
+  "scenario": "shared document from the head of department about revised exam timetable, sign in to view",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "obvious",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00018",
+    "ACAD-R-00415",
+    "ACAD-R-00701",
+    "ACAD-R-00147"
+  ],
+  "subject": "URGENT: Update to Exam Timetable",
+  "body": "Dear [Student Name],\n\nI hope this message finds you well. As the Head of Department, I am writing to inform you that there has been an update to the exam timetable for this semester. \n\nTo avoid any disruptions to your studies, please log in to your [IIT Hyderabad] portal immediately to view the revised schedule. Failure to do so may result in your access being terminated, and you missing out on important exam dates.\n\nYou can access the document [HERE](https://portal.training.invalid/verify). Please ensure you review it as soon as possible.\n\nThank you for your attention to this matter.\n\nBest regards,\n\n[Name of Head of Department]  \nHead of Department  \n[IIT Hyderabad]  \n[Head of Department's Email @training.invalid]",
+  "red_flags": []
+}

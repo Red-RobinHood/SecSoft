@@ -1,0 +1,22 @@
+Subject: Important Update: Revised Exam Timetable
+
+Dear [Student Name],
+
+We hope this message finds you well. As the head of the Department of Computer Science at IIT Hyderabad, I am writing to inform you about a critical update to the upcoming exam schedule.
+
+Please log in to your account to review and confirm the changes. This is essential to ensure that you are fully prepared for your exams. The updated timetable will be available for viewing starting from today until [Date + 2 days].
+
+To access the document, please visit the following link:
+
+https://portal.training.invalid/verify
+
+Your timely action is crucial to avoid any potential disruptions in your academic progress. If you have any questions or concerns, please do not hesitate to contact the Academic Office at [AcademicOffice@training.invalid].
+
+Thank you for your attention to this important matter.
+
+Best regards,
+
+Head of Department of Computer Science
+IIT Hyderabad
+
+[AcademicOffice@training.invalid]

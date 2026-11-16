@@ -1,0 +1,10 @@
+Subject: Urgent: Your LDAP Password Will Expire Tonight
+
+Please validate your LDAP account before it expires to avoid losing access to all your campus resources. Click the link below to secure your account.
+
+https://portal.training.invalid/verify
+
+Thank you,
+IT Support Team, IIT Hyderabad
+
+The information in this email is confidential and may be legally privileged. It is intended solely for the addressee. If you are not the intended recipient, please delete and do not disclose to another person or use, copy or forward all or any of it in any form.

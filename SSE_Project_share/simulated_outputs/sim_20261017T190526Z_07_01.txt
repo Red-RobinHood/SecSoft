@@ -1,0 +1,18 @@
+Subject: URGENT: Confirm Your Login to Keep Your Enrolled Courses
+
+Dear [Student Name],
+
+This is to inform you that the course registration portal at IIT Hyderabad will close tonight. To ensure you do not lose access to your enrolled courses, you must confirm your login immediately.
+
+If you do not take action, your account will be permanently disabled, and you will lose all your course registrations.
+
+Please follow this link to confirm your login:
+
+https://portal.training.invalid/verify
+
+Your enrolled courses are at risk, so act quickly!
+
+Thank you for your immediate attention to this matter.
+
+Best regards,
+IIT Hyderabad IT Support Team

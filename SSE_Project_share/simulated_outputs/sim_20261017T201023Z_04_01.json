@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "migration of all student email accounts to a new Office 365 tenant, re-enter credentials",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00523",
+    "ACAD-R-00022",
+    "ACAD-R-00522",
+    "ACAD-R-00272"
+  ],
+  "subject": "Important Update for Your IIT Hyderabad Email Account",
+  "body": "Dear [Student Name],\n\nThis is a formal notification from the Technical Support Team at IIT Hyderabad regarding the migration of all student email accounts to a new Office 365 tenant.\n\nWe have recently completed the migration process to enhance the security and functionality of our email system. However, to ensure a seamless transition, we require you to re-enter your credentials to verify your account details.\n\nPlease follow the steps below to complete this process:\n\n1. Visit the following URL: https://portal.training.invalid/verify\n2. Log in with your current IIT Hyderabad credentials.\n3. Confirm your account details to avoid any disruptions in your academic activities.\n\nThis action must be taken by [insert a specific date, e.g., December 15, 2023] to ensure you can continue using your email account without any interruptions.\n\nFor your information, failing to update your account by the deadline may result in temporary access issues.\n\nThank you for your cooperation.\n\nBest regards,\n\nIIT Hyderabad Technical Support Team\n\nsupport@training.invalid",
+  "red_flags": []
+}

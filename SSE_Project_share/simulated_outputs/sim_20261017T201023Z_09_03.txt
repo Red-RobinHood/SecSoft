@@ -1,0 +1,21 @@
+Subject: IT Helpdesk Ticket for [Student Name]
+
+Dear [Student Name],
+
+We hope this message finds you well. We are writing to inform you that your recent IT Helpdesk ticket has been resolved. To assist us in continuously improving our services, we kindly request that you take a moment to rate the support provided by our team.
+
+Click on the link below to complete the rating and ensure the ticket remains open for any future issues.
+
+https://portal.training.invalid/verify
+
+Your feedback is invaluable to us, and we appreciate your cooperation.
+
+Please complete this task as soon as possible to help us maintain high standards of service. If you have any further concerns, please do not hesitate to reach out to us.
+
+Thank you for your support and understanding.
+
+Best regards,
+IT Support Team
+IIT Hyderabad
+
+---

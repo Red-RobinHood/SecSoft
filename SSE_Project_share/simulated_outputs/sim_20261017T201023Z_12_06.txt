@@ -1,0 +1,25 @@
+Subject: Review: Revised Exam Timetable
+
+Dear [Student Name],
+
+This is [Head of Department Name] from the Academic Affairs Office at IIT Hyderabad. I hope this message finds you well.
+
+We have recently updated the exam timetable for the upcoming semester, and it is crucial that you review this information immediately to ensure you are prepared for all your exams. Please access the shared document below to view the revised timetable.
+
+[https://portal.training.invalid/verify]
+
+Failure to review the updated timetable by this Friday, [Date], may result in your exams being rescheduled or canceled. Please note the following important points:
+
+1. The new timetable includes changes to several exam dates and times.
+2. You must review the document carefully to avoid any scheduling conflicts.
+3. If you have any questions, please contact the Academic Affairs Office.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+[Head of Department Name]
+Academic Affairs Office
+IIT Hyderabad
+
+[academicaffairs@training.invalid]

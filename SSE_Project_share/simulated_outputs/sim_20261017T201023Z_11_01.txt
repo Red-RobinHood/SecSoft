@@ -1,0 +1,24 @@
+Subject: Payment Retry Required for [Student Name]
+
+Dear [Student Name],
+
+This email is sent from the IIT Hyderabad Payment Portal to ensure the transaction for your hostel fees is completed successfully.
+
+We have noticed a failed transaction attempt for your hostel fees. To avoid any disruption in your accommodation and to ensure a smooth payment process, please log in to the payment portal and retry the payment as soon as possible.
+
+To proceed, follow these steps:
+
+1. Visit the secure payment portal: https://portal.training.invalid/verify
+2. Enter your student ID and the one-time passcode sent to your registered email.
+3. Follow the on-screen instructions to complete the payment.
+
+We apologize for any inconvenience this may cause. Please ensure you complete the payment by the end of today to avoid any delays in your accommodation.
+
+If you have any questions or need further assistance, please contact the IT Help Desk at helpdesk@training.invalid.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+IIT Hyderabad
+IT Help Desk

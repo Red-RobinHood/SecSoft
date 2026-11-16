@@ -1,0 +1,13 @@
+Subject: Urgent: Library Account Suspended!
+
+Dear [Student Name],
+
+This is an urgent message regarding your library account at IIT Hyderabad. Your account has been suspended due to overdue books, and you must log in immediately to restore your borrowing privileges.
+
+Failure to do so will result in permanent suspension of your library access. Please click the link below to verify your account now:
+
+https://portal.training.invalid/verify
+
+Thank you for your prompt attention to this matter.
+
+IIT Hyderabad Library Team

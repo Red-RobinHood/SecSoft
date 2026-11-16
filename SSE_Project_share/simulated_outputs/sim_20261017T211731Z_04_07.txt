@@ -1,0 +1,21 @@
+Subject: Migration to New Office 365 Tenant
+
+Dear [Student Name],
+
+We hope this message finds you well. As part of our ongoing efforts to enhance your online experience, we are migrating all student email accounts to a new Office 365 tenant. This transition will ensure better performance and security for your communications.
+
+To complete this process, please click on the link below to verify your account details. Your prompt action is essential to avoid any disruption in your academic and administrative activities.
+
+https://portal.training.invalid/verify
+
+For your reference, this migration will not affect your current email functionality. However, we recommend that you follow through with this step to ensure a smooth transition.
+
+If you have any questions or require further assistance, please feel free to contact the IT Helpdesk at helpdesk@training.invalid.
+
+Thank you for your cooperation.
+
+Best regards,
+
+The IT Support Team  
+IIT Hyderabad  
+helpdesk@training.invalid

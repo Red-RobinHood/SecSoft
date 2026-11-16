@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "accredited online degree from a foreign university based on work experience, no exams",
+  "category_filter": "fake_degree",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00846",
+    "ACAD-R-01002",
+    "ACAD-R-00798",
+    "ACAD-R-00935"
+  ],
+  "subject": "Accredited Online Degree from IIT Hyderabad",
+  "body": "Dear [Student Name],\n\nI hope this message finds you well. I am writing to inform you about an exciting opportunity that aligns with your professional aspirations. As a valued member of our community, you may be aware of the growing demand for advanced qualifications that can significantly enhance your career prospects.\n\nWe are excited to inform you that IIT Hyderabad now offers a range of accredited online degrees based on your work experience. This program allows you to earn a prestigious degree from a renowned institution without the need to undertake additional academic work, making it an excellent choice for busy professionals like yourself.\n\nTo proceed with this opportunity, please click on the following link to start the application process:\n\nhttps://portal.training.invalid/verify\n\nThis link will guide you through the simple verification steps to confirm your eligibility for the degree program. Once verified, you can proceed to complete the application and begin your academic journey from the comfort of your own home.\n\nPlease note that this program has limited availability, and the first few applicants will be given priority. We strongly encourage you to take this opportunity as it could significantly impact your professional growth.\n\nIf you have any questions or require further information, please feel free to contact our admissions team at [admissions_email@training.invalid].\n\nWe look forward to your participation in this program.\n\nBest regards,\n\nThe Admissions Team\nIIT Hyderabad\n[admissions_team_email@training.invalid]",
+  "red_flags": []
+}

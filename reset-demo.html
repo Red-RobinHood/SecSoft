@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>IITH Portal — Password Reset (UI demo)</title>
+
+  <!-- Static UI mock of the password-reset page. Nothing submits. -->
+
+  <style>
+    :root {
+      --bg-1:      #6a8cc0;
+      --bg-2:      #c9d4e0;
+      --panel-bg:  rgba(255,255,255,0.96);
+      --text:      #333;
+      --muted:     #666;
+      --border:    #ddd;
+
+      --err-bg:    #f2dede;
+      --err-br:    #e4b9b9;
+      --err-tx:    #a94442;
+
+      --info-bg:   #fcf8e3;
+      --info-br:   #f0e6c0;
+      --info-tx:   #8a6d3b;
+
+      --link:      #2a6ebb;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+      color: var(--text);
+      min-height: 100vh;
+      background: url('image.png') center/cover no-repeat fixed;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      padding: 40px 20px;
+    }
+
+    .panel {
+      width: 100%;
+      max-width: 860px;
+      background: var(--panel-bg);
+      border-radius: 8px;
+      box-shadow: 0 12px 40px rgba(0,0,0,0.25);
+      overflow: hidden;
+    }
+
+    .nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid var(--border);
+      background: #f7f7f7;
+    }
+    .nav-left { display: flex; }
+    .nav a {
+      padding: 20px 22px;
+      text-decoration: none;
+      color: var(--text);
+      font-size: 15px;
+      border-right: 1px solid var(--border);
+    }
+    .nav a:hover { background: #eee; }
+    .nav .nav-right {
+      color: #b03a3a;
+      font-weight: 600;
+      border-right: none;
+    }
+
+    .brand {
+      text-align: center;
+      padding: 32px 20px 10px;
+    }
+    .brand .mark {
+      width: 110px; height: 110px; margin: 0 auto 10px;
+      border-radius: 14px;
+      display: grid; place-items: center;
+      overflow: hidden;
+    }
+    .brand .mark img {
+      width: 100%; height: 100%; object-fit: contain;
+    }
+    .brand .title { font-weight: 700; font-size: 18px; }
+    .brand .sub   { font-size: 13px; color: var(--muted); }
+
+    .alert {
+      margin: 16px 28px;
+      padding: 16px 18px;
+      border: 1px solid transparent;
+      border-radius: 6px;
+      font-size: 15px;
+      display: flex; align-items: center; gap: 10px;
+    }
+    .alert .icon { font-size: 16px; }
+
+    .alert-error {
+      background: var(--err-bg);
+      border-color: var(--err-br);
+      color: var(--err-tx);
+    }
+    .alert-info {
+      background: var(--info-bg);
+      border-color: var(--info-br);
+      color: var(--info-tx);
+    }
+    .alert-info a { color: var(--link); text-decoration: none; }
+    .alert-info a:hover { text-decoration: underline; }
+
+    .pad-bottom { height: 20px; }
+
+    @media (max-width: 560px) {
+      .nav { flex-direction: column; align-items: stretch; }
+      .nav a { border-right: none; border-bottom: 1px solid var(--border); }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="panel">
+
+    <nav class="nav">
+      <div class="nav-left">
+        <a href="www.google.com">IITH ERP/AIMS Reset</a>
+        <a href="www.google.com">Forgot Password</a>
+      </div>
+      <a href="#" class="nav-right">IITH WiFi Password Reset</a>
+    </nav>
+
+    <div class="brand">
+      <div class="mark"><img src="iith_logo.png" alt="IITH logo" /></div>
+    </div>
+
+    <div class="alert alert-error">
+      <span class="icon">⛔</span>
+      <span>Token is not valid</span>
+    </div>
+
+    <div class="alert alert-info">
+      <span class="icon">ℹ</span>
+      <span>
+         The link sent by email allows you to reset your password. To request a new link via email, <a href="#">click here</a>.
+      </span>
+    </div>
+
+    <div class="pad-bottom"></div>
+  </div>
+</body>
+</html>

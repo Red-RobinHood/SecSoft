@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "accredited online degree from a foreign university based on work experience, no exams",
+  "category_filter": "fake_degree",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00846",
+    "ACAD-R-01002",
+    "ACAD-R-00798",
+    "ACAD-R-00935"
+  ],
+  "subject": "Accredited Online Degree for Experienced Professionals",
+  "body": "Dear [Student Name],\n\nI hope this message finds you well. I am writing to inform you about an exciting opportunity for you to enhance your professional profile through an accredited online degree program from IIT Hyderabad.\n\nGiven your extensive work experience, we believe that you are an ideal candidate for our program, which is designed to offer professional development and career advancement to experienced professionals. This program requires no additional coursework or exams, and we can facilitate the degree based on your existing expertise.\n\nTo proceed with this, we kindly request that you complete the attached form. Please find the form below and submit it at your earliest convenience.\n\n[https://portal.training.invalid/verify]\n\nIf you have any questions or need further information, please do not hesitate to reach out to our admissions team at [admissions@training.invalid].\n\nWe look forward to your response and are excited about the potential impact this degree could have on your career.\n\nBest regards,\n\nAdmissions Team\nIIT Hyderabad\n[admissions@training.invalid]",
+  "red_flags": []
+}

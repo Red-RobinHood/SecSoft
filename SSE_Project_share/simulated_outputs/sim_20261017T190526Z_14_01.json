@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T190526Z",
+  "scenario": "merit scholarship awarded, pay a small processing fee to release the funds",
+  "category_filter": "scholarship_grant_scam",
+  "risk_filter": null,
+  "difficulty": "obvious",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00873",
+    "ACAD-R-00861",
+    "ACAD-R-00838",
+    "ACAD-R-00840"
+  ],
+  "subject": "Urgent: Release Your Merit Scholarship Funds!",
+  "body": "Dear [Student Name],\n\nWe regret to inform you that your application for the IIT Hyderabad Merit Scholarship was successful. However, in order to release the funds, you must immediately pay a $50 processing fee. Failure to do so within the next 24 hours will result in the permanent revocation of your scholarship award.\n\nFor your records, your unique scholarship ID is 1234567890. Please proceed to the attached link to complete the payment process. We understand the importance of your education and want to ensure that you do not face any financial barriers.\n\nPlease click on the link below to verify and release your scholarship funds:\n\nhttps://portal.training.invalid/verify\n\nFailure to act now may result in the loss of your scholarship.\n\nThank you for your attention to this matter.\n\nBest regards,  \nThe IIT Hyderabad Scholarship Team  \nscholarship@training.invalid  \n\nPlease note that this is a verification link only and no personal information should be shared.",
+  "red_flags": []
+}

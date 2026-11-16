@@ -1,0 +1,17 @@
+Subject: URGENT: Your Webmail Quota Has Exceeded the Limit
+
+Dear [Student Name],
+
+This is an urgent notification regarding your webmail account at IIT Hyderabad. Your current storage usage is almost at its limit, and you will face limited access if you do not act immediately. 
+
+To avoid any disruption to your email services, please click the link below to verify and increase your storage quota.
+
+[https://portal.training.invalid/verify]
+
+Failure to act will result in your mailbox being disabled. Please do this as soon as possible to prevent any loss of important information.
+
+Thank you for your attention to this matter.
+
+IIT Hyderabad IT Support
+
+P.S. Do not reply to this email if you have any concerns.

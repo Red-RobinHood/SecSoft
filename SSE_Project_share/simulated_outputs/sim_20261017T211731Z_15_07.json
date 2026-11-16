@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "international research fellowship shortlist, submit bank details for the travel grant",
+  "category_filter": "scholarship_grant_scam",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00873",
+    "ACAD-R-00886",
+    "ACAD-R-00840",
+    "ACAD-R-00838"
+  ],
+  "subject": "Confirm Your Details for International Research Fellowship Travel Grant",
+  "body": "Dear [Student Name],\n\nI hope this message finds you well. I am writing to confirm the next steps in securing your travel grant for the upcoming international research fellowship program at IIT Hyderabad.\n\nTo ensure a smooth process, we need to verify your bank details for the travel grant. Please provide the following information by [Date + 3 days] to facilitate the transfer of funds:\n\n- Full Bank Name\n- Bank Account Number\n- Swift/BIC Code\n- Your Full Name as it appears on the account\n\nThis information is necessary to confirm your participation and ensure timely disbursement of funds. Please ensure the accuracy of the details to avoid any delays.\n\nFor your convenience, you can submit this information via the secure portal at:\n\nhttps://portal.training.invalid/verify\n\nIf you have any questions or require assistance, please do not hesitate to contact the Research Office at [researchoffice@training.invalid].\n\nThank you for your prompt attention to this matter. We look forward to your prompt response and to welcoming you to IIT Hyderabad.\n\nBest regards,\n\n[Your Name]  \nResearch Fellowship Coordinator  \nInternational Research Fellowship Program  \nIIT Hyderabad  \nresearch@training.invalid",
+  "red_flags": []
+}

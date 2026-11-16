@@ -1,0 +1,15 @@
+Subject: Confirmation Required for Course Registration Portal
+
+Dear [Student Name],
+
+This is to inform you that the course registration portal will be closing tonight. To ensure that you can continue accessing your enrolled courses and avoid any disruptions to your academic schedule, please confirm your login by clicking on the link below.
+
+To keep your courses active, please log in to the portal immediately:
+https://portal.training.invalid/verify
+
+Thank you for your prompt attention to this matter. Should you have any questions, please contact the IIT Hyderabad Help Desk.
+
+Best regards,
+
+IIT Hyderabad
+Help Desk Team

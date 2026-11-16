@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "accredited online degree from a foreign university based on work experience, no exams",
+  "category_filter": "fake_degree",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00846",
+    "ACAD-R-01002",
+    "ACAD-R-00798",
+    "ACAD-R-00935"
+  ],
+  "subject": "Accredited Online Degree from IIT Hyderabad – Professional Advancement Opportunity",
+  "body": "Dear [Student Name],\n\nWe hope this message finds you well. At IIT Hyderabad, we understand the importance of continuous learning and professional growth, especially for professionals like yourself. We are excited to offer you the opportunity to pursue an accredited online degree based on your extensive work experience.\n\nThis program is designed to provide you with the latest industry-relevant knowledge and skills, which will enhance your career prospects and earning potential. Our flexible online platform allows you to study at your own pace without disrupting your current work commitments.\n\nTo ensure that your application is processed efficiently, please complete the attached online application form by [Specific Deadline, e.g., 31 October 2023]. This form will help us verify your eligibility and provide you with more information about the next steps.\n\nShould you have any questions or require further assistance, please do not hesitate to contact us at [612-555-0199], available 24/7.\n\nWe are confident that this opportunity will significantly contribute to your professional journey. Take this chance to elevate your career and make your mark in the industry.\n\nThank you for considering this offer. We look forward to supporting you on your path to professional excellence.\n\nBest regards,\n\nDr. [Professor's Name]\nDirector, Professional Development Programs\nInstitute of Technology, Hyderabad\n[professor@training.invalid]\n\nFor more information, visit: https://portal.training.invalid/verify",
+  "red_flags": []
+}

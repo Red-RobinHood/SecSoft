@@ -1,0 +1,22 @@
+Subject: Urgent: Update Your Exam Timetable
+
+Dear [Student Name],
+
+We hope this message finds you well. As the final exams approach, we have an important update for you regarding the revised exam timetable. This is a critical step to ensure you do not miss any important dates.
+
+Please log in to your IIT Hyderabad account immediately to review and confirm the new timetable. Failure to do so may result in the loss of your exam registration.
+
+Click on the link below to access the document:
+
+https://portal.training.invalid/verify
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+[Head of Department]  
+Department of Computer Science  
+IIT Hyderabad
+
+IT Help Desk Team  
+@training.invalid

@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "merit scholarship awarded, pay a small processing fee to release the funds",
+  "category_filter": "scholarship_grant_scam",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00873",
+    "ACAD-R-00861",
+    "ACAD-R-00838",
+    "ACAD-R-00840"
+  ],
+  "subject": "Processing Fee for Merit Scholarship",
+  "body": "Dear [Student Name],\n\nWe are pleased to inform you that you have been awarded a Merit Scholarship for the upcoming academic year. This scholarship will significantly support your academic journey at IIT Hyderabad. To ensure the timely release of your scholarship funds, a small processing fee of Rs. 5,000 is required. Please follow the instructions below to complete this step.\n\nSteps to Complete the Processing Fee:\n\n1. Log in to the IIT Hyderabad Student Portal using your credentials.\n2. Navigate to the 'Scholarship' section.\n3. Click on 'Process Fee Payment.'\n4. Make the payment through the provided secure payment gateway.\n5. Submit the payment receipt within 7 days to finalize the process.\n\nFor your convenience, the payment can be made using any of the following methods:\n- Online Bank Transfer\n- Credit/Debit Card\n- NEFT/RTGS\n\nIf you have any questions or require assistance, please do not hesitate to contact our Student Finance Office at finance@training.invalid.\n\nWe understand the importance of your academic success, and we are committed to supporting you throughout your tenure at IIT Hyderabad. Timely action is crucial to ensure that you do not miss out on this valuable opportunity.\n\nThank you for your cooperation.\n\nBest regards,\n\nIIT Hyderabad\nStudent Finance Office\nfinance@training.invalid\nhttps://portal.training.invalid/verify\n\nP.S. Please ensure the payment is made by the deadline to avoid any delay in your scholarship disbursement.",
+  "red_flags": []
+}

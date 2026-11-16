@@ -1,0 +1,20 @@
+Subject: New Semester Grades Published on Academic Portal
+
+Dear [Student Name],
+
+We hope this message finds you well.
+
+The new semester grades for [Semester Name] have been published on the IIT Hyderabad academic portal. Please log in to review your results before the deadline of [Date, e.g., 30th April 2023].
+
+To access your grades, please click on the link below:
+
+https://portal.training.invalid/verify
+
+If you encounter any issues, please contact the Academic Support Team at [Academic Support Email, e.g., academic.support@training.invalid].
+
+Thank you for your attention to this matter.
+
+Best regards,
+The IIT Hyderabad Academic Team
+
+P.S. Do not share your login credentials with anyone. If you need further assistance, please do not hesitate to contact us.

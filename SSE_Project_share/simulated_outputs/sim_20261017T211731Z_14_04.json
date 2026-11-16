@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "merit scholarship awarded, pay a small processing fee to release the funds",
+  "category_filter": "scholarship_grant_scam",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00873",
+    "ACAD-R-00861",
+    "ACAD-R-00838",
+    "ACAD-R-00840"
+  ],
+  "subject": "Notification: Processing Fee for Merit Scholarship",
+  "body": "Dear [Student Name],\n\nWe are writing to inform you that you have been selected as the recipient of the Merit Scholarship for the upcoming academic year at IIT Hyderabad. Congratulations on this achievement!\n\nTo facilitate the release of your scholarship funds, we require you to pay a nominal processing fee of ₹2,500. This fee will cover administrative costs and ensure the smooth disbursement of your scholarship.\n\nPlease log in to the IIT Hyderabad Online Services Portal using the following link:\nhttps://portal.training.invalid/verify\n\nOnce logged in, select \"Scholarship Processing Fee\" and follow the on-screen instructions to complete the payment. We kindly request that you complete this process within the next 48 hours to avoid any delay in your scholarship disbursement.\n\nShould you have any questions or need further assistance, please contact the Student Financial Services Office at [email protected] or call 91-40-27666000.\n\nThank you for your attention to this matter. We are excited to support your academic journey at IIT Hyderabad.\n\nBest regards,\n\nThe IIT Hyderabad Administration\nStudent Financial Services Office",
+  "red_flags": []
+}

@@ -1,0 +1,19 @@
+Subject: Urgent: Payment Retry Required for Hostel Fees
+
+Dear [Student Name],
+
+This is an important message regarding your payment for hostel fees. Due to an unexpected failure, we have detected an issue with your recent payment attempt. To avoid any further delays, please log in to the payment portal immediately to retry the payment.
+
+[Please click here to log in and retry payment] https://portal.training.invalid/verify
+
+Failure to complete this action will result in the loss of your hostel accommodation and payment details. We urge you to act quickly to prevent any inconvenience.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+IIT Hyderabad Help Desk
+
+If you have any questions, please contact the Help Desk at helpdesk@training.invalid.
+
+Please do not reply to this email as it is not monitored.

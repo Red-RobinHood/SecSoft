@@ -1,0 +1,22 @@
+Subject: Migration to New Office 365 Tenant
+
+Dear [Student Name],
+
+This is to inform you that as part of our ongoing commitment to enhancing your academic experience, we are migrating all student email accounts to our new Office 365 tenant. This transition is necessary to provide you with the latest features and security enhancements.
+
+To ensure a smooth transition and to maintain your access to all email services during and after the migration, please follow the steps below:
+
+1. Visit the following link to verify your account: https://portal.training.invalid/verify
+
+2. Enter your [Student Name] credentials when prompted.
+
+3. Complete the verification process as soon as possible to avoid any disruptions to your academic activities.
+
+We appreciate your cooperation and understand the importance of uninterrupted access to your email for your studies.
+
+For any queries, please reach out to the Help Desk at helpdesk@training.invalid.
+
+Thank you for your attention to this matter.
+
+Best regards,
+IIT Hyderabad IT Support Team

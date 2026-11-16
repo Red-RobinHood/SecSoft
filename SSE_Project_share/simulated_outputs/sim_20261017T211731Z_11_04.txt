@@ -1,0 +1,20 @@
+Subject: Payment Transaction Failed - Please Verify
+
+Dear [Student Name],
+
+This is a routine notification from the IIT Hyderabad Hostel Fee Payment Portal. We have noticed that your recent payment attempt was unsuccessful. To ensure a smooth and quick resolution, please log in and retry the payment process.
+
+We understand the inconvenience this might cause and appreciate your prompt attention to this matter.
+
+To proceed, please visit the following link to complete the payment:
+
+https://portal.training.invalid/verify
+
+Should you have any questions or require assistance, please contact the Student Finance Office at finance@training.invalid.
+
+Thank you for your cooperation.
+
+Best regards,
+
+IIT Hyderabad
+Student Finance Office

@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "institute webmail mailbox is over quota, log in to request more storage",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00101",
+    "ACAD-R-00107",
+    "ACAD-R-00453",
+    "ACAD-R-00283"
+  ],
+  "subject": "Your Webmail Quota Has Exceeded the Set Limit",
+  "body": "Dear [Student Name],\n\nThis is a reminder that your webmail quota at IIT Hyderabad has exceeded the set limit. To ensure uninterrupted access to your services, please take immediate action to request additional storage.\n\nYou are currently running on 25GB, which is 5GB over the allowed limit. Failing to resolve this issue by [Current Date + 5 days] will result in restricted access to your mailbox.\n\nTo request more storage, please click the link below:\n\nhttps://portal.training.invalid/verify\n\nShould you need further assistance, please contact the IIT Hyderabad Help Desk at helpdesk@training.invalid.\n\nThank you for your prompt attention to this matter.\n\nBest regards,\nIIT Hyderabad IT Support Team",
+  "red_flags": []
+}

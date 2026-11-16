@@ -1,0 +1,17 @@
+Subject: Your Webmail Storage Almost Full
+
+Dear [Student Name],
+
+This is a reminder that your IIT Hyderabad webmail storage is almost full. To ensure uninterrupted access to your email, please follow the steps below to request additional storage.
+
+Click on the link to request more storage: https://portal.training.invalid/verify
+
+Failure to take this action within the next 48 hours may result in limited access to your email.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+IT Support Team
+IIT Hyderabad
+it-support@training.invalid

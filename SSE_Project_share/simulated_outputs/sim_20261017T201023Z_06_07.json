@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "library account suspended for overdue books, log in to restore borrowing",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00266",
+    "ACAD-R-00354",
+    "ACAD-R-00126",
+    "ACAD-R-00484"
+  ],
+  "subject": "Library Account Suspended: Overdue Books",
+  "body": "Dear [Student Name],\n\nWe regret to inform you that your library account has been suspended due to outstanding overdue books. To restore your borrowing privileges, please log in to the system by clicking the link below as soon as possible.\n\n[https://portal.training.invalid/verify]\n\n**Important Information:**\n- You have until the end of this week to resolve the issue.\n- Failure to do so will result in a temporary suspension of your library access.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nLibrary Administrator\nIIT Hyderabad",
+  "red_flags": []
+}

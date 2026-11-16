@@ -1,0 +1,22 @@
+Subject: Important: Wi-Fi Certificate Renewal for [Student Name]
+
+Dear [Student Name],
+
+This is a reminder that your eduroam Wi-Fi certificate is set to expire soon. To ensure uninterrupted access to the IIT Hyderabad campus Wi-Fi, you must renew your certificate by this Friday, October 14, 2022.
+
+To renew your certificate, please follow the steps below:
+
+1. Visit the official IIT Hyderabad Wi-Fi renewal portal: [https://portal.training.invalid/verify]
+2. Enter your student ID and password when prompted.
+3. Complete the renewal process as soon as possible to avoid any disruptions to your internet access.
+
+Failure to renew your certificate by the deadline will result in a temporary suspension of your eduroam access. This will affect your ability to access the internet on campus for the remainder of the academic year.
+
+If you have any questions or need assistance, please contact the IT Help Desk at ITHelpDesk@training.invalid.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+The IT Support Team
+IIT Hyderabad

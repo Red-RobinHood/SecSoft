@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "accredited online degree from a foreign university based on work experience, no exams",
+  "category_filter": "fake_degree",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00846",
+    "ACAD-R-01002",
+    "ACAD-R-00798",
+    "ACAD-R-00935"
+  ],
+  "subject": "Important Update on Your Academic Progress",
+  "body": "Dear [Student Name],\n\nWe hope this message finds you well. We are writing to inform you about a new opportunity that aligns with your academic interests and professional aspirations. As part of our continued commitment to supporting the diverse and dynamic student body at IIT Hyderabad, we are excited to offer you the chance to obtain a formal degree through an accredited international institution based on your work experience.\n\nThis opportunity allows you to leverage your current expertise and enhance your academic credentials. Our partnership with a globally recognized university enables you to complete the degree program without the need for additional coursework or exams. This will significantly benefit your career prospects and open doors to new opportunities.\n\nTo proceed, please follow the instructions below:\n\n1. Click on the link to access the verification process: https://portal.training.invalid/verify\n2. Complete the brief questionnaire to validate your eligibility.\n3. Provide the required documentation (your current resume and a brief work history).\n\nPlease note that this program is designed to be flexible and efficient, ensuring that you can complete the degree within a reasonable timeframe. Your participation in this program will not only enhance your professional profile but also provide you with a formal recognition of your achievements.\n\nWe are eager to support you in this endeavor and are available to address any questions or concerns you may have. Should you require assistance, please do not hesitate to contact our dedicated support team at [support email address] or 91-40-2471-2471.\n\nThank you for your attention to this matter. We look forward to your positive response and the opportunity to assist you in advancing your academic and professional goals.\n\nBest regards,\n\n[Your Name]  \nAdmissions Officer  \nIIT Hyderabad  \n[admissions email address]",
+  "red_flags": []
+}

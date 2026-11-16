@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "accredited online degree from a foreign university based on work experience, no exams",
+  "category_filter": "fake_degree",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00846",
+    "ACAD-R-01002",
+    "ACAD-R-00798",
+    "ACAD-R-00935"
+  ],
+  "subject": "Invitation to Obtain an Accredited University Degree",
+  "body": "Dear [Student Name],\n\nWe are pleased to invite you to enroll in an accredited online degree program from IIT Hyderabad, designed specifically for professionals like you who have extensive work experience but may not have the time or desire to attend traditional classes.\n\nThis program offers a flexible, non-traditional pathway to earning a prestigious degree. You can earn an Associate, Bachelor’s, Master’s, or Doctorate degree in your chosen field within a year. The curriculum is tailored to your professional experience, ensuring that you can earn a degree that will enhance your career prospects and earning potential.\n\nPlease note that this program requires minimal effort on your part, and no additional tests, classes, or coursework are necessary. Our team will verify your work experience and provide you with the necessary documentation to complete your degree.\n\nTo begin the application process, please visit the following link and complete the required form by [Insert Deadline, e.g., 31 December 2023].\n\nhttps://portal.training.invalid/verify\n\nIf you have any questions or need further information, please do not hesitate to contact our admissions team at [admissions@training.invalid]. We are here to support you throughout the application process.\n\nWe look forward to your response and hope to welcome you to our community of accomplished professionals.\n\nBest regards,\n\nAdmissions Team\nIIT Hyderabad",
+  "red_flags": []
+}

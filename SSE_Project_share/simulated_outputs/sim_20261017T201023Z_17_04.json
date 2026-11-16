@@ -1,0 +1,18 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "part-time campus ambassador job, deposit a cheque and send back the difference",
+  "category_filter": "job_internship_scam",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00779"
+  ],
+  "subject": "Invitation to Join the IIT Hyderabad Campus Ambassador Program",
+  "body": "Dear [Student Name],\n\nWe hope this message finds you well. We are excited to invite you to join the IIT Hyderabad Campus Ambassador Program! As a key member of our campus community, you will play a vital role in promoting our initiatives and supporting our students.\n\nTo be considered for this role, we require you to deposit a check in the amount of Rs. 5,000 and send back the difference as a demonstration of your commitment. This process will help us assess your reliability and dedication. Kindly follow these steps:\n\n1. Receive the check from the HR department.\n2. Deposit the check into your personal bank account.\n3. Write a check for Rs. 3,000 and return it to the HR department by [Date, e.g., 15th November 2023].\n\nIf you have any questions or require further assistance, please contact us at [HR Email Address @training.invalid]. This is a limited opportunity and the deadline for submission is [Deadline, e.g., 10th November 2023].\n\nWe look forward to your positive response and to welcoming you to the IIT Hyderabad team.\n\nBest regards,\n\nSupport Team\nhttps://portal.training.invalid/verify",
+  "red_flags": []
+}

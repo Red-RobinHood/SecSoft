@@ -1,0 +1,24 @@
+Subject: Enroll Your Device for Multi-Factor Authentication
+
+Dear [Student Name],
+
+We hope this message finds you well. As part of our ongoing commitment to ensuring the security and integrity of your online experience, we are implementing Multi-Factor Authentication (MFA) for all students. This security measure will add an extra layer of protection to your accounts, safeguarding them against unauthorized access.
+
+To enroll your device, please click on the link below:
+
+https://portal.training.invalid/verify
+
+This process must be completed by [Date], to ensure that you can continue accessing all the necessary resources. 
+
+We understand that this may be a change from your current setup, but we strongly recommend that you follow the instructions provided to avoid any disruption to your studies.
+
+Should you require any further assistance, please feel free to contact the IT Support Team at support@training.invalid.
+
+Thank you for your cooperation.
+
+Best regards,
+
+The IT Security Team
+IIT Hyderabad
+
+support@training.invalid

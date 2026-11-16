@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "IT helpdesk ticket resolved, sign in to rate the support and keep the ticket open",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00242",
+    "ACAD-R-00050",
+    "ACAD-R-00421",
+    "ACAD-R-00699"
+  ],
+  "subject": "IT Helpdesk Ticket Resolution",
+  "body": "Dear [Student Name],\n\nThis email follows up on the ticket you submitted regarding the software installation issue you reported last week. I am glad to inform you that your request has been processed, and the issue has been resolved.\n\nTo ensure we have accurate feedback and to keep your ticket open for any future reference, please take a moment to rate the support provided. Your feedback is invaluable to us as we continue to improve our services.\n\nYou can rate the support and close your ticket by clicking the following link:\n\nhttps://portal.training.invalid/verify\n\nThank you for your cooperation.\n\nBest regards,\nIT Helpdesk Team\nIIT Hyderabad\n[IT Helpdesk Email Address] @training.invalid",
+  "red_flags": []
+}

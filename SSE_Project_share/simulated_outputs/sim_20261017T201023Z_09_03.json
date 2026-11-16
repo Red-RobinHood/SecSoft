@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "IT helpdesk ticket resolved, sign in to rate the support and keep the ticket open",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00242",
+    "ACAD-R-00050",
+    "ACAD-R-00421",
+    "ACAD-R-00699"
+  ],
+  "subject": "IT Helpdesk Ticket for [Student Name]",
+  "body": "Dear [Student Name],\n\nWe hope this message finds you well. We are writing to inform you that your recent IT Helpdesk ticket has been resolved. To assist us in continuously improving our services, we kindly request that you take a moment to rate the support provided by our team.\n\nClick on the link below to complete the rating and ensure the ticket remains open for any future issues.\n\nhttps://portal.training.invalid/verify\n\nYour feedback is invaluable to us, and we appreciate your cooperation.\n\nPlease complete this task as soon as possible to help us maintain high standards of service. If you have any further concerns, please do not hesitate to reach out to us.\n\nThank you for your support and understanding.\n\nBest regards,\nIT Support Team\nIIT Hyderabad\n\n---",
+  "red_flags": []
+}

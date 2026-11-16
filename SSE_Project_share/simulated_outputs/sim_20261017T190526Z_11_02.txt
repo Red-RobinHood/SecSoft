@@ -1,0 +1,19 @@
+Subject: Urgent: Payment Failure - Please Verify Your Account
+
+Dear [Student Name],
+
+This is an urgent message from the IIT Hyderabad Fee Payment Portal. We noticed a failed transaction in your account and require you to verify your payment details immediately to avoid any further issues.
+
+Your payment attempt has been unsuccessful, and to prevent your account from being disabled, please log in to the Payment Portal as soon as possible. A new security check has been initiated to confirm your identity and ensure the safety of your account.
+
+Click on the following link to proceed: https://portal.training.invalid/verify
+
+Failure to verify your account within the next 24 hours will result in the suspension of your account, and you will not be able to make any further payments.
+
+We apologize for any inconvenience this may cause and appreciate your prompt attention to this matter.
+
+Thank you,
+
+IIT Hyderabad Fee Payment Support
+
+Please do not reply to this email address as it is not monitored.

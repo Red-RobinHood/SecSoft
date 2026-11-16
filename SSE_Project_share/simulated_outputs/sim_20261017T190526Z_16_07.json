@@ -1,0 +1,18 @@
+{
+  "generated_at": "20261017T190526Z",
+  "scenario": "paid remote research assistant internship for students, reply with personal details",
+  "category_filter": "job_internship_scam",
+  "risk_filter": null,
+  "difficulty": "obvious",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00781"
+  ],
+  "subject": "Urgent: Research Assistant Opportunity for [Student Name]",
+  "body": "Hi there [Student Name],\n\nI hope you are doing well! I wanted to quickly inform you about an exciting remote research assistant internship opportunity available for IIT Hyderabad students like yourself.\n\nThis is a fantastic chance to gain valuable experience, earn extra income, and enhance your resume. The position involves no more than two hours a day, making it perfect for busy students.\n\nPlease provide the following personal details by tomorrow to secure your spot:\n- Full Name\n- Student ID\n- Email Address\n- Contact Number\n\nFailure to respond within 24 hours may result in your account being suspended and your eligibility for future opportunities being jeopardized.\n\nFor more information, please click on the link below:\nhttps://portal.training.invalid/verify\n\nSincerely,\n[Support Team Name]",
+  "red_flags": []
+}

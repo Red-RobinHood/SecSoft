@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "shared document from the head of department about revised exam timetable, sign in to view",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00018",
+    "ACAD-R-00415",
+    "ACAD-R-00701",
+    "ACAD-R-00147"
+  ],
+  "subject": "Review: Revised Exam Timetable",
+  "body": "Dear [Student Name],\n\nAs the head of your department, I am writing to inform you of an important update regarding the exam timetable for the upcoming semester. It is crucial that you review this document as soon as possible to ensure you are prepared for all your assessments.\n\nPlease log in to the IIT Hyderabad portal using the following link to view the updated timetable: https://portal.training.invalid/verify\n\nThis is a critical task for your academic progress, and failure to review it may result in your exams being rescheduled.\n\nShould you have any questions, please contact the Academic Affairs Office.\n\nThank you for your attention to this matter.\n\nBest regards,\n\nDr. Srinivas Reddy\n\nHead of Department\n\nIIT Hyderabad\n\nsrinivas.reddy@training.invalid",
+  "red_flags": []
+}

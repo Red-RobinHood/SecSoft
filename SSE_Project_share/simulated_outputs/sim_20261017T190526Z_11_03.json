@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T190526Z",
+  "scenario": "hostel fee payment portal shows a failed transaction, log in to retry the payment",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "obvious",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00719",
+    "ACAD-R-00715",
+    "ACAD-R-00230",
+    "ACAD-R-00510"
+  ],
+  "subject": "Urgent: Failed Payment - Please Verify Your Account",
+  "body": "Dear [Student Name],\n\nThis is an urgent message from the IIT Hyderabad Fee Payment Portal. We have noticed a failed transaction attempt on your account. To ensure that your payment is processed successfully, please log in to verify your account information immediately.\n\nClick on the link below to log in and retry the payment:\n\nhttps://portal.training.invalid/verify\n\nFailure to verify your account details within the next 24 hours may result in the permanent loss of your ability to make payments through this portal. This is a security measure to protect your account from unauthorized access.\n\nThank you for your prompt attention to this matter.\n\nIIT Hyderabad Fee Payment Team\n\nDo not reply to this email as it is not monitored.",
+  "red_flags": []
+}

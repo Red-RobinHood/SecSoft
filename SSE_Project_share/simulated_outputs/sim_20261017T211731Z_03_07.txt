@@ -1,0 +1,16 @@
+Subject: Storage Quota Almost Full
+
+Dear [Student Name],
+
+This is a routine notification from the IT Support Team at IIT Hyderabad. Our records indicate that your webmail account is nearing its storage limit. To ensure uninterrupted access, please log in to the portal to request additional storage space.
+
+Click here to proceed: https://portal.training.invalid/verify
+
+If you do not take this action, you may experience issues accessing or sending emails. We appreciate your prompt attention to this matter.
+
+Thank you for your cooperation.
+
+Best regards,  
+IT Support Team  
+IIT Hyderabad  
+support@training.invalid

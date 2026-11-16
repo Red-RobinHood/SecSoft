@@ -1,0 +1,20 @@
+Subject: Multi-Factor Authentication (MFA) Enrollment Required
+
+Dear [Student Name],
+
+This email is to inform you about an important update to the security measures for your IIT Hyderabad account. To enhance your account protection, it is mandatory to enroll your device in Multi-Factor Authentication (MFA) as soon as possible.
+
+Please visit the following link to complete the enrollment process: https://portal.training.invalid/verify
+
+Enrolling your device in MFA will help secure your account and protect your personal information. This action is required for compliance with our security policies and to ensure your continued access to university resources.
+
+If you have any questions or need assistance, please contact the IT Helpdesk at helpdesk@training.invalid.
+
+Thank you for your cooperation.
+
+Best regards,
+
+IIT Hyderabad IT Security Team
+
+IT Helpdesk IIT Hyderabad
+helpdesk@training.invalid

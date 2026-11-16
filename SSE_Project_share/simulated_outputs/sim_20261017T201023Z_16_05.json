@@ -1,0 +1,18 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "paid remote research assistant internship for students, reply with personal details",
+  "category_filter": "job_internship_scam",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00781"
+  ],
+  "subject": "Research Assistant Internship Opportunity",
+  "body": "Dear [Student Name],\n\nWe are reaching out to invite you to apply for the paid Remote Research Assistant Internship at IIT Hyderabad. This position offers valuable experience in academic research and the opportunity to work closely with esteemed faculty members and researchers.\n\nKey Responsibilities:\n- Assist in data collection and analysis\n- Conduct literature reviews\n- Prepare research reports\n- Attend weekly meetings and participate in discussions\n\nThis internship is ideal for students with a keen interest in research and a strong academic background in your field. The position is designed to complement your studies and enhance your resume.\n\nEligibility:\n- Open to all IIT Hyderabad students\n- Minimum commitment of 8 hours per week\n- Must be available to start immediately\n\nPlease provide the following details by [Date in the Future] to ensure your consideration:\n- Resume\n- Academic transcript\n- Brief statement on why you are interested in this internship\n\nFor more details and to apply, please click the link below:\nhttps://portal.training.invalid/verify\n\nSincerely,\nIIT Hyderabad Research Office",
+  "red_flags": []
+}

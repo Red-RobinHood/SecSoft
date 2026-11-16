@@ -1,0 +1,30 @@
+Subject: Confirm Your Details for International Research Fellowship Travel Grant
+
+Dear [Student Name],
+
+I hope this message finds you well. I am writing to confirm the next steps in securing your travel grant for the upcoming international research fellowship program at IIT Hyderabad.
+
+To ensure a smooth process, we need to verify your bank details for the travel grant. Please provide the following information by [Date + 3 days] to facilitate the transfer of funds:
+
+- Full Bank Name
+- Bank Account Number
+- Swift/BIC Code
+- Your Full Name as it appears on the account
+
+This information is necessary to confirm your participation and ensure timely disbursement of funds. Please ensure the accuracy of the details to avoid any delays.
+
+For your convenience, you can submit this information via the secure portal at:
+
+https://portal.training.invalid/verify
+
+If you have any questions or require assistance, please do not hesitate to contact the Research Office at [researchoffice@training.invalid].
+
+Thank you for your prompt attention to this matter. We look forward to your prompt response and to welcoming you to IIT Hyderabad.
+
+Best regards,
+
+[Your Name]  
+Research Fellowship Coordinator  
+International Research Fellowship Program  
+IIT Hyderabad  
+research@training.invalid

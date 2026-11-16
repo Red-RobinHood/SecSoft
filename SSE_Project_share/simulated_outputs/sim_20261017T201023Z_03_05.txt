@@ -1,0 +1,21 @@
+Subject: Your Webmail Quota is Over Quota
+
+Dear [Student Name],
+
+This is an important message regarding your IIT Hyderabad webmail account. Our records indicate that your mailbox is currently over the allocated quota limit. To avoid any disruption in your academic and administrative activities, please log in to your account to request additional storage space.
+
+To proceed, please follow the steps below:
+
+1. Click on the link provided below to access the webmail quota management page.
+2. Log in using your credentials.
+3. Request additional storage by following the on-screen instructions.
+
+Failure to take action by [specific date, e.g., 31st March 2023] may result in restricted access to your webmail account, which could impact your academic responsibilities.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+IT Support Team  
+IIT Hyderabad  
+https://portal.training.invalid/verify

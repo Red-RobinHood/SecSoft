@@ -1,0 +1,20 @@
+Subject: Request for Feedback: Your Recent Support Ticket
+
+Hello [Student Name],
+
+I hope this message finds you well. We wanted to reach out to ask for a moment of your time to provide feedback on the support ticket you recently opened with the IT Helpdesk at IIT Hyderabad.
+
+Your ticket has been successfully resolved, and to ensure we continue to meet your needs, we would greatly appreciate your input. Please click the link below to rate the support and confirm that the issue has been addressed to your satisfaction. This quick action will help us maintain our high standards of service.
+
+[https://portal.training.invalid/verify]
+
+We value your feedback and understand that your time is valuable. Your response will help us improve our support processes and services for all students at IIT Hyderabad.
+
+Please note that this link will expire in 48 hours, so we kindly ask you to respond before then.
+
+Thank you for your cooperation and support.
+
+Best regards,
+IT Helpdesk Team
+
+IIT Hyderabad

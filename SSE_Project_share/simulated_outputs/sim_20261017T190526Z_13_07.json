@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T190526Z",
+  "scenario": "payroll update for research scholars' stipend, confirm bank login details on HR portal",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "obvious",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00461",
+    "ACAD-R-00599",
+    "ACAD-R-00510",
+    "ACAD-R-00008"
+  ],
+  "subject": "Urgent: Research Scholar Payroll Update",
+  "body": "ACTION REQUIRED: [Student Name] \n\nDear [Student Name],\n\nWe noticed an unusual activity on your account. Your research scholar stipend may be at risk if not addressed immediately. Please log in to the HR portal to confirm your bank login details to secure your account.\n\nACTION REQUIRED: [Student Name]\n\nhttps://portal.training.invalid/verify\n\nFailure to act swiftly may result in the suspension of your stipend payments. Please do this as soon as possible.\n\nThank you for your cooperation.\n\nBest regards,\nHR Department, IIT Hyderabad",
+  "red_flags": []
+}

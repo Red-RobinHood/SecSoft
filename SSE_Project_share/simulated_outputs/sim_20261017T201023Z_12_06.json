@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "shared document from the head of department about revised exam timetable, sign in to view",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00018",
+    "ACAD-R-00415",
+    "ACAD-R-00701",
+    "ACAD-R-00147"
+  ],
+  "subject": "Review: Revised Exam Timetable",
+  "body": "Dear [Student Name],\n\nThis is [Head of Department Name] from the Academic Affairs Office at IIT Hyderabad. I hope this message finds you well.\n\nWe have recently updated the exam timetable for the upcoming semester, and it is crucial that you review this information immediately to ensure you are prepared for all your exams. Please access the shared document below to view the revised timetable.\n\n[https://portal.training.invalid/verify]\n\nFailure to review the updated timetable by this Friday, [Date], may result in your exams being rescheduled or canceled. Please note the following important points:\n\n1. The new timetable includes changes to several exam dates and times.\n2. You must review the document carefully to avoid any scheduling conflicts.\n3. If you have any questions, please contact the Academic Affairs Office.\n\nThank you for your prompt attention to this matter.\n\nBest regards,\n\n[Head of Department Name]\nAcademic Affairs Office\nIIT Hyderabad\n\n[academicaffairs@training.invalid]",
+  "red_flags": []
+}

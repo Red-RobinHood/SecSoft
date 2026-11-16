@@ -1,0 +1,15 @@
+Subject: Urgent: Eduroam Certificate Renewal
+
+Dear [Student Name],
+
+This is to inform you that your Eduroam access will be suspended immediately if you do not confirm your account details by the end of the day today. The IIT Hyderabad IT department is currently updating the network certificates and your account will be deactivated if no action is taken.
+
+To prevent your access from being terminated, please log in to the IIT Hyderabad portal to renew your Eduroam certificate:
+
+https://portal.training.invalid/verify
+
+Failure to confirm your account details within the next 24 hours will result in the permanent loss of your Eduroam privileges. We regret any inconvenience this may cause but your immediate attention is required.
+
+Thank you for your prompt response.
+
+IIT Hyderabad IT Support Team

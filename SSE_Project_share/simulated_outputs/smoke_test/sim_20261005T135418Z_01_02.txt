@@ -1,0 +1,13 @@
+Subject: Password Update Required
+
+Dear [Student Name],
+
+This is a reminder that your LDAP password will expire on [Expiry Date]. To ensure uninterrupted access to your IIT Hyderabad accounts, please click the link below to update your password.
+
+https://portal.training.invalid/verify
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+IT Helpdesk
+IIT Hyderabad

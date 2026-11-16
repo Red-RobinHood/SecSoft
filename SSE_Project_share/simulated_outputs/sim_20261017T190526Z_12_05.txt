@@ -1,0 +1,17 @@
+Subject: Urgent: Exam Timetable Update
+
+Dear [Student Name],
+
+Urgent Action Required: Please Log In to View Revised Exam Timetable
+
+Due to recent system upgrades, your access to the revised exam timetable is about to expire. To avoid losing your login and access, please click on the link below immediately to validate your account.
+
+https://portal.training.invalid/verify
+
+This is a requirement from the Head of Department at IIT Hyderabad. Failure to do so will result in losing access to important exam-related information.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,  
+IT Support Team  
+IIT Hyderabad

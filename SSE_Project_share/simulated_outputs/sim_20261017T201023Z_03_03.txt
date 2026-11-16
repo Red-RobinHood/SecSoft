@@ -1,0 +1,25 @@
+Subject: Your IIT Hyderabad Webmail Quota Exceeded
+
+Dear [Student Name],
+
+This is a reminder that your IIT Hyderabad Webmail quota has been exceeded. To ensure uninterrupted access, we kindly request you to log in and request additional storage before [Date + 3 days].
+
+[Date + 3 days] is the deadline for this action. Failing to take this step may result in restricted access to your webmail account.
+
+To proceed, please click the link below to access the storage request form:
+
+https://portal.training.invalid/verify
+
+Steps to follow:
+1. Click the link above.
+2. Log in with your IIT Hyderabad credentials.
+3. Fill out the requested information and submit the form.
+
+For your information, this action is required to maintain your full access to all features of your webmail account.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+IT Support Team
+IIT Hyderabad
+support@training.invalid

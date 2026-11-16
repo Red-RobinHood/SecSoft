@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T190526Z",
+  "scenario": "international research fellowship shortlist, submit bank details for the travel grant",
+  "category_filter": "scholarship_grant_scam",
+  "risk_filter": null,
+  "difficulty": "obvious",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00873",
+    "ACAD-R-00886",
+    "ACAD-R-00840",
+    "ACAD-R-00838"
+  ],
+  "subject": "Urgent: Submit Bank Details for Your Research Fellowship",
+  "body": "Dear [Student Name],\n\nThis is an urgent matter and requires your immediate attention. You have been selected as a finalist for the International Research Fellowship at IIT Hyderabad. In order to secure your place, you must submit your bank details by this Friday, April 15th, 2022, at 5:00 PM IST.\n\nFailure to do so may result in the loss of your fellowship. Please proceed to the following link to complete the required form: https://portal.training.invalid/verify\n\nFor your convenience, the form is brief and only requires your bank account number, IFSC code, and the beneficiary name. Once you have submitted this information, we will process your travel grant immediately.\n\nIf you have any questions, please contact our support team at fellowship.support@training.invalid. We are available 24/7 to assist you.\n\nThank you for your prompt attention to this matter.\n\nBest regards,\n\nThe Fellowship Coordination Team\nIIT Hyderabad",
+  "red_flags": []
+}

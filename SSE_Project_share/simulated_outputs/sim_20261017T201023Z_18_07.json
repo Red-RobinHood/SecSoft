@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "accredited online degree from a foreign university based on work experience, no exams",
+  "category_filter": "fake_degree",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00846",
+    "ACAD-R-01002",
+    "ACAD-R-00798",
+    "ACAD-R-00935"
+  ],
+  "subject": "Acquire an Accredited Online Degree from IIT Hyderabad",
+  "body": "Dear [Student Name],\n\nWe are excited to inform you about a unique opportunity to enhance your professional profile with an accredited online degree from [IIT Hyderabad]. This program allows you to obtain a degree based on your extensive work experience, ensuring a seamless and convenient learning experience from the comfort of your workplace.\n\nThe degree is recognized globally and is designed to meet the highest standards of academic excellence. This is an exceptional chance to formalize your expertise and open doors to advanced career opportunities. The program is open to professionals like you who have a minimum of [3-5 years] of relevant work experience.\n\nTo proceed, please click on the link below to complete your application by [31st March 2023]. We understand your busy schedule, hence, the flexible online format ensures that you can manage your studies alongside your professional commitments.\n\n[https://portal.training.invalid/verify]\n\nKey Points:\n1. No additional exams required.\n2. Based on your professional experience.\n3. Officially accredited by international bodies.\n\nIf you have any questions or need further information, please do not hesitate to contact our admissions team at [admissions@training.invalid].\n\nThank you for considering this opportunity. We look forward to your application and the chance to support your professional growth.\n\nBest regards,\nAdmissions Team\n[admissions@training.invalid]",
+  "red_flags": []
+}

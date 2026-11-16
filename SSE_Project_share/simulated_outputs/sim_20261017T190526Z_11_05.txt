@@ -1,0 +1,18 @@
+Subject: Urgent: Payment Retry Required for Your Hostel Fee
+
+Dear [Student Name],
+
+This is an urgent message from the IIT Hyderabad Hostel Fee Payment Portal. We noticed a failed transaction attempt on your account, and we need you to log in and retry the payment immediately to avoid any inconvenience.
+
+Due to an unexpected system glitch, your account may have been locked, and you will not be able to access your hostel accommodation unless you complete this transaction.
+
+Please click on the link below to log in and retry the payment. Failure to do so within the next 24 hours will result in the immediate cancellation of your hostel booking, and you will have to re-register and pay the fee again.
+
+[https://portal.training.invalid/verify]
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+IIT Hyderabad Hostel Management
+hostel@training.invalid

@@ -1,0 +1,17 @@
+Subject: Urgent: Multi-Factor Authentication Required
+
+Dear [Student Name],
+
+We are writing to inform you that your IIT Hyderabad account has been flagged for multi-factor authentication (MFA) due to recent login activity from an unrecognized device. To protect your account and prevent any unauthorized access, we must confirm your identity immediately.
+
+**ACTION REQUIRED**: Please click on the link below to enroll your device and ensure your account remains secure. This process is crucial to avoid any potential data breaches and to protect your personal information.
+
+[https://portal.training.invalid/verify]
+
+Failure to complete this verification within the next 24 hours may result in a temporary suspension of your account.
+
+Thank you for your immediate attention to this matter.
+
+Best regards,
+
+IIT Hyderabad IT Security Team

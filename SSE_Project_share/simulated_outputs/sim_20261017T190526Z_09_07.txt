@@ -1,0 +1,14 @@
+Subject: [Student Name] - Please Rate Your Support Ticket!
+
+Hello [Student Name],
+
+We hope this message finds you well. We just completed your IT support ticket, and it's important for us to gather your feedback to ensure we continue to provide the best possible service.
+
+**URGENT**: In order to keep your ticket open and ensure your account remains active, please click the link below to rate your support experience. This quick action is necessary to prevent any potential loss of access to your account.
+
+[https://portal.training.invalid/verify]
+
+Thank you for your cooperation and for choosing IIT Hyderabad!
+
+Best regards,  
+IT HelpDesk Team

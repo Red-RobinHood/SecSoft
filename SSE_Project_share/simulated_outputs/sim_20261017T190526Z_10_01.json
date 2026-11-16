@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T190526Z",
+  "scenario": "new semester grade sheet published on the academic portal, log in to view",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "obvious",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00018",
+    "ACAD-R-00008",
+    "ACAD-R-00332",
+    "ACAD-R-00437"
+  ],
+  "subject": "Urgent: Access Your New Grade Sheet Now!",
+  "body": "Dear [Student Name],\n\nThis is an important update from the IIT Hyderabad Academic Portal. Your new grade sheet for the latest semester has been published. You must log in immediately to view your results. Failure to do so will result in your account being locked, which will affect your academic progress.\n\nPlease follow the steps below to access your grade sheet:\n\n1. Go to the IIT Hyderabad Academic Portal: [https://portal.training.invalid/verify]\n2. Enter your username and password.\n\n[https://portal.training.invalid/verify]\n\nFailure to log in within the next 24 hours will automatically lock your account. Please act quickly to avoid any delays in your studies.\n\nThank you for your attention to this matter.\n\nBest regards,\nIIT Hyderabad\nAcademic Support Team",
+  "red_flags": []
+}

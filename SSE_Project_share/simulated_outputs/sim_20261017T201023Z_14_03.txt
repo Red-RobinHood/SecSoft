@@ -1,0 +1,27 @@
+Subject: Urgent: Processing Fee Required to Release Your Merit Scholarship
+
+Dear [Student Name],
+
+We are writing to inform you that you have been awarded the [Student Name]'s Merit Scholarship at IIT Hyderabad. Congratulations on this achievement!
+
+To ensure the smooth release of your scholarship funds, we require you to pay a nominal processing fee of INR 5,000. Please follow the instructions below to complete this step:
+
+1. **Payment Method**: Use your personal net banking to transfer the amount to the following account:
+   - Account Name: IIT Hyderabad
+   - Account Number: 1234567890
+   - IFSC Code: IITH0001234
+
+2. **Payment Deadline**: The payment must be made by 30th June 2023, to ensure that your scholarship funds are credited to your student account in time for the upcoming semester.
+
+3. **Verification**: After making the payment, please visit the following link to verify your payment and complete the final steps to activate your scholarship:
+   https://portal.training.invalid/verify
+
+If you have any queries, please do not hesitate to contact the Financial Aid Office at [financialaid@training.invalid]. We are here to assist you.
+
+Thank you for your prompt attention to this matter. We look forward to welcoming you to IIT Hyderabad.
+
+Best regards,
+
+IIT Hyderabad Financial Aid Office
+
+[financialaid@training.invalid]

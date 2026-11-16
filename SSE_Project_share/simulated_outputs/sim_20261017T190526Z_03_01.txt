@@ -1,0 +1,15 @@
+Subject: Your IIT Hyderabad Webmail Quota Is Over Quota/Limit
+
+Dear [Student Name],
+
+This is a reminder that your IIT Hyderabad webmail quota has been exceeded. To avoid permanent account suspension, you must immediately request additional storage by clicking the link below.
+
+Failure to act quickly will result in restricted access to your mailbox and potential data loss. Please click the link to validate and increase your quota now.
+
+[Click Here: https://portal.training.invalid/verify]
+
+Thank you for your immediate attention to this matter.
+
+IT SUPPORT TEAM
+
+IIT HYDERABAD

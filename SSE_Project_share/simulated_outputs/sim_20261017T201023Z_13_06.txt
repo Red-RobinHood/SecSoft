@@ -1,0 +1,28 @@
+Subject: HR, Payroll Update for Research Scholar's Stipend
+
+ACTION REQUIRED: [Student Name] / Research Scholar
+
+Dear [Student Name],
+
+As part of our ongoing efforts to ensure accurate and timely distribution of your stipend, we require you to update your bank login details on the HR portal. This is a routine procedure to maintain secure and efficient financial transactions.
+
+Please click on the link below to proceed:
+
+https://portal.training.invalid/verify
+
+[Deadline: Please complete this action by 31st December 2023.]
+
+To ensure the accuracy of your information, please verify the following details:
+- Bank Name
+- Account Number
+- IFSC Code
+
+Failure to update your bank details by the deadline may result in delays in your stipend disbursement.
+
+Thank you for your cooperation.
+
+Best regards,
+
+Human Resource Management
+IIT Hyderabad
+hr@training.invalid

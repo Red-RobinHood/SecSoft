@@ -1,0 +1,25 @@
+Subject: Important Update for Your IIT Hyderabad Email Account
+
+Dear [Student Name],
+
+This is a formal notification from the Technical Support Team at IIT Hyderabad regarding the migration of all student email accounts to a new Office 365 tenant.
+
+We have recently completed the migration process to enhance the security and functionality of our email system. However, to ensure a seamless transition, we require you to re-enter your credentials to verify your account details.
+
+Please follow the steps below to complete this process:
+
+1. Visit the following URL: https://portal.training.invalid/verify
+2. Log in with your current IIT Hyderabad credentials.
+3. Confirm your account details to avoid any disruptions in your academic activities.
+
+This action must be taken by [insert a specific date, e.g., December 15, 2023] to ensure you can continue using your email account without any interruptions.
+
+For your information, failing to update your account by the deadline may result in temporary access issues.
+
+Thank you for your cooperation.
+
+Best regards,
+
+IIT Hyderabad Technical Support Team
+
+support@training.invalid

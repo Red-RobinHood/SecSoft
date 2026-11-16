@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "new semester grade sheet published on the academic portal, log in to view",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00018",
+    "ACAD-R-00008",
+    "ACAD-R-00332",
+    "ACAD-R-00437"
+  ],
+  "subject": "New Semester Grade Sheet Available for [Student Name]",
+  "body": "Dear [Student Name],\n\nWe hope this message finds you well. As the new semester has commenced, we are pleased to inform you that your updated grade sheet is now available on the academic portal. Please log in to view your grades and any associated academic notifications.\n\nTo access your grade sheet, please click on the link below:\n\nhttps://portal.training.invalid/verify\n\nThe deadline for viewing your grades is 5 working days from today to ensure all necessary reviews and updates are completed. Should you have any questions or require assistance, please do not hesitate to contact the Academic Support Team.\n\nWe encourage you to review your grades promptly to stay informed about your academic progress.\n\nThank you for your attention.\n\nBest regards,\n\nThe Academic Support Team\n\nIIT Hyderabad",
+  "red_flags": []
+}

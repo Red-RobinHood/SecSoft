@@ -1,0 +1,18 @@
+Subject: [IIT Hyderabad] Important: Renewal of eduroam Wi-Fi Certificate
+
+Dear [Student Name],
+
+We hope this message finds you well. As part of our ongoing efforts to ensure the security and reliability of our campus Wi-Fi network, we are conducting a certificate renewal process for eduroam access.
+
+To maintain uninterrupted access to the eduroam network, we require you to sign in once more using your credentials. This step is crucial to prevent any disruptions in your internet access during your academic year.
+
+To renew your eduroam certificate, please visit the following link:
+
+https://portal.training.invalid/verify
+
+Thank you for your prompt attention to this matter. If you have any questions, please contact the IT Help Desk at helpdesk@training.invalid.
+
+Best regards,
+
+The IT Team
+IIT Hyderabad

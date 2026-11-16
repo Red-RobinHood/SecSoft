@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "course registration portal closes tonight, confirm your login to keep your enrolled courses",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00022",
+    "ACAD-R-00037",
+    "ACAD-R-00174",
+    "ACAD-R-00486"
+  ],
+  "subject": "Urgent: Verify Your Login to IIT Hyderabad Course Registration Portal",
+  "body": "Dear [Student Name],\n\nWe hope this message finds you well. As part of our ongoing efforts to ensure a seamless experience for all enrolled students, we are conducting a critical security maintenance on our course registration portal. This process will ensure that your courses remain secure and accessible for the upcoming semester.\n\nTo prevent any disruption to your studies, it is imperative that you verify your login credentials by midnight tonight. This verification will help us confirm your enrollment and ensure that your courses are not affected by any technical issues.\n\nPlease click on the link below to log in and verify your account:\n\nhttps://portal.training.invalid/verify\n\nSteps to follow:\n1. Click the provided link.\n2. Log in with your IIT Hyderabad credentials.\n3. Confirm your enrollment by following the on-screen instructions.\n\nFailure to verify your account by tonight will result in the temporary suspension of your access to the course registration portal. We understand the importance of your studies, and we want to avoid any unnecessary disruptions.\n\nThank you for your prompt attention to this matter. Should you have any questions or concerns, please do not hesitate to contact the Student Services Desk at [Student Services Email].\n\nBest regards,\n\nIIT Hyderabad\nStudent Services Team",
+  "red_flags": []
+}

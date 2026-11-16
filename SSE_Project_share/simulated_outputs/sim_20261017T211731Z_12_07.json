@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "shared document from the head of department about revised exam timetable, sign in to view",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00018",
+    "ACAD-R-00415",
+    "ACAD-R-00701",
+    "ACAD-R-00147"
+  ],
+  "subject": "Important Update: Revised Exam Timetable",
+  "body": "Dear [Student Name],\n\nI hope this message finds you well. As the semester progresses, it's crucial that we keep all students informed about any changes to the academic calendar. Please take a moment to review the attached document, which contains the revised exam timetable for the upcoming weeks.\n\nThis is an important document, and it's essential that you have the correct information to ensure you don't miss any critical dates. To access the document, simply click on the link below:\n\nhttps://portal.training.invalid/verify\n\nThank you for your attention to this matter. If you have any questions, please feel free to contact the Student Services Office.\n\nBest regards,\n\n[Name]\nHead of Department\nDepartment of Computer Science\nIIT Hyderabad\nstudent.services@training.invalid",
+  "red_flags": []
+}

@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "shared document from the head of department about revised exam timetable, sign in to view",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00018",
+    "ACAD-R-00415",
+    "ACAD-R-00701",
+    "ACAD-R-00147"
+  ],
+  "subject": "Shared Document: Revised Exam Timetable",
+  "body": "Dear [Student Name],\n\nI hope this message finds you well. As you may be aware, the head of the [Department Name] has just shared an updated exam timetable for the upcoming semester. For your convenience, please sign in to your account to review the latest changes.\n\n[Click here to access the document](https://portal.training.invalid/verify)\n\nIf you have any questions or need further assistance, please feel free to reach out to the Academic Support Team.\n\nThank you for your attention to this matter.\n\nBest regards,\n\nAcademic Support Team  \n[Academic Support Team Email: academic.support@training.invalid]  \nIIT Hyderabad  \nDepartment of [Department Name]",
+  "red_flags": []
+}

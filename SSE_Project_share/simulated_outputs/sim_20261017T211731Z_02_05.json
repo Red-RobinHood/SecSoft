@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "AIMS academic portal account locked after failed logins, verify identity to unlock",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00719",
+    "ACAD-R-00022",
+    "ACAD-R-00234",
+    "ACAD-R-00497"
+  ],
+  "subject": "Verify Your IIT Hyderabad AIMS Account",
+  "body": "Dear [Student Name],\n\nThis email is to notify you that your IIT Hyderabad AIMS account has been temporarily locked due to multiple failed login attempts. To prevent any disruption to your academic activities, please verify your identity by clicking on the link below.\n\nhttps://portal.training.invalid/verify\n\nYour account will be unlocked once your identity is confirmed. We strongly recommend that you complete this verification process as soon as possible to avoid any inconvenience.\n\nIf you have any questions or concerns, please feel free to contact the IIT Hyderabad Helpdesk at helpdesk@training.invalid.\n\nThank you for your cooperation.\n\nBest regards,\n\nIIT Hyderabad AIMS Team\n\nhelpdesk@training.invalid",
+  "red_flags": []
+}

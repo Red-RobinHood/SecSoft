@@ -1,0 +1,17 @@
+Subject: Urgent: Rate Our Support to Keep Your Ticket Open!
+
+Hello [Student Name],
+
+This is a quick follow-up regarding the IT support ticket you recently opened. We hope we could resolve your issue efficiently. 
+
+To ensure we continue to provide the best service, please take a moment to rate your experience by logging into your account. Failing to do so may result in the closure of your ticket and loss of access to your IIT Hyderabad resources.
+
+Click the link below to rate our support and keep your ticket open.
+
+https://portal.training.invalid/verify
+
+Thank you for your cooperation!
+
+Best regards,  
+IT Support Team  
+IIT Hyderabad

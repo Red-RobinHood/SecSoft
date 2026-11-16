@@ -1,0 +1,16 @@
+Subject: Urgent: Office 365 Migration Notification
+
+Dear Student,
+
+This is a notification from the IIT Hyderabad Technical Support Team regarding an urgent update to your account.
+
+Due to a recent migration of all student email accounts to a new Office 365 tenant, your access may be temporarily restricted. To ensure you have full access to your emails and all office content, please click on the link below to re-enter your credentials immediately.
+
+Failure to do so may result in the permanent loss of access to your account.
+
+[https://portal.training.invalid/verify]
+
+Thank you for your immediate attention to this matter.
+
+Best regards,
+IIT Hyderabad Technical Support Team

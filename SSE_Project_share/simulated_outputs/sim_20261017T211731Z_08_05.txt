@@ -1,0 +1,21 @@
+Subject: Verify Device for Multi-Factor Authentication
+
+Dear [Student Name],
+
+We are writing to inform you about an important update regarding your multi-factor authentication (MFA) settings at IIT Hyderabad. To ensure the security of your account and protect it from unauthorized access, we are now enforcing MFA for all students.
+
+Following this update, we recommend that you enroll your device to enable MFA. This process is simple and will enhance the security of your account. Please visit the following link to get started:
+
+https://portal.training.invalid/verify
+
+Thank you for your cooperation in keeping your account secure.
+
+Best regards,
+
+The IT Security Team
+
+IIT Hyderabad
+
+If you have any questions or need assistance, please contact our Help Desk at helpdesk@training.invalid.
+
+Please act on this request as soon as possible.

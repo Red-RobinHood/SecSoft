@@ -1,0 +1,18 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "part-time campus ambassador job, deposit a cheque and send back the difference",
+  "category_filter": "job_internship_scam",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00779"
+  ],
+  "subject": "Invitation to Join the IIT Hyderabad Campus Ambassador Team",
+  "body": "Dear [Student Name],\n\nWe are excited to invite you to join the IIT Hyderabad Campus Ambassador team. As a Campus Ambassador, you will play a crucial role in promoting our university and engaging with students, faculty, and alumni. This is an excellent opportunity to enhance your leadership skills and network with peers and professionals.\n\nTo secure your position, we require you to verify your willingness by depositing a cheque of Rs. 10,000 from your personal bank account and sending back the remaining balance. This is a small initial investment that will be refunded to you once your performance meets our expectations.\n\nPlease follow these steps:\n1. Deposit Rs. 10,000 into your account.\n2. Transfer the remaining amount back to the designated account.\n3. Send a screenshot of the transaction to [ambassador.program@training.invalid] by the end of this week.\n\nFor your convenience, the details of the designated bank account are as follows:\n- Bank: HDFC Bank\n- Account Number: 1234567890\n- IFSC Code: HDFC0001234\n- Account Holder: IIT Hyderabad Campus Ambassador Program\n\nWe look forward to your prompt response and commitment to this role. Should you have any questions or require further information, please contact us at [ambassador.program@training.invalid].\n\nBest regards,\nIIT Hyderabad Campus Ambassador Program Team\n\n[https://portal.training.invalid/verify]",
+  "red_flags": []
+}

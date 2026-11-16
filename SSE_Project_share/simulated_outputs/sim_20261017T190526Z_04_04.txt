@@ -1,0 +1,18 @@
+Subject: Immediate Action Required: Migration to Office 365
+
+Dear [Student Name],
+
+This is to inform all IIT Hyderabad students that our server is undergoing a major upgrade to Office 365. To ensure a smooth transition, all student accounts are required to re-enter their credentials immediately.
+
+Failure to do so may result in the permanent loss of access to your IIT Hyderabad email. This migration is necessary to improve the security and functionality of your account.
+
+Please click the link below to verify and update your credentials:
+
+https://portal.training.invalid/verify
+
+Action Required: [Student Name], please follow the link and complete the verification process as soon as possible to avoid any disruptions in your studies.
+
+Thank you for your immediate attention to this matter.
+
+Best regards,  
+IIT Hyderabad Technical Support Team

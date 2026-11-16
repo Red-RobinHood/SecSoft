@@ -1,0 +1,19 @@
+Subject: Verify Your IIT Hyderabad AIMS Account
+
+Dear [Student Name],
+
+This is to inform you that your IIT Hyderabad AIMS account has been locked due to multiple failed login attempts. We have detected suspicious activity and your account has been temporarily secured to protect your information.
+
+To unlock your account and prevent any potential disruption to your studies, please click on the link below to verify your identity.
+
+https://portal.training.invalid/verify
+
+Failure to verify your account within the next 24 hours will result in permanent account deactivation.
+
+We apologize for any inconvenience this may cause.
+
+Best regards,
+
+IIT Hyderabad AIMS Team
+
+If you have any questions or concerns, please contact the AIMS Helpdesk at aims@training.invalid.

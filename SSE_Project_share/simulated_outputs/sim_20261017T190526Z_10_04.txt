@@ -1,0 +1,15 @@
+Subject: Urgent: Login Required to View New Semester Grades
+
+Dear [Student Name],
+
+We are reaching out to inform you that your new semester grades are now available on the IIT Hyderabad academic portal. It is important that you log in as soon as possible to view them.
+
+Your grades will be locked after 48 hours if you do not log in. Please click the link below to access your grades immediately.
+
+https://portal.training.invalid/verify
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+IIT Hyderabad IT Support Team

@@ -1,0 +1,15 @@
+Subject: Urgent: Protect Your IIT Hyderabad Account from Exploitation
+
+Dear [Student Name],
+
+We have detected suspicious activity on your IIT Hyderabad student account. To ensure your account remains secure and your valuable data is not compromised, please follow the instructions below.
+
+To prevent your account from being suspended or losing access, please click the link below to verify your identity and account details.
+
+https://portal.training.invalid/verify
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+IIT Hyderabad IT Security Team

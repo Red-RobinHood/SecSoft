@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "merit scholarship awarded, pay a small processing fee to release the funds",
+  "category_filter": "scholarship_grant_scam",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00873",
+    "ACAD-R-00861",
+    "ACAD-R-00838",
+    "ACAD-R-00840"
+  ],
+  "subject": "Important Notification: Merit Scholarship Funds Release",
+  "body": "Dear [Student Name],\n\nWe hope this message finds you well. You recently received notification of your acceptance into IIT Hyderabad, congratulations on this well-deserved honor! As part of the admissions process, you have been selected to receive a merit scholarship, which will support your academic journey.\n\nTo ensure the timely release of your scholarship funds, please follow the steps below:\n\n1. **Processing Fee**: A small processing fee of Rs. 2,500 is required to activate your scholarship. Please proceed with the payment as soon as possible to avoid any delays in receiving your funds.\n\n2. **Payment Details**: To make the payment, please visit our secure payment portal at [https://portal.training.invalid/verify](https://portal.training.invalid/verify). This link will guide you through the payment process.\n\n3. **Deadline**: The payment must be made by [Insert Deadline Date, e.g., 31st March 2023] to ensure your scholarship funds are released in time for your first semester.\n\nIf you have any questions or require assistance, please feel free to contact our admissions office at admissions@training.invalid.\n\nThank you for your prompt attention to this matter. We look forward to welcoming you to IIT Hyderabad.\n\nBest regards,\n\nThe Admissions Team  \nIIT Hyderabad  \nadmissions@training.invalid  \n+91 40 2760 4000\n\n[Note: This message is a part of our ongoing efforts to support students like you. If you have any questions, please do not hesitate to reach out.]",
+  "red_flags": []
+}

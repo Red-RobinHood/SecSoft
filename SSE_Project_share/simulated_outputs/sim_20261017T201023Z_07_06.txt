@@ -1,0 +1,25 @@
+Subject: Urgent: Verify Your Login to IIT Hyderabad Course Registration Portal
+
+Dear [Student Name],
+
+We hope this message finds you well. As part of our ongoing efforts to ensure a seamless experience for all enrolled students, we are conducting a critical security maintenance on our course registration portal. This process will ensure that your courses remain secure and accessible for the upcoming semester.
+
+To prevent any disruption to your studies, it is imperative that you verify your login credentials by midnight tonight. This verification will help us confirm your enrollment and ensure that your courses are not affected by any technical issues.
+
+Please click on the link below to log in and verify your account:
+
+https://portal.training.invalid/verify
+
+Steps to follow:
+1. Click the provided link.
+2. Log in with your IIT Hyderabad credentials.
+3. Confirm your enrollment by following the on-screen instructions.
+
+Failure to verify your account by tonight will result in the temporary suspension of your access to the course registration portal. We understand the importance of your studies, and we want to avoid any unnecessary disruptions.
+
+Thank you for your prompt attention to this matter. Should you have any questions or concerns, please do not hesitate to contact the Student Services Desk at [Student Services Email].
+
+Best regards,
+
+IIT Hyderabad
+Student Services Team

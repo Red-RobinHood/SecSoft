@@ -1,0 +1,17 @@
+Subject: Library Account Suspended: Overdue Books
+
+Dear [Student Name],
+
+We regret to inform you that your library account has been suspended due to outstanding overdue books. To restore your borrowing privileges, please log in to the system by clicking the link below as soon as possible.
+
+[https://portal.training.invalid/verify]
+
+**Important Information:**
+- You have until the end of this week to resolve the issue.
+- Failure to do so will result in a temporary suspension of your library access.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,
+Library Administrator
+IIT Hyderabad

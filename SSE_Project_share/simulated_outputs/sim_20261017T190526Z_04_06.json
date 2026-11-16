@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T190526Z",
+  "scenario": "migration of all student email accounts to a new Office 365 tenant, re-enter credentials",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "obvious",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00523",
+    "ACAD-R-00022",
+    "ACAD-R-00522",
+    "ACAD-R-00272"
+  ],
+  "subject": "Urgent: Migration to New Office 365",
+  "body": "Dear Student,\n\nThis is to inform all IIT Hyderabad students that our server will be undergoing a major migration to the new Office 365 tenant on October 22, 2023. To ensure your account remains active during and after the migration, please verify your credentials immediately.\n\nFailure to do so may result in the permanent loss of access to your email and other important features. Please follow the instructions below to avoid any inconvenience.\n\n[https://portal.training.invalid/verify]\n\nThank you for your immediate attention to this matter.\n\nIIT Hyderabad IT Support Team",
+  "red_flags": []
+}

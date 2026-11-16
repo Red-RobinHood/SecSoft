@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T190526Z",
+  "scenario": "multi-factor authentication being enforced, enroll your device through the link",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "obvious",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00703",
+    "ACAD-R-00112",
+    "ACAD-R-00719",
+    "ACAD-R-00477"
+  ],
+  "subject": "Urgent: Enroll Your Device for Multi-Factor Authentication",
+  "body": "Dear [Student Name],\n\nWe are writing to inform you that multi-factor authentication (MFA) has been enforced for your IIT Hyderabad account. This change is being made to enhance the security of your account and protect you from unauthorized access.\n\nTo ensure your account remains active and you can continue to access all your resources, please enroll your device through the following link:\n\nhttps://portal.training.invalid/verify\n\nFailure to enroll your device within 24 hours will result in the suspension of your account.\n\nThank you for your immediate attention to this matter.\n\nBest regards,\n\nThe IIT Hyderabad IT Team\n\nIITHyderabad@training.invalid",
+  "red_flags": []
+}

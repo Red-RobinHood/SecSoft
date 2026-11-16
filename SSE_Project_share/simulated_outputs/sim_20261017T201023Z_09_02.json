@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "IT helpdesk ticket resolved, sign in to rate the support and keep the ticket open",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00242",
+    "ACAD-R-00050",
+    "ACAD-R-00421",
+    "ACAD-R-00699"
+  ],
+  "subject": "Request for Feedback: Your Recent Support Ticket",
+  "body": "Hello [Student Name],\n\nI hope this message finds you well. We wanted to reach out to ask for a moment of your time to provide feedback on the support ticket you recently opened with the IT Helpdesk at IIT Hyderabad.\n\nYour ticket has been successfully resolved, and to ensure we continue to meet your needs, we would greatly appreciate your input. Please click the link below to rate the support and confirm that the issue has been addressed to your satisfaction. This quick action will help us maintain our high standards of service.\n\n[https://portal.training.invalid/verify]\n\nWe value your feedback and understand that your time is valuable. Your response will help us improve our support processes and services for all students at IIT Hyderabad.\n\nPlease note that this link will expire in 48 hours, so we kindly ask you to respond before then.\n\nThank you for your cooperation and support.\n\nBest regards,\nIT Helpdesk Team\n\nIIT Hyderabad",
+  "red_flags": []
+}

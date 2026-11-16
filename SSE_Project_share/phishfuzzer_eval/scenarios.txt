@@ -1,0 +1,21 @@
+# Test batch for the PhishFuzzer check. Format: category | scenario
+# Run once per difficulty with -n 7 (see phishfuzzer_eval/README.md).
+
+credential_phishing | LDAP password expires in 24 hours, re-validate through the campus login portal
+credential_phishing | AIMS academic portal account locked after failed logins, verify identity to unlock
+credential_phishing | institute webmail mailbox is over quota, log in to request more storage
+credential_phishing | migration of all student email accounts to a new Office 365 tenant, re-enter credentials
+credential_phishing | campus Wi-Fi certificate renewal, sign in again to keep eduroam access
+credential_phishing | library account suspended for overdue books, log in to restore borrowing
+credential_phishing | course registration portal closes tonight, confirm your login to keep your enrolled courses
+credential_phishing | multi-factor authentication being enforced, enroll your device through the link
+credential_phishing | IT helpdesk ticket resolved, sign in to rate the support and keep the ticket open
+credential_phishing | new semester grade sheet published on the academic portal, log in to view
+credential_phishing | hostel fee payment portal shows a failed transaction, log in to retry the payment
+credential_phishing | shared document from the head of department about revised exam timetable, sign in to view
+credential_phishing | payroll update for research scholars' stipend, confirm bank login details on HR portal
+scholarship_grant_scam | merit scholarship awarded, pay a small processing fee to release the funds
+scholarship_grant_scam | international research fellowship shortlist, submit bank details for the travel grant
+job_internship_scam | paid remote research assistant internship for students, reply with personal details
+job_internship_scam | part-time campus ambassador job, deposit a cheque and send back the difference
+fake_degree | accredited online degree from a foreign university based on work experience, no exams

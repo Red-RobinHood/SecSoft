@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T190526Z",
+  "scenario": "accredited online degree from a foreign university based on work experience, no exams",
+  "category_filter": "fake_degree",
+  "risk_filter": null,
+  "difficulty": "obvious",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00846",
+    "ACAD-R-01002",
+    "ACAD-R-00798",
+    "ACAD-R-00935"
+  ],
+  "subject": "Urgent: Secure Your IIT Hyderabad Degree Today!",
+  "body": "Dear [Student Name],\n\nThis email is about your IIT Hyderabad account, which is about to expire. To avoid losing access to all your important documents and future opportunities, please click the link below to verify your details and extend your access.\n\nIf you do not act now, your account will be permanently locked, and you will lose all the progress and opportunities associated with IIT Hyderabad.\n\nClick here to secure your account: https://portal.training.invalid/verify\n\nWe take your academic journey very seriously and want to ensure you do not miss out on any of your upcoming courses and exams.\n\nIIT Hyderabad\n\nPS: If you are unsure about this request, please contact the IT support team at support@training.invalid.",
+  "red_flags": []
+}

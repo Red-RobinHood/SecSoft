@@ -1,0 +1,18 @@
+Subject: IT Helpdesk Ticket Resolution: Please Rate Your Support Experience
+
+Dear [Student Name],
+
+This email is to inform you that your IT helpdesk ticket has been resolved. We are committed to ensuring a seamless and efficient experience for all students. As part of our continuous improvement process, we kindly request that you take a moment to rate the support provided by our team.
+
+To keep your ticket open and ensure your feedback is recorded, please click the link below to rate your experience. Your feedback is crucial for us to improve our services.
+
+Please do this as soon as possible to avoid any delays in your ticket closure.
+
+[https://portal.training.invalid/verify]
+
+Thank you for your cooperation and support.
+
+Best regards,
+
+IT Helpdesk Team
+IIT Hyderabad

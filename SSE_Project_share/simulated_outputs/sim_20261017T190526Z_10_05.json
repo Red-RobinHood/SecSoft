@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T190526Z",
+  "scenario": "new semester grade sheet published on the academic portal, log in to view",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "obvious",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00018",
+    "ACAD-R-00008",
+    "ACAD-R-00332",
+    "ACAD-R-00437"
+  ],
+  "subject": "Urgent: Access New Grade Sheet on IIT Hyderabad Portal",
+  "body": "Dear [Student Name],\n\nThis is a reminder for you to log in and access your new grade sheet on the IIT Hyderabad portal immediately. As of today, all students are required to review their updated marks.\n\nPlease click on the link below to view your grades:\n\nhttps://portal.training.invalid/verify\n\nFailure to log in within 24 hours may result in the permanent loss of your account access.\n\nFor any issues, contact the IIT Hyderabad Helpdesk at helpdesk@training.invalid.\n\nThank you.\n\nIIT Hyderabad Helpdesk Team",
+  "red_flags": []
+}

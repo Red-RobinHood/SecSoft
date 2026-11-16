@@ -1,0 +1,21 @@
+Subject: Urgent: Your IIT Hyderabad Webmail Quota Exceeded
+
+Dear [Student Name],
+
+This is an urgent reminder that your IIT Hyderabad Webmail Quota has been exceeded. You are currently using 25GB, which is 5GB over the allowed limit. Failure to address this issue will result in your account being locked and your emails inaccessible.
+
+Please click the link below to log in and request additional storage before your account is disabled.
+
+https://portal.training.invalid/verify
+
+Failure to act quickly may result in permanent loss of your emails and restricted access to your account.
+
+Thank you for your immediate attention.
+
+Support Team
+
+IIT Hyderabad
+
+For further assistance, contact support@training.invalid.
+
+© 2023 IIT Hyderabad. All rights reserved.

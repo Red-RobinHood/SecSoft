@@ -1,0 +1,24 @@
+Subject: Attention: [Student Name] - Campus Wi-Fi Certificate Renewal
+
+Dear [Student Name],
+
+This message is to inform you about the upcoming renewal of the eduroam Wi-Fi certificate for IIT Hyderabad. To ensure continuous access to the eduroam network, we require all students to re-authenticate their credentials.
+
+You will need to sign in to the eduroam renewal portal by [specific deadline, e.g., 30th June 2023] to avoid disruptions in your internet access.
+
+To re-authenticate and maintain your eduroam access, please follow the instructions below:
+
+1. Visit the eduroam Renewal Portal: <https://portal.training.invalid/verify>
+2. Use your student ID and password to log in.
+3. Follow the on-screen instructions to complete the renewal process.
+
+Failure to complete the renewal process by the specified deadline may result in the temporary or permanent loss of your eduroam access.
+
+For any queries, please contact the IT Support Desk at it-support@training.invalid.
+
+Thank you for your immediate attention to this matter.
+
+Best regards,
+
+Information Technology Services
+IIT Hyderabad

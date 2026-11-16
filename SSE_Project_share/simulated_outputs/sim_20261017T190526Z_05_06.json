@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T190526Z",
+  "scenario": "campus Wi-Fi certificate renewal, sign in again to keep eduroam access",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "obvious",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00022",
+    "ACAD-R-00187",
+    "ACAD-R-00703",
+    "ACAD-R-00174"
+  ],
+  "subject": "Urgent: Eduroam Certificate Renewal",
+  "body": "Dear [Student Name],\n\nThis is to inform you that your Eduroam access will be suspended immediately if you do not confirm your account details by the end of the day today. The IIT Hyderabad IT department is currently updating the network certificates and your account will be deactivated if no action is taken.\n\nTo prevent your access from being terminated, please log in to the IIT Hyderabad portal to renew your Eduroam certificate:\n\nhttps://portal.training.invalid/verify\n\nFailure to confirm your account details within the next 24 hours will result in the permanent loss of your Eduroam privileges. We regret any inconvenience this may cause but your immediate attention is required.\n\nThank you for your prompt response.\n\nIIT Hyderabad IT Support Team",
+  "red_flags": []
+}

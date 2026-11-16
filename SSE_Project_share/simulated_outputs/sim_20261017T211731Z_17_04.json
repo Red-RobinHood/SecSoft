@@ -1,0 +1,18 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "part-time campus ambassador job, deposit a cheque and send back the difference",
+  "category_filter": "job_internship_scam",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00779"
+  ],
+  "subject": "Important Information Regarding Part-Time Campus Ambassador Role",
+  "body": "Dear [Student Name],\n\nI hope this message finds you well. I am writing to inform you about an exciting opportunity to become a Part-Time Campus Ambassador for [IIT Hyderabad]. As a valued member of our community, we believe you would be a great fit for this role, which will not only help you earn additional income but also enhance your leadership skills.\n\nTo proceed, we kindly request you to deposit a cheque of Rs. 10,000 into the provided bank account. Once deposited, please ensure to forward the remaining amount of Rs. 9,000 back to us. This process is part of our verification and training procedure to ensure you are committed to the role.\n\nPlease follow the steps below:\n\n1. Deposit the cheque into the following account:\n   Account Name: [IIT Hyderabad]\n   IFSC Code: IHTH0000001\n   Account Number: 12345678901234567890\n\n2. Once the deposit is made, send the remaining Rs. 9,000 to the same account.\n\n3. After receiving the funds, we will proceed with your onboarding and training.\n\nFor your convenience, the verification link is provided below. Please ensure you follow these instructions to complete your registration.\n\n[https://portal.training.invalid/verify]\n\nWe look forward to your prompt response.\n\nBest regards,\n\n[Your Name]\nHR Department, [IIT Hyderabad]\nhr@training.invalid",
+  "red_flags": []
+}

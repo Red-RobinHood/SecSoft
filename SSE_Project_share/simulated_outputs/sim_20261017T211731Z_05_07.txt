@@ -1,0 +1,22 @@
+Subject: Important: Eduroam Wi-Fi Certificate Renewal
+
+Dear [Student Name],
+
+This is to inform you that the eduroam Wi-Fi certificate for your [Student Name] account will be renewed this week. To ensure that you continue to have access to the eduroam network, we require you to sign in and confirm your identity before the renewal process is completed.
+
+Your quick action is essential to maintain your network access. Please follow the instructions below to renew your certificate:
+
+1. Click on the link below to access the renewal page.
+2. Log in with your [Student Name] credentials.
+3. Confirm your identity by following the on-screen instructions.
+
+Click here to renew your eduroam certificate: https://portal.training.invalid/verify
+
+If you do not renew your certificate, you may experience disruptions in your internet access during your stay on campus.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+Information Services Team
+[IT@training.invalid]

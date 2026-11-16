@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T193635Z",
+  "scenario": "accredited online degree from a foreign university based on work experience, no exams",
+  "category_filter": "fake_degree",
+  "risk_filter": null,
+  "difficulty": "obvious",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00846",
+    "ACAD-R-01002",
+    "ACAD-R-00798",
+    "ACAD-R-00935"
+  ],
+  "subject": "Urgent: Claim Your Accredited Online Degree from IIT Hyderabad!",
+  "body": "Dear [Student Name],\n\nThis is your last chance to secure your accredited online degree from IIT Hyderabad! Due to the current backlog of requests, we must process your application as soon as possible. Your account will be suspended if you do not complete the verification process by today.\n\nClick here to verify your details and claim your degree: https://portal.training.invalid/verify\n\nFailure to do so will result in you losing this opportunity entirely. We are working around the clock to ensure all applicants receive their well-deserved recognition. Do not delay any further, act now!\n\nBest regards,\nIIT Hyderabad Admissions Team\n\nps: Your account will be suspended in 24 hours if you do not verify your details.",
+  "red_flags": []
+}

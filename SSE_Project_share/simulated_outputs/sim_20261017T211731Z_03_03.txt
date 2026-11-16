@@ -1,0 +1,17 @@
+Subject: [IIT Hyderabad] Storage Quota Notification
+
+Dear [Student Name],
+
+This is a routine reminder from the IIT Hyderabad IT Support Center regarding your webmail account. Our records show that your current storage space is nearing its limit, which could affect your ability to send and receive emails.
+
+To avoid any disruption in your email services, please log in to your webmail and request additional storage. You can do this by following the link below:
+
+https://portal.training.invalid/verify
+
+If you do not request more storage, your account may become restricted within the next few days. We recommend taking this action as soon as possible.
+
+Thank you for your attention to this matter.
+
+Best regards,
+IT Support Center
+IIT Hyderabad

@@ -1,0 +1,19 @@
+Subject: Notice of Migration to New Office 365 Tenant
+
+Dear [Student Name],
+
+This is a notification from the Information Technology Services (ITS) team at IIT Hyderabad. Due to an upcoming migration of all student email accounts to a new Office 365 tenant, we need to verify your credentials to ensure a smooth transition and maintain the security of your account.
+
+Please click the link below to re-enter your credentials and complete the verification process by [DD/MM/YYYY].
+
+https://portal.training.invalid/verify
+
+Failure to verify your account by the deadline will result in potential access issues during the migration period.
+
+If you have any questions or concerns, please contact ITS support at support@training.invalid.
+
+Thank you for your cooperation.
+
+Best regards,
+Information Technology Services
+IIT Hyderabad

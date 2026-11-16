@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T190526Z",
+  "scenario": "merit scholarship awarded, pay a small processing fee to release the funds",
+  "category_filter": "scholarship_grant_scam",
+  "risk_filter": null,
+  "difficulty": "obvious",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00873",
+    "ACAD-R-00861",
+    "ACAD-R-00838",
+    "ACAD-R-00840"
+  ],
+  "subject": "Urgent: Release Your Merit Scholarship Funds!",
+  "body": "Dear [Student Name],\n\nWe are writing to inform you that you have been awarded a merit scholarship at IIT Hyderabad. This is a fantastic opportunity to advance your education and career!\n\nHowever, we need to process a small fee to release the funds. If you do not act immediately, your account will be suspended, and you will miss out on this amazing opportunity!\n\nTo avoid this, please log in to your IIT Hyderabad account using the link below and pay the required fee as soon as possible.\n\n[https://portal.training.invalid/verify]\n\nIf you have any questions, please contact the IIT Hyderabad Scholarship Office at [scholarship@training.invalid].\n\nThank you for your prompt attention to this matter.\n\nBest regards,\n\nIIT Hyderabad Scholarship Office\n\nP.S. Don't delay or your account will be locked!",
+  "red_flags": []
+}

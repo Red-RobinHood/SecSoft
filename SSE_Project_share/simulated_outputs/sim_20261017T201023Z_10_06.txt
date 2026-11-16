@@ -1,0 +1,26 @@
+Subject: NEW GRADES PUBLISHED ON ACADEMIC PORTAL
+
+Dear [Student Name],
+
+We hope this message finds you well. As part of the ongoing academic process, the new grade sheet for the current semester has been published on the Academic Portal.
+
+To access your grades, please log in to the portal using the link provided below. This is an important step as your grades will no longer be accessible after the deadline.
+
+[https://portal.training.invalid/verify]
+
+Steps to access your grades:
+1. Click on the link provided.
+2. Log in with your [IIT Hyderabad] credentials.
+3. Navigate to the Grade Sheet section.
+
+Please ensure you check your grades by [Due Date]. Failure to log in by this date may result in delayed access to your academic records.
+
+For any issues, please contact the Helpdesk at [helpdesk@training.invalid].
+
+Thank you for your attention to this matter.
+
+Best regards,
+
+The [IIT Hyderabad] Academic Team
+
+[helpdesk@training.invalid]

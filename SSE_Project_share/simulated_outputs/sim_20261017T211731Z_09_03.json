@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "IT helpdesk ticket resolved, sign in to rate the support and keep the ticket open",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00242",
+    "ACAD-R-00050",
+    "ACAD-R-00421",
+    "ACAD-R-00699"
+  ],
+  "subject": "Message From I.T Helpdesk",
+  "body": "Helpdesk-Mail Alert Confirmation\n\nThis e-mail is sent by the IT Helpdesk team at IIT Hyderabad for notification and update purposes. We would like to request your assistance in a quick follow-up regarding a recent support ticket we resolved for you. To ensure your support ticket remains open and that we can keep track of your feedback, please sign in and rate the support you received.\n\nCLICK HERE\n\nThank You\nIT Helpdesk Team",
+  "red_flags": []
+}

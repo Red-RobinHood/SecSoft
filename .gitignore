@@ -1,0 +1,33 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+SSE_Project_share/gophish-v0.12.1-osx-64bit/
+
+# Runtime secrets / generated state — never commit these
+SSE_Project_share/integration/config.json
+*.key
+*.crt
+*.pem
+gophish.db
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+tokens.csv
+recipients.csv
+
+# Large generated dataset — regenerate with build_dataset.py
+SSE_Project_share/dataset/academic_risky_emails.csv
+SSE_Project_share/dataset/academic_benign_emails.csv
+SSE_Project_share/dataset/academic_emails_labeled.csv
+
+# Cached embeddings — regenerate with rag/build_index.py
+SSE_Project_share/rag/index.npz

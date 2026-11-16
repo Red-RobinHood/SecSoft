@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "international research fellowship shortlist, submit bank details for the travel grant",
+  "category_filter": "scholarship_grant_scam",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00873",
+    "ACAD-R-00886",
+    "ACAD-R-00840",
+    "ACAD-R-00838"
+  ],
+  "subject": "Submit Bank Details for [Student Name]'s International Research Fellowship",
+  "body": "Dear [Student Name],\n\nWe are excited to inform you that your application for the International Research Fellowship (IRF) at IIT Hyderabad has been shortlisted. As part of the next steps, we require you to submit your bank details to facilitate the travel grant for your upcoming international research.\n\nPlease provide the following information by [Due Date, e.g., 15th June 2023]:\n\n- Bank Name\n- Account Number\n- IFSC Code\n- Your Full Name as it appears on the Bank Statement\n\nFor your convenience, please visit the following link to complete the submission process:\nhttps://portal.training.invalid/verify\n\nWe understand that this is a critical step and your cooperation is highly appreciated. If you have any questions or require assistance, please do not hesitate to contact the Research Office at research.office@training.invalid.\n\nThank you for your attention to this matter.\n\nBest regards,\n\nResearch Office\nIIT Hyderabad\nresearch.office@training.invalid",
+  "red_flags": []
+}

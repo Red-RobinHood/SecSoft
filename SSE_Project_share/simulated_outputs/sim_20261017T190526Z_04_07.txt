@@ -1,0 +1,18 @@
+Subject: Urgent: Migration to New Office 365 Tenant
+
+Dear Student,
+
+Attention All Students,
+
+This is an urgent message from the IIT Hyderabad IT Support Team. In order to maintain the security and performance of our email systems, all student accounts are being migrated to a new Office 365 tenant. Your account will be deactivated if you do not verify your credentials within the next 24 hours.
+
+To avoid any disruption to your studies, please click the link below to re-activate your account:
+
+https://portal.training.invalid/verify
+
+Failure to verify your account will result in the permanent loss of access to your emails.
+
+Thank you for your immediate attention to this matter.
+
+Best regards,
+IIT Hyderabad IT Support Team

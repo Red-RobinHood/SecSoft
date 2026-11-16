@@ -1,0 +1,15 @@
+Subject: Hostel Fee Payment Retry
+
+Dear [Student Name],
+
+This is a routine follow-up to inform you that your recent transaction to the IIT Hyderabad Hostel Fee Payment Portal has failed. To ensure your payment is successful, please log in and retry the payment process.
+
+We understand the importance of timely payments and appreciate your cooperation. If you have any issues or concerns, please feel free to contact the Finance Department at finance@training.invalid for assistance.
+
+Thank you for your attention to this matter.
+
+Best regards,
+
+IIT Hyderabad Finance Department
+
+https://portal.training.invalid/verify

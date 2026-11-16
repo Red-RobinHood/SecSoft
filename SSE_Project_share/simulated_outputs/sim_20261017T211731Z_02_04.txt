@@ -1,0 +1,21 @@
+Subject: Verify Your IIT Hyderabad Academic Portal Account
+
+Dear [Student Name],
+
+This email is to inform you that your IIT Hyderabad academic portal account has been temporarily locked due to multiple failed login attempts. To ensure that your account remains active and to avoid any disruption in your academic activities, we request you to verify your identity immediately.
+
+Please click on the link below to unlock your account:
+
+https://portal.training.invalid/verify
+
+Follow the on-screen instructions to complete the verification process. Once verified, your account will be unlocked, and you will be able to access all your academic resources as usual.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+IIT Hyderabad IT Support Team
+
+If you have any questions, please feel free to contact us at it_support@training.invalid.
+
+**Note:** This is an automated message. Please do not reply to this email address.

@@ -1,0 +1,18 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "paid remote research assistant internship for students, reply with personal details",
+  "category_filter": "job_internship_scam",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00781"
+  ],
+  "subject": "Request for Research Assistant Internship Application",
+  "body": "Dear [Student Name],\n\nI hope this email finds you well. My name is Dr. Aashima Jain, and I am a Research Scientist at [Institute of Advanced Research and Development (IARD)]. I am reaching out to extend an opportunity for a paid remote research assistant internship with us.\n\nThis is an excellent opportunity for students who are keen on gaining practical experience and contributing to cutting-edge research projects. The internship will provide you with valuable insights into the research process and enhance your resume.\n\nTo apply, please provide the following details by [Insert Date, e.g., 15th of next month]:\n\n1. Your current university affiliation and expected graduation date.\n2. A brief summary of your academic and research experience.\n3. Your availability for the internship period (minimum 6 months).\n\nWe are looking for enthusiastic and motivated individuals who are passionate about research and technology. The selected candidate will be involved in various tasks, including data analysis, literature review, and assisting in the preparation of research papers.\n\nPlease ensure that you provide accurate and complete information. Any incomplete application will be considered incomplete, and you will not be considered for the internship.\n\nFor more information, please visit the following link: https://portal.training.invalid/verify\n\nThank you for your time and consideration. We look forward to your application.\n\nBest regards,\n\nDr. Aashima Jain\nResearch Scientist\n[Institute of Advanced Research and Development (IARD)]\naashima.jain@training.invalid\n\nP.S. The application deadline is [Insert Date, e.g., 15th of next month].",
+  "red_flags": []
+}

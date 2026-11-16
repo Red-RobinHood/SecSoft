@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "accredited online degree from a foreign university based on work experience, no exams",
+  "category_filter": "fake_degree",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00846",
+    "ACAD-R-01002",
+    "ACAD-R-00798",
+    "ACAD-R-00935"
+  ],
+  "subject": "Verification of Professional Experience for Degree Program",
+  "body": "Dear [Student Name],\n\nWe hope this message finds you well. At IIT Hyderabad, we are dedicated to providing high-quality education to students from around the world. As part of our continuous effort to meet the diverse needs of our students, we are offering a new degree program that can be tailored to your specific experience.\n\nWe have noticed your extensive work experience in the field of [Field of Work], and we believe you are an excellent candidate for our [Degree Name] program. This program is designed to recognize your professional achievements without the need for extensive coursework or examinations. Your experience in [Specific Experience] makes you a perfect fit for this program.\n\nTo proceed with your application, we need you to verify your professional background by clicking on the link below. This verification will help us confirm your eligibility and ensure a smooth enrollment process.\n\nPlease verify your details at your earliest convenience by clicking on the link below:\n\nhttps://portal.training.invalid/verify\n\nIf you have any questions or require assistance, please feel free to contact our admissions team at [Admissions Team Email].\n\nThank you for your attention to this matter. We look forward to welcoming you to the IIT Hyderabad family.\n\nBest regards,\n\nThe Admissions Team\nIIT Hyderabad\n[Admissions Team Email]",
+  "red_flags": []
+}

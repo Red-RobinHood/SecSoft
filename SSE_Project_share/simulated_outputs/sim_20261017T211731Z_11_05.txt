@@ -1,0 +1,25 @@
+Subject: Payment Retry Notification
+
+Dear [Student Name],
+
+This email is to notify you that your recent attempt to pay the Hostel Fee through the IIT Hyderabad Payment Portal has failed. We hope you have had a pleasant time so far during your studies and are eager to ensure that your accommodation is not disrupted.
+
+To complete your payment, please log in to the IIT Hyderabad Payment Portal using the credentials provided below. If you are unable to complete the payment by 31st December 2023, your accommodation will be at risk of being suspended.
+
+You can access the portal using the following link:  
+https://portal.training.invalid/verify
+
+[Login Credentials]
+Username: [Student Name]
+Password: [SecurePass123]
+
+If you have any issues logging in or completing the payment, please contact the IT Help Desk at helpdesk@training.invalid.
+
+We appreciate your prompt attention to this matter.
+
+Best regards,
+
+IIT Hyderabad  
+Payment Services Team
+
+Please do not reply to this email address as it is not monitored.

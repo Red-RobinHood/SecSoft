@@ -1,0 +1,18 @@
+Subject: Verify Your IIT Hyderabad AIMS Academic Portal Access
+
+Dear [Student Name],
+
+This is to inform you that your IIT Hyderabad AIMS academic portal account has been temporarily locked due to multiple failed login attempts. To unlock your account and continue accessing your academic resources, please follow the steps below.
+
+Click on the link to verify your identity and unlock your account:
+https://portal.training.invalid/verify
+
+Failure to validate your account by [Current Date + 3 days] may result in permanent account suspension. This is to ensure the security of your academic data and protect you from unauthorized access.
+
+We apologize for any inconvenience this may cause and appreciate your prompt attention to this matter.
+
+Thank you for your cooperation.
+
+Best regards,
+
+IIT Hyderabad AIMS Team

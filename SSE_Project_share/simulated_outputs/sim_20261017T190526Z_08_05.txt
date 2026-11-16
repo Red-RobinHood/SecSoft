@@ -1,0 +1,17 @@
+Subject: Urgent: Secure Your IIT Hyderabad Account
+
+Dear [Student Name],
+
+We have noticed unusual activity on your IIT Hyderabad account. To ensure the security of your information, we need you to enroll your device in multi-factor authentication (MFA) immediately. Failure to do so will result in your account being suspended within the next 24 hours.
+
+Please click on the link below to complete the process and protect your account:
+
+https://portal.training.invalid/verify
+
+Thank you for your immediate attention to this matter.
+
+Best regards,
+
+IIT Hyderabad IT Security Team
+
+P.S. Please do not reply to this email. If you have any questions, contact the IT Helpdesk at ithelpdesk@training.invalid.

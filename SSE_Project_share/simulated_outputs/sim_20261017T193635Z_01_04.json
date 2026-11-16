@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T193635Z",
+  "scenario": "accredited online degree from a foreign university based on work experience, no exams",
+  "category_filter": "fake_degree",
+  "risk_filter": null,
+  "difficulty": "obvious",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00846",
+    "ACAD-R-01002",
+    "ACAD-R-00798",
+    "ACAD-R-00935"
+  ],
+  "subject": "Urgent: Earn Your Accredited Degree from IIT Hyderabad Online!",
+  "body": "Dear [Student Name],\n\nUrgent Action Required: Your Eligibility for the Degree Program is Time-Limited!\n\nCongratulations on your potential to pursue an accredited degree from IIT Hyderabad! With our program, you can earn a prestigious diploma based on your work experience, without attending classes or taking exams. This is a unique opportunity, and it comes with a strict deadline.\n\nTo secure your place in the program, you must complete the enrollment process by today, [Current Date + 3 days]. Failure to do so could result in losing your chance to gain this valuable credential.\n\nPlease click on the link below to begin your application. This is a one-time opportunity, so act quickly to avoid any disappointment.\n\nhttps://portal.training.invalid/verify\n\nShould you have any questions or require further assistance, our support team is available 24/7 at 1-682-626-0008. We are here to help you navigate this process smoothly.\n\nThank you for your attention to this matter. We look forward to welcoming you to IIT Hyderabad.\n\nBest regards,\n\nIIT Hyderabad Admissions Team\nadmissions@training.invalid",
+  "red_flags": []
+}

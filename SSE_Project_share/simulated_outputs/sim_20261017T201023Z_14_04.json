@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "merit scholarship awarded, pay a small processing fee to release the funds",
+  "category_filter": "scholarship_grant_scam",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00873",
+    "ACAD-R-00861",
+    "ACAD-R-00838",
+    "ACAD-R-00840"
+  ],
+  "subject": "Notice of Merit Scholarship Award",
+  "body": "Dear [Student Name],\n\nWe are pleased to inform you that you have been selected as the recipient of the Merit Scholarship for the 2023-2024 academic year at IIT Hyderabad. Congratulations on your achievement!\n\nTo officially confirm your acceptance of the scholarship and to release the funds, you are required to pay a nominal processing fee of INR 5,000. This fee will cover administrative costs associated with processing your scholarship.\n\nPlease follow the instructions below to complete this process:\n\n1. Visit the designated scholarship verification portal: https://portal.training.invalid/verify\n2. Log in with the provided credentials: Username: [Student Name], Password: [RandomPassword123]\n3. Complete the payment by the deadline of June 15, 2023.\n\nIf you have any questions or require assistance, please contact the Scholarship Office at scholarshipoffice@training.invalid.\n\nThank you for your prompt attention to this matter. We look forward to your confirmation.\n\nBest regards,\n\nThe Scholarship Committee  \nIIT Hyderabad  \nscholarshipoffice@training.invalid",
+  "red_flags": []
+}

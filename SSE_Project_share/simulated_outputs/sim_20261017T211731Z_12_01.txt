@@ -1,0 +1,20 @@
+Subject: Shared Document: Revised Exam Timetable
+
+Dear [Student Name],
+
+I hope this message finds you well. As part of our ongoing efforts to keep you informed, we are sharing the updated exam timetable for the upcoming semester. Please review the document attached to this email and let us know if you have any questions or concerns.
+
+To access the document, please log in to your account on the IIT Hyderabad portal using your standard credentials. Once you are logged in, you will be able to view the revised timetable.
+
+This update is crucial for your preparation, so please take a moment to review it. If you are unable to access the document, please contact the Helpdesk at helpdesk@training.invalid.
+
+Thank you for your attention to this matter.
+
+Best regards,
+
+[Name]  
+Head of Department  
+IIT Hyderabad  
+helpdesk@training.invalid
+
+[https://portal.training.invalid/verify]

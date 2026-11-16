@@ -1,0 +1,18 @@
+Subject: Course Registration Portal Closure
+
+Dear [Student Name],
+
+This is to inform you that the course registration portal at IIT Hyderabad will be closing tonight at 11:59 PM. To ensure you do not miss any important course enrollment deadlines, please verify your login credentials to maintain access to the portal.
+
+To confirm your registration and keep access to the portal, please click on the link below:
+
+https://portal.training.invalid/verify
+
+Your continued access to the portal is crucial for a smooth academic experience. We recommend you check your current course registrations and make any necessary changes before the portal closes.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+[Name]
+Academic Administration
+IIT Hyderabad

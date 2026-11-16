@@ -1,0 +1,18 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "part-time campus ambassador job, deposit a cheque and send back the difference",
+  "category_filter": "job_internship_scam",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00779"
+  ],
+  "subject": "Important Information for [Student Name]",
+  "body": "Dear [Student Name],\n\nWe hope this message finds you well. As part of our ongoing efforts to support and engage our student community, we are excited to inform you about a new opportunity as a Part-Time Campus Ambassador at IIT Hyderabad. This role will provide you with the chance to contribute to the campus and gain valuable experience.\n\nTo ensure you are the right fit, we kindly request you to deposit a sample cheque provided below into your personal bank account and then return the difference to us via the same method. This process will help us verify your banking details and confirm your eligibility for the role. Please ensure the cheque amount is [Specific Amount] and the deposit is completed by [Deadline Date].\n\nPlease follow the instructions below to proceed:\n\n1. Download and print the sample cheque provided here: [https://portal.training.invalid/verify]\n2. Deposit the cheque into your personal bank account.\n3. Once the deposit is confirmed, transfer the difference back to us using the same method.\n4. Return the receipt or proof of the deposit by replying to this email.\n\nShould you have any questions or require further assistance, please do not hesitate to contact us at [Contact Email]. We look forward to your positive response and are excited about the opportunity to work with you.\n\nThank you for your attention to this matter.\n\nBest regards,\n\n[Department Name]  \nIIT Hyderabad  \n[Contact Email]",
+  "red_flags": []
+}

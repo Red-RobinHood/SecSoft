@@ -1,0 +1,18 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "part-time campus ambassador job, deposit a cheque and send back the difference",
+  "category_filter": "job_internship_scam",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00779"
+  ],
+  "subject": "Urgent: Campus Ambassador Position Open",
+  "body": "Hello [Student Name],\n\nWe hope this message finds you well. As part of our ongoing efforts to enhance campus engagement and support our vibrant student community, we are delighted to offer a part-time Campus Ambassador position to [Student Name].\n\nAs a valued member of the IIT Hyderabad family, your role as a Campus Ambassador will not only help you gain valuable experience but also contribute positively to our community. The position involves promoting our initiatives, organizing events, and supporting students in various capacities. The role requires minimal time commitment, making it perfect for students with busy schedules.\n\nTo express your interest in this opportunity, please follow these simple steps:\n\n1. **Review the Job Description:** You can find detailed information about the role and responsibilities [here](https://portal.training.invalid/verify).\n2. **Submit Your Application:** Visit the portal to complete and submit your application form. Ensure all the details are accurate.\n3. **Attend the Briefing Session:** Once your application is reviewed, you will receive an email with further instructions for the next steps.\n\nPlease note that we need to process your application as soon as possible, given the limited number of positions available. We highly recommend you complete the application within the next 48 hours to ensure your application is considered.\n\nIf you have any questions or require further clarification, please contact the Student Engagement Office at [engagement.office@training.invalid].\n\nThank you for your interest and commitment to IIT Hyderabad.\n\nBest regards,\n\nThe Student Engagement Team  \nIIT Hyderabad",
+  "red_flags": []
+}

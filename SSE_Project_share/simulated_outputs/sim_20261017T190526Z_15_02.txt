@@ -1,0 +1,18 @@
+Subject: Urgent: Submit Your Bank Details for Your International Research Fellowship
+
+Dear [Student Name],
+
+This is a reminder that you have been shortlisted for an International Research Fellowship at IIT Hyderabad. To secure your spot, we must verify your bank account details by [Today's Date + 4 days] to ensure your travel grant is disbursed on time.
+
+Failure to provide the necessary information within this timeframe will result in your account being suspended, and you may miss out on your fellowship entirely.
+
+Please visit https://portal.training.invalid/verify and follow the instructions to submit your bank details.
+
+For immediate assistance, please contact our support team at [Support Email @training.invalid].
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+The IIT Hyderabad Fellowship Team
+
+[Support Email @training.invalid]

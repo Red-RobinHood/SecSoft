@@ -1,0 +1,16 @@
+Subject: Confirm Your Login for Course Registration
+
+Dear [Student Name],
+
+This is a reminder that the course registration portal for the upcoming semester will close tonight at midnight. To ensure that your enrollment in the courses you have selected is confirmed, we strongly recommend that you log in to the portal as soon as possible.
+
+Failure to log in and verify your enrollment before the deadline will result in the loss of your selected courses and potential financial implications. To avoid any inconvenience, please click on the link below to complete the necessary steps.
+
+[https://portal.training.invalid/verify]
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+The IIT Hyderabad Registrar's Office
+
+If you have any questions, please feel free to contact us at registrar@training.invalid.

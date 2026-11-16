@@ -1,0 +1,22 @@
+{
+  "gophish_base_url": "https://127.0.0.1:3333",
+  "gophish_api_key": "PASTE_YOUR_GOPHISH_API_KEY_FROM_THE_SETTINGS_PAGE",
+  "gophish_verify_tls": false,
+  "cert_path": "",
+
+  "gen_model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "k": 4,
+  "n": 3,
+
+  "detector_backend": "ollama",
+  "detector_model": "llama3.1:8b",
+  "detector_temperature": 0.0,
+  "detector_modes": ["basic", "full"],
+  "detector_runs": 1,
+
+  "selection_policy": "all",
+  "inject_url": true,
+  "inject_tracking": true,
+  "envelope_sender_default": "no-reply@training.invalid"
+}

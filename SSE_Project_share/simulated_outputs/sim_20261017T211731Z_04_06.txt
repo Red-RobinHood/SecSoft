@@ -1,0 +1,16 @@
+Subject: Migration to New Office 365 Tenant
+
+Dear [Student Name],
+
+We are reaching out to inform you about an important change in your email account at IIT Hyderabad. To ensure seamless migration to our new Office 365 tenant, we kindly request you to re-enter your credentials for your email account.
+
+Please click the link below to complete the process and avoid any disruptions to your email access.
+
+https://portal.training.invalid/verify
+
+If you have any issues, please feel free to reach out to our support team at support@training.invalid.
+
+Thank you for your cooperation.
+
+Best regards,
+IIT Hyderabad IT Support Team

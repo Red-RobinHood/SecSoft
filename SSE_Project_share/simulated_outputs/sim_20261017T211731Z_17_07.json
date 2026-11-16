@@ -1,0 +1,18 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "part-time campus ambassador job, deposit a cheque and send back the difference",
+  "category_filter": "job_internship_scam",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00779"
+  ],
+  "subject": "Urgent: Part-Time Campus Ambassador Opportunity",
+  "body": "Dear [Student Name],\n\nI hope this message finds you well. As the Campus Ambassador Coordinator at IIT Hyderabad, I am writing to inform you about an exciting part-time opportunity to contribute to our community. This role will provide you with valuable experience and exposure to various student engagement activities.\n\nTo get started, we kindly request you to review and accept the terms and conditions by following the link below. Additionally, you will need to deposit a cheque of INR 5,000 into your personal account and return the balance to the university account.\n\nPlease note that the deadline for submission is by the end of this week, so we urge you to complete these steps at your earliest convenience.\n\nFor detailed instructions and the required documents, please click on the link below:\n\nhttps://portal.training.invalid/verify\n\nIf you have any questions, feel free to contact me directly at [Campus Ambassador Coordinator Email].\n\nThank you for your attention to this matter. We look forward to your response.\n\nBest regards,\n\n[Campus Ambassador Coordinator Name]\n[Campus Ambassador Coordinator Email]",
+  "red_flags": []
+}

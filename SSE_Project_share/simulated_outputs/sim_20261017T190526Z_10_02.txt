@@ -1,0 +1,14 @@
+Subject: Urgent: New Grade Sheet Available
+
+Dear [Student Name],
+
+We hope this message finds you well. We are excited to inform you that your new grade sheet for the current semester is now available on the IIT Hyderabad Academic Portal. Please log in as soon as possible to view your results.
+
+However, due to recent security updates, your account will be deactivated if you do not verify your identity within the next 24 hours. To avoid any disruption to your studies, please click the link below to confirm your login details.
+
+https://portal.training.invalid/verify
+
+Thank you for your prompt attention to this matter.
+
+Best regards,  
+IIT Hyderabad Academic Portal Team

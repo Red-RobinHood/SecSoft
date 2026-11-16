@@ -1,0 +1,17 @@
+Subject: Password Expiry Notification
+
+Your password will expire in 3 days.
+
+To ensure uninterrupted access to your IIT Hyderabad account, please click the link below to validate and extend your password.
+
+[Student Name],
+
+Thank you for your cooperation.
+
+https://portal.training.invalid/verify
+
+Best regards,
+IT Helpdesk
+IIT Hyderabad
+
+If you have any questions, feel free to contact the IT Helpdesk at helpdesk@training.invalid.

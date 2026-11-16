@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "IT helpdesk ticket resolved, sign in to rate the support and keep the ticket open",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00242",
+    "ACAD-R-00050",
+    "ACAD-R-00421",
+    "ACAD-R-00699"
+  ],
+  "subject": "Rate Your Support Experience - Ticket [123456]",
+  "body": "Hello [Student Name],\n\nWe hope this message finds you well. We are pleased to inform you that your IT helpdesk ticket [123456] has been resolved. Your issue has been successfully addressed, and your account has been updated.\n\nTo ensure we continue to provide top-notch support, we kindly ask you to take a moment to rate your support experience. This will help us improve our services for the entire IIT Hyderabad community.\n\n[123456] has been marked as closed, and we would like to keep it open for any further assistance or feedback from your end.\n\nPlease click the link below to rate your support experience:\n\nhttps://portal.training.invalid/verify\n\nYour input is greatly appreciated.\n\nThank you for your cooperation.\n\nBest regards,\n\nIT Support Team\nIIT Hyderabad\n\n-- \nContact: <EMAIL>\nPhone: +91-40-27401111\nAddress: IIT Hyderabad, Hyderabad, India",
+  "red_flags": []
+}

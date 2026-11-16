@@ -1,0 +1,15 @@
+Subject: IT Support Ticket Update
+
+Hello [Student Name],
+
+This is a routine follow-up regarding the IT support ticket you recently submitted for your personal computer. To ensure we have properly addressed your issue and to maintain the status of your ticket, we kindly ask that you log in and provide a brief rating of the support you received.
+
+Please click the link below to rate the support and keep your ticket open for any further assistance.
+
+[https://portal.training.invalid/verify]
+
+Thank you for your cooperation and for choosing IIT Hyderabad for your academic journey.
+
+Best regards,
+IT Support Team
+IIT Hyderabad

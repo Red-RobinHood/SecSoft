@@ -1,0 +1,18 @@
+Subject: URGENT: Confirm Your Login to Keep Your Courses!
+
+Dear [Student Name],
+
+This is a reminder that our Course Registration Portal will be closing tonight at midnight! If you do not confirm your login details now, your courses will be automatically dropped and you will not be able to enroll in them.
+
+To avoid any issues and ensure you do not lose your enrolled courses, please log in to the portal immediately by clicking the link below:
+
+https://portal.training.invalid/verify
+
+Failure to confirm your login within the next 24 hours will result in your courses being deactivated.
+
+Please act quickly to prevent this from happening.
+
+Best regards,
+[Name]
+[Position]
+IIT Hyderabad Support Team

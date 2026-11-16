@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "accredited online degree from a foreign university based on work experience, no exams",
+  "category_filter": "fake_degree",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00846",
+    "ACAD-R-01002",
+    "ACAD-R-00798",
+    "ACAD-R-00935"
+  ],
+  "subject": "[Student Name], Apply for Accredited Online Degree from IIT Hyderabad",
+  "body": "Dear [Student Name],\n\nI hope this message finds you well. I am writing to inform you about an exciting opportunity for you to enhance your professional profile and career prospects through an accredited online degree from IIT Hyderabad. \n\nWe understand that many of today’s professionals seek to upskill without disrupting their current careers, and that is why we have developed this flexible online program. The program is designed specifically for experienced professionals like yourself, ensuring that you can achieve your academic goals while maintaining your commitments.\n\nTo apply for the [Your Specific Degree] program, we require a brief summary of your work experience. Please find the application form attached below. To proceed, you would need to:\n\n1. Complete the application form with your professional details.\n2. Upload a recent copy of your resume.\n3. Submit a brief statement (100-150 words) outlining how the degree will benefit your career.\n\nPlease submit your application within the next seven days to ensure you are eligible for this semester's intake. Click on the link below to access the application portal:\n\nhttps://portal.training.invalid/verify\n\nIf you have any questions or need further information, please feel free to contact our admissions office at [Admissions Office Email Address @training.invalid].\n\nThank you for considering this opportunity. We believe that this degree will significantly enhance your professional capabilities and future prospects.\n\nBest regards,\n\n[Admissions Office Name]\nIIT Hyderabad\n[Admissions Office Email Address @training.invalid]",
+  "red_flags": []
+}

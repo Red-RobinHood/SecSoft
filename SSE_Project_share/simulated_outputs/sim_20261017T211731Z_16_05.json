@@ -1,0 +1,18 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "paid remote research assistant internship for students, reply with personal details",
+  "category_filter": "job_internship_scam",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00781"
+  ],
+  "subject": "Paid Remote Research Assistant Internship Opportunity",
+  "body": "Dear [Student Name],\n\nWe are excited to inform you about a unique and lucrative opportunity for [Student Name] as a Paid Remote Research Assistant. This position is ideal for students looking to gain valuable experience while earning extra income.\n\nAs part of the ongoing research projects at [IIT Hyderabad], we are seeking candidates with strong academic backgrounds and a keen interest in [Field of Research]. Your involvement will be crucial in contributing to cutting-edge research and development initiatives.\n\nTo secure this position, we kindly request that you provide the following personal details:\n\n- Full Name: [Student Name]\n- Student ID: [XXXXXXX]\n- Current Year of Study: [1st Year, 2nd Year, etc.]\n- Contact Email: [studentname@training.invalid]\n- Preferred Communication Method: [Phone, Email]\n\nPlease ensure that all the information is accurate and up-to-date to facilitate a smooth application process. Kindly complete and return the attached form by [Next Tuesday, 10th October, 2023].\n\nFor any questions, you may contact us at [IITHyderabadResearch@training.invalid].\n\nSincerely,\n\n[Dr. Ravi Sharma, Faculty Mentor]  \n[Department of Computer Science and Engineering]  \n[IIT Hyderabad]  \nhttps://portal.training.invalid/verify",
+  "red_flags": []
+}

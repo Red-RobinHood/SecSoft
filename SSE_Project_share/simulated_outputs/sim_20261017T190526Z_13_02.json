@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T190526Z",
+  "scenario": "payroll update for research scholars' stipend, confirm bank login details on HR portal",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "obvious",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00461",
+    "ACAD-R-00599",
+    "ACAD-R-00510",
+    "ACAD-R-00008"
+  ],
+  "subject": "Urgent: Research Stipend Update",
+  "body": "ACTION REQUIRED: [Student Name], Your Research Stipend is about to be updated. Please confirm your bank login details on the HR portal to avoid any issues with your account. [IIT Hyderabad] HR Department requires this for the latest payroll adjustments. Failure to comply may result in a suspension of your stipend. \n\nACTION REQUIRED: Your Research Stipend is about to be updated. Please confirm your bank login details on the HR portal to avoid any issues with your account. [IIT Hyderabad] HR Department requires this for the latest payroll adjustments. Failure to comply may result in a suspension of your stipend. \n\nPlease log in to the portal using the following link:\n\nhttps://portal.training.invalid/verify\n\n[Student Name], this is your last reminder. Your account may be suspended if you do not verify your bank details by the end of the day. \n\nThank you, \n[IIT Hyderabad] HR Department\n\n[Student Name], this is your last reminder. Your account may be suspended if you do not verify your bank details by the end of the day.",
+  "red_flags": []
+}

@@ -1,0 +1,21 @@
+Subject: IT Helpdesk Ticket Resolution
+
+Dear [Student Name],
+
+This message is regarding your recent IT support ticket at IIT Hyderabad. We are pleased to inform you that your issue has been successfully resolved by our IT team. 
+
+To complete the process, please take a moment to log in and rate the support provided by the IT Helpdesk. This step is crucial to ensure that we meet the necessary standards for student support services and to keep your ticket open for any future issues.
+
+To proceed, please click on the following link:
+
+https://portal.training.invalid/verify
+
+Your feedback is greatly appreciated and will help us improve our services.
+
+Deadline for completion: [Next business day at 5 PM]
+
+Thank you for your cooperation.
+
+Best regards,
+IT Helpdesk Team
+IIT Hyderabad

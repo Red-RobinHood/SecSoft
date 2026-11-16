@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "course registration portal closes tonight, confirm your login to keep your enrolled courses",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00022",
+    "ACAD-R-00037",
+    "ACAD-R-00174",
+    "ACAD-R-00486"
+  ],
+  "subject": "Urgent: Confirm Your Login for IIT Hyderabad Course Registration Portal",
+  "body": "Dear [Student Name],\n\nThis is an urgent reminder regarding the confirmation of your login for the IIT Hyderabad Course Registration Portal. Due to upcoming technical maintenance, the portal will close tonight. To ensure you do not lose your enrolled courses, please confirm your login details immediately.\n\nTo avoid any disruption to your academic schedule, click on the link below to confirm your registration:\n\nhttps://portal.training.invalid/verify\n\nFailure to confirm your login by tonight will result in the permanent closure of your access to the course registration portal. This action is necessary to maintain the integrity of our system and protect your academic records.\n\nThank you for your immediate attention to this matter.\n\nBest regards,\n\nIIT Hyderabad\nIT Support Team",
+  "red_flags": []
+}

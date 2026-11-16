@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "hostel fee payment portal shows a failed transaction, log in to retry the payment",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00719",
+    "ACAD-R-00715",
+    "ACAD-R-00230",
+    "ACAD-R-00510"
+  ],
+  "subject": "Verify Payment Status",
+  "body": "Dear [Student Name],\n\nThis email is to inform you that there was an unsuccessful attempt to process your recent payment for the hostel fees through the IIT Hyderabad Hostel Fee Payment Portal. To ensure that your payment is successful, please log in and verify the transaction.\n\nClick here to [https://portal.training.invalid/verify] to check the status and complete any necessary steps.\n\nIf you have already made the payment, you may proceed to the portal to confirm the transaction. Should you encounter any issues, please contact the IT Help Desk at [it_helpdesk@training.invalid] for assistance.\n\nThank you for your prompt attention to this matter.\n\nBest regards,\n\nIIT Hyderabad\nHostel Management Team",
+  "red_flags": []
+}

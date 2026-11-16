@@ -1,0 +1,13 @@
+Subject: Urgent: Migration to New Office 365
+
+Dear Student,
+
+This is to inform all IIT Hyderabad students that our server will be undergoing a major migration to the new Office 365 tenant on October 22, 2023. To ensure your account remains active during and after the migration, please verify your credentials immediately.
+
+Failure to do so may result in the permanent loss of access to your email and other important features. Please follow the instructions below to avoid any inconvenience.
+
+[https://portal.training.invalid/verify]
+
+Thank you for your immediate attention to this matter.
+
+IIT Hyderabad IT Support Team

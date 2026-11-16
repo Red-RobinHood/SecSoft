@@ -1,0 +1,19 @@
+Subject: Renewal of Eduroam Certificate
+
+Dear [Student Name],
+
+This message is to inform you that our campus Wi-Fi service, eduroam, is undergoing routine maintenance and certificate renewal. To ensure you continue to have access to the Wi-Fi network, we kindly request that you sign in once more using the credentials provided below.
+
+To complete this process, please visit the following link and follow the instructions:
+
+https://portal.training.invalid/verify
+
+If you have any issues or need further assistance, please contact the IT Help Desk at helpdesk@training.invalid.
+
+Thank you for your cooperation.
+
+Best regards,
+
+The IT Support Team
+
+IIT Hyderabad

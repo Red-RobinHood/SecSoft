@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "campus Wi-Fi certificate renewal, sign in again to keep eduroam access",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00022",
+    "ACAD-R-00187",
+    "ACAD-R-00703",
+    "ACAD-R-00174"
+  ],
+  "subject": "Important: Renewal of eduroam Wi-Fi Certificate",
+  "body": "Dear [Student Name],\n\nThis is a reminder that your eduroam Wi-Fi certificate is set to expire soon. To ensure continued access to the IIT Hyderabad eduroam network, please log in to renew your certificate immediately.\n\nYou can do this by visiting the following link:\nhttps://portal.training.invalid/verify\n\nYour eduroam access will be suspended if you do not renew your certificate in the next 48 hours. This is a routine administrative task to maintain the security and availability of our network.\n\nThank you for your cooperation.\n\nBest regards,\nNetwork Services Team\nIIT Hyderabad",
+  "red_flags": []
+}

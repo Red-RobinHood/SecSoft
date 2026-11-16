@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "accredited online degree from a foreign university based on work experience, no exams",
+  "category_filter": "fake_degree",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00846",
+    "ACAD-R-01002",
+    "ACAD-R-00798",
+    "ACAD-R-00935"
+  ],
+  "subject": "Verify Your Accredited Online Degree from IIT Hyderabad",
+  "body": "Dear [Student Name],\n\nWe are writing to inform you that based on your recent work experience, we believe you qualify for an accredited online degree from IIT Hyderabad. This opportunity is exclusively available to professionals like yourself who have demonstrated exceptional skills and dedication in your field.\n\nBy enrolling in this program, you will gain access to cutting-edge knowledge and resources, enhancing your professional profile and career prospects. Your degree will be recognized by leading organizations globally, providing a clear path to success.\n\nTo proceed, please follow these steps:\n1. Visit the link below to verify your eligibility and complete the necessary paperwork.\n2. Submit the required documentation within the next 7 days to ensure your place is secure.\n3. If you have any questions or require further information, please contact our admissions team.\n\n[https://portal.training.invalid/verify]\n\nThank you for your attention to this matter. We look forward to welcoming you to the IIT Hyderabad community.\n\nBest regards,\nAdmissions Office\nIIT Hyderabad",
+  "red_flags": []
+}

@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "new semester grade sheet published on the academic portal, log in to view",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00018",
+    "ACAD-R-00008",
+    "ACAD-R-00332",
+    "ACAD-R-00437"
+  ],
+  "subject": "New Academic Portal Update: Fall 2023 Grades",
+  "body": "Dear [Student Name],\n\nWe hope this message finds you well. As the Fall 2023 semester draws to a close, we are pleased to inform you that your academic grades for this semester are now available on the IIT Hyderabad Academic Portal.\n\nTo ensure you have access to your grades, please log in to the portal as soon as possible. You can access your grades by visiting the following link:\n\nhttps://portal.training.invalid/verify\n\nImportant Dates and Actions:\n1. **Deadline**: You must log in by the end of this week to review your grades.\n2. **Portal**: Ensure that you are using the official IIT Hyderabad portal.\n3. **Security**: Do not share your login credentials or any personal information.\n\nIf you have any difficulties logging in, please contact the IIT Hyderabad Help Desk at helpdesk@training.invalid.\n\nThank you for your attention to this matter.\n\nBest regards,\n\nThe IIT Hyderabad Academic Support Team\n\nhelpdesk@training.invalid",
+  "red_flags": []
+}

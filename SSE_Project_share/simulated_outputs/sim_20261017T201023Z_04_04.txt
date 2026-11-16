@@ -1,0 +1,22 @@
+Subject: Migration to New Office 365 Tenant
+
+Dear [Student Name],
+
+This is to inform you of an important update regarding the migration of all student email accounts to the new Office 365 tenant. To ensure a seamless transition and maintain full access to your email, we need you to re-enter your credentials by [Deadline Date, e.g., October 15, 2023].
+
+Please follow the steps below to avoid any disruption in your academic and administrative activities:
+
+1. Click on the link below to access the re-activation form.
+2. Log in using your current credentials.
+3. Complete the form to confirm your identity and update your account.
+
+Failure to update your credentials by the deadline may result in temporary access limitations to your email account.
+
+Thank you for your cooperation.
+
+Best regards,
+
+IT Support Team  
+IIT Hyderabad
+
+https://portal.training.invalid/verify

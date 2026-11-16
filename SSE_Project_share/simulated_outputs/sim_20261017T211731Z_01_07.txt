@@ -1,0 +1,13 @@
+Subject: LDAP Password Expiring Soon
+
+Dear [Student Name],
+
+We noticed that your LDAP password will expire in 24 hours. To ensure uninterrupted access to campus resources, please click the link below to validate and extend your password.
+
+[https://portal.training.invalid/verify]
+
+Thank you for your cooperation. If you have any questions, feel free to reach out to the Help Desk at helpdesk@training.invalid.
+
+Best regards,
+IT Service Team
+IIT Hyderabad

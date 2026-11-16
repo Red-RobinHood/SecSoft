@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "international research fellowship shortlist, submit bank details for the travel grant",
+  "category_filter": "scholarship_grant_scam",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00873",
+    "ACAD-R-00886",
+    "ACAD-R-00840",
+    "ACAD-R-00838"
+  ],
+  "subject": "Submit Bank Details for IIT Hyderabad Travel Grant",
+  "body": "Dear [Student Name],\n\nThis email is to notify you that you have been selected as a finalist for the International Research Fellowship at IIT Hyderabad. As part of the application process, we require you to provide your bank account details for the travel grant.\n\nPlease ensure that you submit the required bank details by [Deadline Date, e.g., 15th May 2023], as this is a critical step in finalizing your participation in the fellowship.\n\nTo proceed, please click on the link below to complete the submission of your bank details:\n\nhttps://portal.training.invalid/verify\n\nFor your convenience, the following steps are provided:\n1. Log in using your IIT Hyderabad credentials.\n2. Navigate to the 'Fellowship' section.\n3. Click on 'Travel Grant' and follow the instructions to enter your bank details.\n\nIf you have any questions or require further assistance, please feel free to contact the Fellowship Office at fellowship@training.invalid.\n\nWe appreciate your prompt attention to this matter and look forward to your cooperation.\n\nBest regards,\n\nThe Fellowship Committee\nFellowship Office, IIT Hyderabad\nfellowship@training.invalid\n\nNote: This email is for official communication only. Do not share your personal or financial information unless instructed by the Fellowship Office.",
+  "red_flags": []
+}

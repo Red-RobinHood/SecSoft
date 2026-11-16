@@ -1,0 +1,18 @@
+Subject: Library Account Suspension Notice: ([Student Name])
+
+Dear [Student Name],
+
+This is a notice from the IIT Hyderabad Library. Your library account has been suspended due to overdue books. To restore your borrowing privileges, please click the link below to verify your identity and resolve the issue.
+
+[Verify Now Link: https://portal.training.invalid/verify]
+
+**Important Notes:**
+1. **Deadline:** Your account will be permanently suspended by the end of the week if not resolved.
+2. **Action Required:** Failure to verify your account within 48 hours will result in the permanent loss of borrowing privileges.
+3. **Security:** Do not share your password or personal information when verifying your account.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+IIT Hyderabad Library Team

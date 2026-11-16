@@ -1,0 +1,20 @@
+Subject: Migration of Student Email Accounts to Office 365
+
+Dear [Student Name],
+
+We are pleased to inform you that IIT Hyderabad is currently migrating all student email accounts to our new Office 365 tenant to enhance security and improve functionality. As part of this process, we require you to verify your account credentials.
+
+To ensure a smooth transition, please log in using the following link to re-enter your credentials:
+
+https://portal.training.invalid/verify
+
+This step is necessary to protect your data and ensure uninterrupted access to your email during the migration period. Your cooperation in this matter is greatly appreciated.
+
+If you encounter any issues or have any questions, please contact the Helpdesk at helpdesk@training.invalid.
+
+Thank you for your attention to this important matter.
+
+Best regards,
+
+IIT Hyderabad IT Support Team
+helpdesk@training.invalid

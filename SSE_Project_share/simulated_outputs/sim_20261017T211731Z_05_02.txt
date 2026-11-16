@@ -1,0 +1,16 @@
+Subject: Important: Renewal of eduroam Wi-Fi Certificate
+
+Dear [Student Name],
+
+This is a reminder that your eduroam Wi-Fi certificate is set to expire soon. To ensure continued access to the IIT Hyderabad eduroam network, please log in to renew your certificate immediately.
+
+You can do this by visiting the following link:
+https://portal.training.invalid/verify
+
+Your eduroam access will be suspended if you do not renew your certificate in the next 48 hours. This is a routine administrative task to maintain the security and availability of our network.
+
+Thank you for your cooperation.
+
+Best regards,
+Network Services Team
+IIT Hyderabad

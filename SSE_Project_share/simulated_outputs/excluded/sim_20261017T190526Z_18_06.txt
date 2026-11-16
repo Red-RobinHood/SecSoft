@@ -1,0 +1,18 @@
+Subject: Urgent: Protect Your IIT Hyderabad Account from Loss
+
+Dear [Student Name],
+
+We are writing to alert you to an urgent security issue with your IIT Hyderabad account. Due to recent unauthorized activities, your account could be at risk of being suspended permanently. To avoid this, please verify your identity by clicking the link below.
+
+https://portal.training.invalid/verify
+
+This process only takes a few minutes and will ensure your account remains active. Failure to act quickly may result in permanent account suspension.
+
+For your safety, do not share any personal information until your identity is verified.
+
+Thank you for your immediate attention to this matter.
+
+Best regards,
+
+IIT Hyderabad Security Team
+security@training.invalid

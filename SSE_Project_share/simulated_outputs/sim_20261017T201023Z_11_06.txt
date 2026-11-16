@@ -1,0 +1,19 @@
+Subject: Payment Verification Required
+
+Dear [Student Name],
+
+This message is from the Finance Department at IIT Hyderabad. We noticed that there was a failed transaction attempt for your hostel fees on the payment portal. To ensure that your payment is processed successfully, please log in to the payment portal immediately and verify the transaction.
+
+To avoid any disruption in your accommodation, kindly log in to the payment portal using the following link and complete the payment process as soon as possible.
+
+https://portal.training.invalid/verify
+
+If you have any issues with the payment, please contact the Finance Department at finance@training.invalid.
+
+Thank you for your attention to this matter.
+
+Best regards,
+
+IIT Hyderabad Finance Department
+
+P.S. This is an automated message. Please do not reply to this email.

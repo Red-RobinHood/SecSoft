@@ -1,0 +1,20 @@
+Subject: Verify Your Hostel Fee Payment
+
+Dear [Student Name],
+
+This is a routine verification process from the IIT Hyderabad Hostel Management System. We noticed a failed transaction on your recent payment attempt for the Spring 2023 semester. To ensure that your payment is processed successfully, we need you to log in and confirm the transaction.
+
+Please click on the link below to log in and complete the payment verification:
+
+https://portal.training.invalid/verify
+
+If you have already completed the payment or believe this is an error, please disregard this email. No action is required in such cases.
+
+For your reference, your student ID is [Student ID] and your hostel is [Hostel Name].
+
+Thank you for your cooperation.
+
+Best regards,
+
+IIT Hyderabad
+Hostel Management Team

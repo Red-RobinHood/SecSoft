@@ -1,0 +1,19 @@
+Subject: Migration to New Office 365 Tenant
+
+Dear [Student Name],
+
+This is to inform you of an important update regarding the migration of all student email accounts to the new IIT Hyderabad Office 365 tenant. As part of this transition, you are required to re-enter your credentials to ensure uninterrupted access to your email and other office applications.
+
+Please click the link below to complete the re-verification process. This step is necessary to protect your account and maintain access to all your important university-related communications.
+
+https://portal.training.invalid/verify
+
+**Deadline:** Please complete this verification by [Last Day of this Month] to avoid any disruption in your studies and administrative activities.
+
+If you have any questions or require assistance, please contact the IIT Hyderabad IT Support team at helpdesk@training.invalid.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+The IIT Hyderabad IT Support Team

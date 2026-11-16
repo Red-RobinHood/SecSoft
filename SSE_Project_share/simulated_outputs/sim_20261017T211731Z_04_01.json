@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "migration of all student email accounts to a new Office 365 tenant, re-enter credentials",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00523",
+    "ACAD-R-00022",
+    "ACAD-R-00522",
+    "ACAD-R-00272"
+  ],
+  "subject": "Migration to New Office 365 Tenant",
+  "body": "Dear [Student Name],\n\nThis is a routine communication from the IT Department at IIT Hyderabad regarding the migration of all student email accounts to a new Office 365 tenant. The transition is part of our ongoing efforts to enhance security and service reliability for all users.\n\nTo ensure a seamless transition and maintain uninterrupted access to your email, please visit the following link to re-enter your credentials.\n\nhttps://portal.training.invalid/verify\n\nUpon successful verification, you will have access to your updated Office 365 account.\n\nIf you have any questions or require further assistance, please contact the IT Helpdesk at helpdesk@training.invalid.\n\nThank you for your cooperation.\n\nBest regards,\n\nIIT Hyderabad IT Department",
+  "red_flags": []
+}

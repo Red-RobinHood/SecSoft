@@ -1,0 +1,27 @@
+Subject: Rate Your Support Experience - Ticket [123456]
+
+Hello [Student Name],
+
+We hope this message finds you well. We are pleased to inform you that your IT helpdesk ticket [123456] has been resolved. Your issue has been successfully addressed, and your account has been updated.
+
+To ensure we continue to provide top-notch support, we kindly ask you to take a moment to rate your support experience. This will help us improve our services for the entire IIT Hyderabad community.
+
+[123456] has been marked as closed, and we would like to keep it open for any further assistance or feedback from your end.
+
+Please click the link below to rate your support experience:
+
+https://portal.training.invalid/verify
+
+Your input is greatly appreciated.
+
+Thank you for your cooperation.
+
+Best regards,
+
+IT Support Team
+IIT Hyderabad
+
+-- 
+Contact: <EMAIL>
+Phone: +91-40-27401111
+Address: IIT Hyderabad, Hyderabad, India

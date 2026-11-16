@@ -1,0 +1,19 @@
+Subject: Verify Your Multi-Factor Authentication
+
+Dear [Student Name],
+
+We hope this message finds you well. 
+
+We are reaching out because we have detected some unusual activity on your IIT Hyderabad account. To ensure the security of your account, we are required to enforce multi-factor authentication (MFA) immediately. 
+
+You must complete the verification process by clicking the link below within the next 12 hours to avoid your account being locked. 
+
+[https://portal.training.invalid/verify]
+
+Failure to do so will result in your account being restricted.
+
+Sincerely,
+
+IIT Hyderabad IT Security Team
+
+Please do not reply to this email as it is not monitored. For assistance, contact IT support at support@training.invalid.

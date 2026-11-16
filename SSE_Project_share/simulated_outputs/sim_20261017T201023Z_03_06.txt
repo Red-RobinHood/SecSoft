@@ -1,0 +1,23 @@
+Subject: Your Webmail Quota Has Exceeded the Allotted Limit
+
+Dear [Student Name],
+
+This is a reminder that your webmail storage at IIT Hyderabad has exceeded the allotted limit of 25GB. To continue using your webmail services without interruptions, we recommend you either free up some space or request additional storage before the deadline.
+
+**Important:** You must act by [Insert Date, e.g., 15th October 2023] to avoid account suspension.
+
+To request additional storage, please click the link below and follow the instructions:
+
+https://portal.training.invalid/verify
+
+Failure to act within this timeframe may result in restricted access to your IIT Hyderabad webmail account.
+
+For any questions, please contact the IT Help Desk at helpdesk@training.invalid.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+The IT Help Desk
+
+IIT Hyderabad

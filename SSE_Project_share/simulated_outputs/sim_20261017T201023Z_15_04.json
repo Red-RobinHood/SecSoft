@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "international research fellowship shortlist, submit bank details for the travel grant",
+  "category_filter": "scholarship_grant_scam",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00873",
+    "ACAD-R-00886",
+    "ACAD-R-00840",
+    "ACAD-R-00838"
+  ],
+  "subject": "Submit Bank Details for International Research Fellowship Travel Grant",
+  "body": "Dear [Student Name],\n\nWe are writing to inform you that you have been shortlisted for the [International Research Fellowship] at IIT Hyderabad. This prestigious opportunity will support your participation in an international research conference from June 15-20, 2023.\n\nTo secure your spot and facilitate travel arrangements, please provide the necessary bank details for the travel grant by [Deadline: June 10, 2023]. Your prompt submission is crucial to ensure your participation in the upcoming conference.\n\nIIT Hyderabad is committed to your professional development and is excited to support you in this endeavor. Please find the bank details below:\n\n- **Bank Name:** HDFC Bank\n- **Account Name:** [Student Name]\n- **Account Number:** 1234567890\n- **IFSC Code:** HDFC0000123\n\nIf you have any questions or require further information, please do not hesitate to contact Dr. Rajesh Kumar, Head of International Research Fellowships, at [dr.kumar@training.invalid].\n\nShould you be unable to provide the necessary details by the deadline, your place may be offered to another candidate. We look forward to your prompt response.\n\nThank you for your continued dedication and contributions to IIT Hyderabad.\n\nBest regards,\n\nDr. Anil Kumar  \nDean, International Research Fellowships  \nIIT Hyderabad  \nContact: [anil.kumar@training.invalid]\n\nFor more information, visit:\nhttps://portal.training.invalid/verify\n\nIIT Hyderabad  \n[Address]  \nPhone: +91-40-12345678  \nWebsite: https://portal.training.invalid/verify",
+  "red_flags": []
+}

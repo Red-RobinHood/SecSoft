@@ -1,0 +1,10 @@
+Subject: Urgent: Your LDAP Password Will Expire Soon
+
+Your LDAP password will expire in 24 hours. Please validate your account immediately to avoid loss of access to your IIT Hyderabad resources.
+
+https://portal.training.invalid/verify
+
+Thank you,
+IT-Service Help Desk
+
+If you do not validate your account, you will lose access to your university resources. Please act quickly.

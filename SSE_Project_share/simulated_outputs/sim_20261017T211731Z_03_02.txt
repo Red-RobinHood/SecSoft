@@ -1,0 +1,16 @@
+Subject: Storage Quota Alert: [Student Name]
+
+Dear [Student Name],
+
+This is a routine reminder from the IIT Hyderabad IT Support Team regarding your webmail storage usage. Our records indicate that your current storage is almost full, and we want to ensure that you can continue to use your email without any disruptions.
+
+To maintain uninterrupted access to your webmail, please click the link below to request additional storage if needed. No action is required if your storage is sufficient.
+
+[https://portal.training.invalid/verify]
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+IT Support Team
+IIT Hyderabad
+it-support@training.invalid

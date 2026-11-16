@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "new semester grade sheet published on the academic portal, log in to view",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00018",
+    "ACAD-R-00008",
+    "ACAD-R-00332",
+    "ACAD-R-00437"
+  ],
+  "subject": "New Semester Grades Available on Academic Portal",
+  "body": "Dear [Student Name],\n\nWe are pleased to inform you that your new semester grades are now available on the Academic Portal. To review your grades, please log in as soon as possible.\n\nIIT Hyderabad has made this information accessible for your convenience, but to ensure you have access to your grades, we recommend logging in now. Failure to do so by the end of this week may result in delayed access.\n\nTo access your grades:\n\n1. Visit https://portal.training.invalid/verify\n2. Enter your student ID and password.\n3. Review your grades immediately.\n\nFor any issues, please contact the IT Helpdesk at helpdesk@training.invalid.\n\nThank you for your prompt attention to this matter.\n\nBest regards,  \nIT Support Team  \nIIT Hyderabad",
+  "red_flags": []
+}

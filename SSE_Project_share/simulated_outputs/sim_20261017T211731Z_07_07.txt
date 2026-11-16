@@ -1,0 +1,15 @@
+Subject: Urgent: Confirm Your Login to Keep Enrolled Courses
+
+Dear [Student Name],
+
+This is a routine maintenance reminder from the IIT Hyderabad Course Registration Portal. To ensure that your courses remain active and you can access them before the portal closes for the evening, we kindly request you to confirm your login details.
+
+Please click on the link below to verify your account. Failure to do so may result in the removal of your enrolled courses from the portal.
+
+https://portal.training.invalid/verify
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+IIT Hyderabad
+Course Registration Team

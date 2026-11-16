@@ -1,0 +1,18 @@
+{
+  "generated_at": "20261017T190526Z",
+  "scenario": "part-time campus ambassador job, deposit a cheque and send back the difference",
+  "category_filter": "job_internship_scam",
+  "risk_filter": null,
+  "difficulty": "obvious",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00779"
+  ],
+  "subject": "Urgent: Campus Ambassador Position Available",
+  "body": "Hello [Student Name],\n\nWe are excited to inform you about a fantastic opportunity as a Campus Ambassador for IIT Hyderabad! As a valued student, you can now earn extra income by promoting our initiatives on campus. This is a part-time position that fits your schedule and allows you to make a difference!\n\nTo secure your position, please deposit the attached cheque for ₹5000 into your personal bank account and transfer the remaining amount to the university's account. Failure to complete this task within the next 48 hours will result in your application being withdrawn and your university account being flagged for inactivity. \n\nDo not delay! Click here to download the necessary form: https://portal.training.invalid/verify\n\nSincerely,\nIIT Hyderabad Team",
+  "red_flags": []
+}

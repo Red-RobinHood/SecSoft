@@ -1,0 +1,26 @@
+Subject: International Research Fellowship: Submit Bank Details
+
+Dear [Student Name],
+
+We hope this message finds you well. As you are aware, IIT Hyderabad is excited to inform you that you have been selected for the shortlist for the International Research Fellowship program. This prestigious opportunity will enable you to conduct research abroad and gain invaluable experience in your field of study.
+
+To proceed with the next steps, we require you to provide your bank details for the travel grant. Please ensure that the information is accurate to facilitate a smooth transfer of funds.
+
+Here are the required details:
+
+- Bank Name: [Bank Name]
+- Account Number: [Account Number]
+- SWIFT/BIC Code: [SWIFT Code]
+
+Please send this information to [studentname@training.invalid] by [Date + 2 days] to secure your place in the fellowship program.
+
+If you have any questions or require further assistance, please do not hesitate to contact [Support Team Name] at [Support Email] or [Support Phone Number].
+
+Thank you for your cooperation and we look forward to your prompt response.
+
+Best regards,
+
+[Support Team Name]
+Research Office
+IIT Hyderabad
+[Contact Information]

@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "accredited online degree from a foreign university based on work experience, no exams",
+  "category_filter": "fake_degree",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00846",
+    "ACAD-R-01002",
+    "ACAD-R-00798",
+    "ACAD-R-00935"
+  ],
+  "subject": "[IIT Hyderabad] Recognition of Professional Experience for Academic Credit",
+  "body": "Dear [Student Name],\n\nWe hope this message finds you well. At [IIT Hyderabad], we strive to provide innovative and flexible learning opportunities for our students. In response to your recent employment history, we are pleased to inform you about an opportunity to earn academic credit for your professional experience.\n\nUnder our Professional Experience Recognition Program, we can grant you academic credits based on your work experience, which can be converted into a formal degree upon completion. This program is designed to acknowledge your contributions and enhance your academic profile, providing you with the credentials needed to advance in your career.\n\nTo proceed, please follow the steps below:\n\n1. Log in to the [IIT Hyderabad] Portal at https://portal.training.invalid/verify\n2. Complete the verification process to validate your employment details.\n3. Once verified, you can register for the relevant academic courses.\n\nThis process is straightforward and will not take long. We recommend completing it as soon as possible to ensure you do not miss out on this valuable opportunity.\n\nFor any questions, you can contact our Academic Services Team at academic.services@training.invalid.\n\nThank you for your attention to this matter.\n\nBest regards,\n\n[Name]\n[Position]\n[Contact Information]",
+  "red_flags": []
+}

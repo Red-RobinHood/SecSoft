@@ -1,0 +1,18 @@
+Subject: IT Helpdesk Ticket Resolution
+
+Dear [Student Name],
+
+This email follows up on the ticket you submitted regarding the software installation issue you reported last week. I am glad to inform you that your request has been processed, and the issue has been resolved.
+
+To ensure we have accurate feedback and to keep your ticket open for any future reference, please take a moment to rate the support provided. Your feedback is invaluable to us as we continue to improve our services.
+
+You can rate the support and close your ticket by clicking the following link:
+
+https://portal.training.invalid/verify
+
+Thank you for your cooperation.
+
+Best regards,
+IT Helpdesk Team
+IIT Hyderabad
+[IT Helpdesk Email Address] @training.invalid

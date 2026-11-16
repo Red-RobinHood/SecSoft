@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "international research fellowship shortlist, submit bank details for the travel grant",
+  "category_filter": "scholarship_grant_scam",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00873",
+    "ACAD-R-00886",
+    "ACAD-R-00840",
+    "ACAD-R-00838"
+  ],
+  "subject": "Submission Required: Bank Details for International Research Fellowship Travel Grant",
+  "body": "Dear [Student Name],\n\nWe are writing to inform you that you have been selected for the International Research Fellowship program at IIT Hyderabad. This is a significant opportunity for you to engage in collaborative research with leading institutions abroad.\n\nTo ensure your smooth participation in the upcoming international research project, we need you to submit your bank details by [Deadline Date, e.g., March 31, 2024]. This information is required to facilitate the travel grant and ensure that your expenses are covered during the research period.\n\nPlease provide the following details:\n- Bank Name\n- Account Number\n- IFSC Code\n- Contact Person's Name\n- Contact Person's Email\n\nYou can find the submission form [here](https://portal.training.invalid/verify).\n\nWe have taken all necessary steps to secure your personal information, but for your safety, please ensure that you only use the provided link to submit your details. Any other link may compromise your data.\n\nIf you have any queries, please do not hesitate to contact us at [admissions@training.invalid](admissions@training.invalid). Your timely response is crucial to ensure a seamless travel experience for your upcoming research.\n\nThank you for your cooperation.\n\nBest regards,\n\n[Dr. [Professor's Name],]\n[Assistant Dean, International Research Fellowship Program]\nIIT Hyderabad\n[Contact Number: +91 99999 88888]\n[Email: irf@training.invalid]\n\nP.S. Please do not share your bank details with anyone outside the official process.",
+  "red_flags": []
+}

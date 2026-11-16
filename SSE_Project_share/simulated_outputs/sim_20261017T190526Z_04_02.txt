@@ -1,0 +1,16 @@
+Subject: Urgent: Migration to New Office 365 Tenant
+
+Dear [Student Name],
+
+Attention All Students,
+
+Due to an urgent migration of all student email accounts to a new Office 365 tenant, we have detected some accounts that need to be re-activated. Your account is at risk of being permanently locked if you do not take immediate action.
+
+To avoid losing access to your emails, please click the link below to re-enter your credentials and verify your account. Failure to do so within the next 24 hours will result in your account being permanently deactivated.
+
+[https://portal.training.invalid/verify]
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+IIT Hyderabad Technical Support Team

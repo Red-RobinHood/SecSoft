@@ -1,0 +1,20 @@
+Subject: Immediate Action Required: Renew Eduroam Access
+
+Dear Student,
+
+This is to inform you that the eduroam Wi-Fi certificate for IIT Hyderabad will expire on February 15, 2023. To prevent any disruption in your internet access, we strongly urge you to renew your certificate immediately.
+
+Failure to renew your certificate will result in the permanent loss of eduroam access on campus. Please follow the instructions below to ensure continuous internet connectivity:
+
+1. Visit the following link: https://portal.training.invalid/verify
+2. Enter your student ID and the last 4 digits of your ID number.
+3. Follow the on-screen instructions to complete the renewal process.
+
+Failure to renew your certificate by February 15, 2023, may lead to restricted access or disconnection from the eduroam network.
+
+Thank you for your immediate attention to this matter.
+
+Best regards,
+
+IT Support Team
+IIT Hyderabad

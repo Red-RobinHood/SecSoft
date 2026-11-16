@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "payroll update for research scholars' stipend, confirm bank login details on HR portal",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00461",
+    "ACAD-R-00599",
+    "ACAD-R-00510",
+    "ACAD-R-00008"
+  ],
+  "subject": "HR Portal Update for Research Scholar Stipend",
+  "body": "ACTION REQUIRED: [Student Name], Please update your bank login details for the stipend transfer. As part of the ongoing financial review, the Human Resources Department requires this information to ensure timely and accurate payments.\n\nTo proceed, please log in to the HR portal at the following link:\n\nhttps://portal.training.invalid/verify\n\nYou will be prompted to enter your bank details to confirm the stipend transfer. This update is necessary by the end of this week to avoid any delays in your payment.\n\nThank you for your cooperation. If you have any questions, please contact the HR Help Desk at hrhelpdesk@training.invalid.\n\nBest regards,\nHR Portal Team\nIIT Hyderabad",
+  "red_flags": []
+}

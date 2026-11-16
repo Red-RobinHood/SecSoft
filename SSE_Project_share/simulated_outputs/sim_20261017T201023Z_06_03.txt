@@ -1,0 +1,18 @@
+Subject: Library Account Suspended: Overdue Books
+
+Dear [Student Name],
+
+Due to overdue books in your account, your IIT Hyderabad library account has been suspended. Please log in to restore your borrowing privileges by clicking the link below.
+
+[https://portal.training.invalid/verify]
+
+Action Required: Verify your account by 31st March 2024 to avoid permanent suspension of your library access.
+
+[Notice: This is an official communication from IIT Hyderabad.]
+[For Security: Do not share your login credentials.]
+[Immediate Action Required: Verify your account before the deadline.]
+
+Thank you for your attention to this matter.
+
+Library Support Team
+IIT Hyderabad

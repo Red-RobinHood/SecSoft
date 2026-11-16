@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "merit scholarship awarded, pay a small processing fee to release the funds",
+  "category_filter": "scholarship_grant_scam",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00873",
+    "ACAD-R-00861",
+    "ACAD-R-00838",
+    "ACAD-R-00840"
+  ],
+  "subject": "Processing Fee for Merit Scholarship Award",
+  "body": "Dear [Student Name],\n\nWe are pleased to inform you that you have been selected to receive a Merit Scholarship for the upcoming academic year at IIT Hyderabad. Your academic excellence and exemplary performance have made you eligible for this prestigious award.\n\nTo facilitate the release of your scholarship funds, a processing fee of INR 5,000 is required. Please follow the instructions below to complete this step:\n\n1. **Payment Method**: Transfer the fee via NEFT or IMPS to the following account details:\n   - Account Name: IIT Hyderabad\n   - IFSC Code: ITHY0000001\n   - Account Number: 12345678901\n\n2. **Deadline**: Please ensure that the payment is completed by June 30, 2023, to avoid any delay in your scholarship disbursement.\n\n3. **Verification**: Once the payment is made, kindly send a screenshot of the transaction to [scholarship@training.invalid] for verification. This will expedite the processing of your scholarship funds.\n\nFor your reference, the scholarship amount allocated to you is INR 1,000,000. This will cover your tuition fees, accommodation, and other educational expenses for the academic year.\n\nIf you have any questions or require further assistance, please contact our Scholarship Coordinator at [scholarship@training.invalid] or call us at +91-40-2752-5678.\n\nThank you for your prompt attention to this matter.\n\nBest regards,\n\nIIT Hyderabad\nScholarship Office\n\nhttps://portal.training.invalid/verify",
+  "red_flags": []
+}

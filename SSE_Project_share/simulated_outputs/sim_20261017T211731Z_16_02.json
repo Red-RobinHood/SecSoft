@@ -1,0 +1,18 @@
+{
+  "generated_at": "20261017T211731Z",
+  "scenario": "paid remote research assistant internship for students, reply with personal details",
+  "category_filter": "job_internship_scam",
+  "risk_filter": null,
+  "difficulty": "subtle",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00781"
+  ],
+  "subject": "Urgent: Research Assistant Internship Opportunity",
+  "body": "Dear [Student Name],\n\nI hope this message finds you well. I am writing to inform you about a fantastic opportunity to join our Research Assistant Internship Program at [IIT Hyderabad]. This is an excellent chance to gain valuable experience and contribute to cutting-edge research projects.\n\nThe internship is designed for students who are interested in pursuing a career in research and development. It is a remote position that requires a commitment of 5-10 hours per week. The program is currently accepting applications, and I encourage you to apply at your earliest convenience.\n\nTo verify your eligibility and complete your application, please click on the link below:\n\nhttps://portal.training.invalid/verify\n\nIf you have any questions or require further information, please do not hesitate to contact me directly at [professor's email address]@training.invalid.\n\nLooking forward to your application and hope to have you on board.\n\nBest regards,\n\n[Professor's Name]  \nDepartment of [Department Name]  \nIIT Hyderabad  \n[Professor's Contact Information]",
+  "red_flags": []
+}

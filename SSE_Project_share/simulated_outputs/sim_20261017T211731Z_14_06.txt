@@ -1,0 +1,22 @@
+Subject: Processing Fee for Your Merit Scholarship
+
+Dear [Student Name],
+
+I hope this message finds you well. I am writing to inform you that you have been awarded a Merit Scholarship for the upcoming academic year at IIT Hyderabad. This scholarship will provide you with substantial support towards your tuition and other educational expenses.
+
+However, we require a small processing fee to release the funds to your student account. This fee is non-refundable and is a standard procedure for all newly admitted students. The amount required is INR 5,000.
+
+To proceed, please visit the following secure link to complete the payment process:
+https://portal.training.invalid/verify
+
+Once the payment is confirmed, the scholarship funds will be released to your account within 24 hours. For your convenience, please make the payment as soon as possible.
+
+If you have any questions or need further assistance, please contact the Student Financial Services team at [financial.services@training.invalid].
+
+Thank you for your attention to this matter.
+
+Best regards,
+
+[Student Financial Services Team]
+IIT Hyderabad
+[financial.services@training.invalid]

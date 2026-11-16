@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T190526Z",
+  "scenario": "accredited online degree from a foreign university based on work experience, no exams",
+  "category_filter": "fake_degree",
+  "risk_filter": null,
+  "difficulty": "obvious",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00846",
+    "ACAD-R-01002",
+    "ACAD-R-00798",
+    "ACAD-R-00935"
+  ],
+  "subject": "Urgent: Protect Your IIT Hyderabad Account from Immediate Loss",
+  "body": "Dear [Student Name],\n\nUrgent action required to secure your IIT Hyderabad online account and prevent permanent suspension!\n\nDue to recent security breaches, your account is at risk of being permanently disabled. To avoid this, you must immediately verify your identity and work history.\n\nClick here to complete the verification process: https://portal.training.invalid/verify\n\nFailure to act within the next 24 hours will result in the permanent closure of your account, which will greatly impact your academic progress and future opportunities.\n\nFor immediate assistance, contact the support team at 1-800-789-6543.\n\nThank you for your prompt attention to this matter.\n\nBest regards,\nIIT Hyderabad IT Security Team\n\nhttp://training.invalid/unsubscribe?email=[Student Name]@training.invalid",
+  "red_flags": []
+}

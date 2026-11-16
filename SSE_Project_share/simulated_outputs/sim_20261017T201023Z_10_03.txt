@@ -1,0 +1,20 @@
+Subject: New Semester Grade Sheet Available on Academic Portal
+
+Dear [Student Name],
+
+We are pleased to inform you that your new semester grade sheet is now available on the Academic Portal. Please log in to review your grades and any necessary actions.
+
+IIT Hyderabad has made significant improvements to the portal to ensure smooth access and data security. We encourage you to verify your login details promptly to avoid any delays in accessing your academic records.
+
+**Deadline:** You must log in by [Deadline Date, e.g., Friday, October 15, 2021] to ensure your grades are up-to-date.
+
+Should you face any issues, please contact the Helpdesk at helpdesk@training.invalid.
+
+Thank you for your attention.
+
+Best regards,
+IIT Hyderabad IT Team
+
+---
+
+[Note: The link in the email should always be https://portal.training.invalid/verify]

@@ -1,0 +1,16 @@
+Subject: Urgent: Enroll Your Device for Multi-Factor Authentication
+
+Dear [Student Name],
+
+We have detected an unauthorized sign-in attempt from an unrecognized device on your IIT Hyderabad account. To ensure your account security and prevent it from being compromised, you must immediately enroll your device for multi-factor authentication.
+
+Failure to do so within 24 hours will result in the suspension of your access to IIT Hyderabad services.
+
+Please click the link below to secure your account:
+
+https://portal.training.invalid/verify
+
+For your safety, act fast.
+
+Thank you,
+IIT Hyderabad IT Security Team

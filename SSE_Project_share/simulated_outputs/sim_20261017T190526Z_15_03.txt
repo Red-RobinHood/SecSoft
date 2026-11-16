@@ -1,0 +1,23 @@
+Subject: Urgent: Submit Bank Details for Your International Research Fellowship
+
+Dear [Student Name],
+
+We hope this message finds you well. As you are aware, your application has been shortlisted for the International Research Fellowship at IIT Hyderabad. To proceed with your selection, we require you to submit your bank details urgently to complete the final verification process.
+
+Please log in to your account at [https://portal.training.invalid/verify] and provide the necessary information by tonight. Failure to do so will result in the loss of your fellowship opportunity.
+
+For your reference, the required details include:
+- Bank Name
+- Account Number
+- SWIFT/BIC Code
+
+We kindly request your immediate attention to this matter to avoid any inconvenience.
+
+Thank you for your cooperation.
+
+Best regards,
+The IIT Hyderabad Fellowship Team
+
+IIT Hyderabad  
+Fellowship Office  
+iit-hyderabad@training.invalid

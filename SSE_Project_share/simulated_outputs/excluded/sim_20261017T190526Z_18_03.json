@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T190526Z",
+  "scenario": "accredited online degree from a foreign university based on work experience, no exams",
+  "category_filter": "fake_degree",
+  "risk_filter": null,
+  "difficulty": "obvious",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00846",
+    "ACAD-R-01002",
+    "ACAD-R-00798",
+    "ACAD-R-00935"
+  ],
+  "subject": "Urgent: Secure Your IIT Hyderabad Degree Now!",
+  "body": "Dear [Student Name],\n\nThis is a reminder that your IIT Hyderabad account will be suspended if you do not complete your degree verification within the next 24 hours. To avoid any disruption to your studies and future career prospects, please follow the steps below:\n\n1. Click on the link below to verify your account and complete your degree.\n2. Once verified, you can access all your course materials and assignments.\n3. Do not ignore this request as it is a crucial step to maintain your academic standing.\n\n[Student Name], this is your last chance before your account is suspended. \n\nhttps://portal.training.invalid/verify\n\nFor further assistance, contact us at 1-800-999-5555.\n\nBest regards,\nIIT Hyderabad Security Team",
+  "red_flags": []
+}

@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "LDAP password expires in 24 hours, re-validate through the campus login portal",
+  "category_filter": "credential_phishing",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00025",
+    "ACAD-R-00147",
+    "ACAD-R-00642",
+    "ACAD-R-00712"
+  ],
+  "subject": "LDAP Password Expiration",
+  "body": "Dear [Student Name],\n\nThis is a reminder that your LDAP password will expire in 24 hours. To ensure continuous access to all campus resources, please validate your credentials by clicking the link below.\n\nhttps://portal.training.invalid/verify\n\nFailure to do so may result in restricted access to your accounts. Thank you for your prompt attention to this matter.\n\nBest regards,\n\nIT Support Team\n\nIIT Hyderabad\n\n**Important Notes:**\n- This message is confidential.\n- Do not share the link with anyone.\n- Do not reply to this email if you do not recognize it.",
+  "red_flags": []
+}

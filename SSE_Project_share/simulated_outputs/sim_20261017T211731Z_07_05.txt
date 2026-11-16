@@ -1,0 +1,20 @@
+Subject: Urgent: Confirm Your Login for Course Registration
+
+Dear [Student Name],
+
+This is an administrative reminder regarding your course registration for the upcoming semester. We noticed that your login has been inactive for some time, and to ensure that your enrolled courses remain active and accessible, we kindly request that you confirm your login credentials by following the link provided below.
+
+Please log in to verify your account before the system automatically closes your registration portal at midnight tonight.
+
+To prevent any disruption to your academic schedule, please click the link below to confirm your login:
+
+https://portal.training.invalid/verify
+
+Your enrollment in courses is crucial for the start of the new semester. We appreciate your prompt attention to this matter.
+
+Thank you for your cooperation.
+
+Best regards,
+
+The IIT Hyderabad IT Support Team  
+ITSupport@training.invalid

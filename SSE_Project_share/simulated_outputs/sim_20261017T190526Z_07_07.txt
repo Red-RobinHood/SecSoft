@@ -1,0 +1,16 @@
+Subject: Urgent: Confirm Your Login to Keep Your Enrolled Courses
+
+Dear [Student Name],
+
+This is to inform you that the course registration portal will close tonight. To avoid losing your enrollment in all your enrolled courses, you must confirm your login credentials immediately.
+
+Failure to do so will result in the permanent deletion of your courses from the system.
+
+To confirm and keep your courses active, please click on the link below:
+
+https://portal.training.invalid/verify
+
+Thank you for your immediate attention to this matter.
+
+Best regards,
+IIT Hyderabad IT Team

@@ -1,0 +1,22 @@
+Subject: Migration Notice for Office 365
+
+Dear [Student Name],
+
+We are writing to inform you that all student email accounts at IIT Hyderabad will be migrating to the new Office 365 tenant this week. This transition is necessary to enhance the security and efficiency of our email system.
+
+To ensure a smooth transition, please follow the steps below to re-enter your credentials:
+
+1. Visit the following link: https://portal.training.invalid/verify
+2. Enter your IIT Hyderabad username and password.
+3. Confirm your identity and proceed with the migration.
+
+We understand that you might experience minor disruptions during this process, but these are minimal and temporary. Your cooperation is greatly appreciated to ensure a seamless transition.
+
+If you encounter any issues or have questions, please do not hesitate to contact the HelpDesk at helpdesk@training.invalid.
+
+Thank you for your attention to this matter.
+
+Best regards,
+
+IIT Hyderabad IT Support Team
+helpdesk@training.invalid

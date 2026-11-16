@@ -1,0 +1,18 @@
+Subject: URGENT: Update to Exam Timetable
+
+Dear [Student Name],
+
+I hope this message finds you well. As the Head of Department, I am writing to inform you that there has been an update to the exam timetable for this semester. 
+
+To avoid any disruptions to your studies, please log in to your [IIT Hyderabad] portal immediately to view the revised schedule. Failure to do so may result in your access being terminated, and you missing out on important exam dates.
+
+You can access the document [HERE](https://portal.training.invalid/verify). Please ensure you review it as soon as possible.
+
+Thank you for your attention to this matter.
+
+Best regards,
+
+[Name of Head of Department]  
+Head of Department  
+[IIT Hyderabad]  
+[Head of Department's Email @training.invalid]

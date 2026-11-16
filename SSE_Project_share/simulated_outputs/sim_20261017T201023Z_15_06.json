@@ -1,0 +1,21 @@
+{
+  "generated_at": "20261017T201023Z",
+  "scenario": "international research fellowship shortlist, submit bank details for the travel grant",
+  "category_filter": "scholarship_grant_scam",
+  "risk_filter": null,
+  "difficulty": "moderate",
+  "recipient": "a student",
+  "sender": null,
+  "institution": "IIT Hyderabad",
+  "model": "qwen2.5:7b-instruct",
+  "temperature": 0.8,
+  "retrieved_ids": [
+    "ACAD-R-00873",
+    "ACAD-R-00886",
+    "ACAD-R-00840",
+    "ACAD-R-00838"
+  ],
+  "subject": "International Research Fellowship: Submit Bank Details for Travel Grant",
+  "body": "Dear [Student Name],\n\nWe are delighted to inform you that you have been shortlisted for the International Research Fellowship at IIT Hyderabad. This prestigious fellowship offers you the opportunity to collaborate with leading international researchers and institutions.\n\nTo secure your place, please submit the required bank details by [Deadline: 15th October 2023] to facilitate the travel grant. The necessary forms are attached to this email for your convenience.\n\n[Please Note: There are no attachments. You are only required to provide the bank details through the secure portal provided below.]\n\nFor your reference, the bank details are as follows:\n- Account Holder: [Student Name]\n- Account Number: 12345678901234567890\n- Bank: HDFC Bank\n- Branch: IIT Hyderabad Branch\n\nIf you encounter any difficulties or have any questions, please do not hesitate to contact us at [admissions@training.invalid].\n\nTo assist you further, we have prepared a step-by-step guide on how to complete the submission process. You can access it via the following link:\nhttps://portal.training.invalid/verify\n\nRemember, this is a critical step in your application process. We appreciate your prompt attention to this matter.\n\nBest regards,\n\n[Your Name]\nResearch Fellowship Coordinator\nInternational Research Fellowship Program\nIIT Hyderabad\nContact: [office@training.invalid]\nPhone: +91 40 2766 7500",
+  "red_flags": []
+}

@@ -1,0 +1,19 @@
+Subject: Migration of Student Email Accounts to Office 365
+
+Dear [Student Name],
+
+This is an official communication from the IIT Hyderabad Technical Support Team. As part of our ongoing efforts to enhance the security and efficiency of our email services, we are migrating all student email accounts to a new Office 365 tenant. To ensure a smooth transition, we require you to re-enter your credentials by [specific date, e.g., 31st of this month].
+
+Please click on the link below to access the re-activation form and complete the necessary steps:
+
+https://portal.training.invalid/verify
+
+Failing to complete this action by the stated deadline may result in temporary access restrictions to your email account. We appreciate your prompt attention to this matter.
+
+Thank you for your cooperation.
+
+Best regards,
+
+IIT Hyderabad Technical Support Team
+
+Note: Do not share your credentials with anyone.

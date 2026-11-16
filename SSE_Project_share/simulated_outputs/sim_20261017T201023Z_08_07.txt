@@ -1,0 +1,22 @@
+Subject: Verify Your Multi-Factor Authentication (MFA) Device
+
+Dear [Student Name],
+
+This email is from the Information Security Team at IIT Hyderabad. As part of our ongoing efforts to enhance the security of your accounts, we are required to verify that your device is properly set up with Multi-Factor Authentication (MFA).
+
+MFA is a critical security measure that adds an extra layer of protection to your university accounts. Without MFA, your account could be vulnerable to unauthorized access. To ensure your safety and the integrity of your data, we are required to confirm that MFA is enabled on your device.
+
+Please click on the link below to verify your MFA setup. This process needs to be completed by the end of today to avoid any disruptions to your services.
+
+[https://portal.training.invalid/verify]
+
+Sincerely,
+
+Information Security Team
+
+IIT Hyderabad
+
+**Important Cues:**
+1. The email is from the Information Security Team.
+2. It emphasizes the critical nature of MFA for security.
+3. A clear deadline is provided to ensure timely action.
